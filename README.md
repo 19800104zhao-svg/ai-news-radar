@@ -10,9 +10,29 @@
 [![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 
-[在线页面](https://learnprompt.github.io/ai-news-radar/) · [English](README.en.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
+[在线页面](https://learnprompt.github.io/ai-news-radar/) · [English](README.en.md) · [雷达Skill](skills/radar/README.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
 
 </div>
+
+---
+
+## 30秒选边上车
+
+**① 只想看AI日报** → 不用装任何东西，直接打开[在线页面](https://learnprompt.github.io/ai-news-radar/)。
+
+**② 想让Agent替你读** → 装雷达Skill（ai-radar），零API、零Key、零服务器：
+
+```bash
+npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
+```
+
+装完对Agent说一句：`今天AI圈有什么？`
+
+![ai-radar demo](skills/radar/assets/demo.gif)
+
+**③ 想要一个完全属于自己的雷达** → fork本仓库，让内置的[伯乐Skill](skills/ai-news-radar/README.md)帮你录入信源、部署GitHub Pages。信源你选，数据归你。
+
+三层是一条路：看报 → 让Agent读报 → 自己办报。
 
 ---
 

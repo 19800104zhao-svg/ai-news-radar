@@ -10,9 +10,29 @@
 [![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 
-[Live site](https://learnprompt.github.io/ai-news-radar/) · [中文](README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
+[Live site](https://learnprompt.github.io/ai-news-radar/) · [中文](README.md) · [Radar Skill](skills/radar/README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
 
 </div>
+
+---
+
+## Pick your lane in 30 seconds
+
+**① Just want the daily AI brief** → no install needed, open the [live site](https://learnprompt.github.io/ai-news-radar/).
+
+**② Want your agent to read it for you** → install the Radar Skill (ai-radar). Zero API, zero key, zero server:
+
+```bash
+npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
+```
+
+Then just ask your agent: `What happened in AI today?`
+
+![ai-radar demo](skills/radar/assets/demo.gif)
+
+**③ Want a radar that is fully yours** → fork this repo and let the in-repo [Scout Skill](skills/ai-news-radar/README.md) classify your sources and deploy GitHub Pages. Your sources, your data.
+
+The three lanes are one road: read the brief → let your agent read it → run your own radar.
 
 ---
 
