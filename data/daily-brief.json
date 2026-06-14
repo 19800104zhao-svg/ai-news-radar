@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T23:04:18.827523Z",
+  "generated_at": "2026-06-14T01:43:08.723197Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -133,14 +133,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8728,
-      "importance": 0.8728,
-      "importance_score": 0.8728,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8042,
+        "recency": 0.6939,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -156,6 +156,66 @@
         "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
         "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9130ed772255",
+      "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+      "url": "https://aihot.virxact.com/daily/2026-06-14",
+      "primary_url": "https://aihot.virxact.com/daily/2026-06-14",
+      "source": "AI HOT",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "921fcc1674cc36cc4a0da34ca7427a49c13ea34e",
+          "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+          "url": "https://aihot.virxact.com/daily/2026-06-14",
+          "source": "AI HOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AI HOT"
+      ],
+      "items": [
+        {
+          "id": "921fcc1674cc36cc4a0da34ca7427a49c13ea34e",
+          "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+          "url": "https://aihot.virxact.com/daily/2026-06-14",
+          "source": "AI HOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9284,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T00:00:00Z",
+      "latest_at": "2026-06-14T00:00:00Z",
+      "primary_item": {
+        "id": "921fcc1674cc36cc4a0da34ca7427a49c13ea34e",
+        "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+        "url": "https://aihot.virxact.com/daily/2026-06-14",
+        "source": "AI HOT",
         "source_name": "AI HOT"
       }
     },
@@ -194,14 +254,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.6943,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -254,20 +314,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.789,
+        "recency": 0.6787,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-13T18:00:30Z",
       "latest_at": "2026-06-13T18:00:30Z",
@@ -351,21 +410,20 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.497,
+        "recency": 0.3867,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-13T11:00:00Z",
       "latest_at": "2026-06-13T17:18:14.365000Z",
@@ -431,14 +489,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7373,
+        "recency": 0.627,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -454,278 +512,6 @@
         "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建",
         "url": "https://github.com/DanMcInerney/architect-loop",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b0d10e8dabf2",
-      "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "primary_url": "https://www.anthropic.com/news/fable-mythos-access",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "86402a59e09ae75ecdd087feaf89810655d73cb3",
-          "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T01:15:57Z"
-        },
-        {
-          "id": "7c4d355b39318ffdb7b0a6fb16baa24d6f48f58a",
-          "title": "关于美国政府下令暂停访问《Fable 5》和《Mythos 5》的声明",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T04:00:13.444000Z"
-        },
-        {
-          "id": "1c0603713f60623822c547660603853fade64e1e",
-          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T03:33:10Z"
-        },
-        {
-          "id": "db7f1a08eb0bdfe781f0f9ee59e31db1ee3af5d3",
-          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T01:04:02.471000Z"
-        },
-        {
-          "id": "077ff175ed6fe3054c604cffba4af2c8c11c940a",
-          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T00:51:30Z"
-        },
-        {
-          "id": "98140d0071ebb5d3613c6579e01901f9146e603e",
-          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / US Government directive to suspend access to Fable 5 and Mythos 5",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T00:51:30Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "86402a59e09ae75ecdd087feaf89810655d73cb3",
-          "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T01:15:57Z"
-        },
-        {
-          "id": "7c4d355b39318ffdb7b0a6fb16baa24d6f48f58a",
-          "title": "关于美国政府下令暂停访问《Fable 5》和《Mythos 5》的声明",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T04:00:13.444000Z"
-        },
-        {
-          "id": "1c0603713f60623822c547660603853fade64e1e",
-          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T03:33:10Z"
-        },
-        {
-          "id": "db7f1a08eb0bdfe781f0f9ee59e31db1ee3af5d3",
-          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T01:04:02.471000Z"
-        },
-        {
-          "id": "077ff175ed6fe3054c604cffba4af2c8c11c940a",
-          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T00:51:30Z"
-        },
-        {
-          "id": "98140d0071ebb5d3613c6579e01901f9146e603e",
-          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / US Government directive to suspend access to Fable 5 and Mythos 5",
-          "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T00:51:30Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0914,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T00:51:30Z",
-      "latest_at": "2026-06-13T04:00:13.444000Z",
-      "primary_item": {
-        "id": "86402a59e09ae75ecdd087feaf89810655d73cb3",
-        "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
-        "url": "https://www.anthropic.com/news/fable-mythos-access",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c368b693a797",
-      "title": "Anthropic 应政府要求切断 Fable 5 和 Mythos 5 模型访问",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c83e70e2adbcfd6a2627b6f8a312842f2bb9f0ea",
-          "title": "Anthropic 应政府要求切断 Fable 5 和 Mythos 5 模型访问",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T12:55:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c83e70e2adbcfd6a2627b6f8a312842f2bb9f0ea",
-          "title": "Anthropic 应政府要求切断 Fable 5 和 Mythos 5 模型访问",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T12:55:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5774,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T12:55:49Z",
-      "latest_at": "2026-06-13T12:55:49Z",
-      "primary_item": {
-        "id": "c83e70e2adbcfd6a2627b6f8a312842f2bb9f0ea",
-        "title": "Anthropic 应政府要求切断 Fable 5 和 Mythos 5 模型访问",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_780600180ce9",
-      "title": "美国商务部下令Anthropic全球关闭Fable 5和Mythos 5",
-      "url": "https://x.com/kimmonismus/status/2065774154968711429",
-      "primary_url": "https://x.com/kimmonismus/status/2065774154968711429",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ad09f226021e2fbb9f4d6c91b3211608c696c5c5",
-          "title": "美国商务部下令Anthropic全球关闭Fable 5和Mythos 5",
-          "url": "https://x.com/kimmonismus/status/2065774154968711429",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T12:31:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "ad09f226021e2fbb9f4d6c91b3211608c696c5c5",
-          "title": "美国商务部下令Anthropic全球关闭Fable 5和Mythos 5",
-          "url": "https://x.com/kimmonismus/status/2065774154968711429",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T12:31:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5608,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T12:31:53Z",
-      "latest_at": "2026-06-13T12:31:53Z",
-      "primary_item": {
-        "id": "ad09f226021e2fbb9f4d6c91b3211608c696c5c5",
-        "title": "美国商务部下令Anthropic全球关闭Fable 5和Mythos 5",
-        "url": "https://x.com/kimmonismus/status/2065774154968711429",
-        "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
       }
     },
@@ -783,14 +569,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.717,
-      "importance": 0.717,
-      "importance_score": 0.717,
+      "score": 0.695,
+      "importance": 0.695,
+      "importance_score": 0.695,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4002,
+        "recency": 0.2899,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -862,14 +648,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7016,
-      "importance": 0.7016,
-      "importance_score": 0.7016,
+      "score": 0.6795,
+      "importance": 0.6795,
+      "importance_score": 0.6795,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.323,
+        "recency": 0.2127,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -941,14 +727,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6651,
-      "importance": 0.6651,
-      "importance_score": 0.6651,
+      "score": 0.643,
+      "importance": 0.643,
+      "importance_score": 0.643,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1404,
+        "recency": 0.0301,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -967,82 +753,237 @@
       }
     },
     {
-      "story_id": "story_207f4f6cdff0",
-      "title": "OpenAI 遭多州总检察长联合调查",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-      "source": "Bloomberg：Technology（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_5b042e5ab0c4",
+      "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
+      "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4867123.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "68dfdd5395ad760fed86d1ed75c23bcccd76c70c",
-          "title": "OpenAI 遭多州总检察长联合调查",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-          "source": "Bloomberg：Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T00:27:02Z"
+          "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
+          "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
+          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "33825ce5f8a37aedc2afe97bb3f0164d4906b7fb",
-          "title": "OpenAI 遭到各州总检察长联盟的调查",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T00:48:08.018000Z"
+          "id": "35d4a775562d72156cd2c8b90c5f9ca0645c672d",
+          "title": "奇点终于临近，未来却是一个大大的问号：从Anthropic的《当AI开始建造自己》说起",
+          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T01:05:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Bloomberg：Technology（RSS）",
-        "www.bloomberg.com"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "68dfdd5395ad760fed86d1ed75c23bcccd76c70c",
-          "title": "OpenAI 遭多州总检察长联合调查",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-          "source": "Bloomberg：Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T00:27:02Z"
+          "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
+          "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
+          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "33825ce5f8a37aedc2afe97bb3f0164d4906b7fb",
-          "title": "OpenAI 遭到各州总检察长联盟的调查",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T00:48:08.018000Z"
+          "id": "35d4a775562d72156cd2c8b90c5f9ca0645c672d",
+          "title": "奇点终于临近，未来却是一个大大的问号：从Anthropic的《当AI开始建造自己》说起",
+          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T01:05:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6485,
-      "importance": 0.6485,
-      "importance_score": 0.6485,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0574,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-13T00:27:02Z",
-      "latest_at": "2026-06-13T00:48:08.018000Z",
+      "earliest_at": "2026-06-14T01:05:05Z",
+      "latest_at": "2026-06-14T01:43:08.723197Z",
       "primary_item": {
-        "id": "68dfdd5395ad760fed86d1ed75c23bcccd76c70c",
-        "title": "OpenAI 遭多州总检察长联合调查",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-        "source": "Bloomberg：Technology（RSS）",
-        "source_name": "AI HOT"
+        "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
+        "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
+        "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b90255103e5d",
+      "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
+      "url": "https://news.ycombinator.com/item?id=48522675",
+      "primary_url": "https://news.ycombinator.com/item?id=48522675",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d8d3062ffa45576bcd90f9e6ccb70b866a2976da",
+          "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
+          "url": "https://news.ycombinator.com/item?id=48522675",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T01:30:53.768000Z"
+        },
+        {
+          "id": "9e32a4578e0453d2e46806bb40f348d7882edeb3",
+          "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
+          "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T23:52:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d8d3062ffa45576bcd90f9e6ccb70b866a2976da",
+          "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
+          "url": "https://news.ycombinator.com/item?id=48522675",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T01:30:53.768000Z"
+        },
+        {
+          "id": "9e32a4578e0453d2e46806bb40f348d7882edeb3",
+          "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
+          "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T23:52:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9915,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T23:52:19Z",
+      "latest_at": "2026-06-14T01:30:53.768000Z",
+      "primary_item": {
+        "id": "d8d3062ffa45576bcd90f9e6ccb70b866a2976da",
+        "title": "州总检察长正在调查 OpenAI / State Attorneys General Are Investigating OpenAI",
+        "url": "https://news.ycombinator.com/item?id=48522675",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_a9f0533a771d",
+      "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
+      "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
+      "primary_url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0c8547cdab87198cd4b085ce6c7e620357315cf",
+          "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
+          "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T23:26:04.637000Z"
+        },
+        {
+          "id": "11f4199e1762e807b9b69869befd086d776696aa",
+          "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响 / OpenAI says it's 'committed to learning' as a coalition of states investigates ChatGPT's impact on young users",
+          "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T21:28:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d0c8547cdab87198cd4b085ce6c7e620357315cf",
+          "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
+          "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T23:26:04.637000Z"
+        },
+        {
+          "id": "11f4199e1762e807b9b69869befd086d776696aa",
+          "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响 / OpenAI says it's 'committed to learning' as a coalition of states investigates ChatGPT's impact on young users",
+          "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T21:28:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9048,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T21:28:22Z",
+      "latest_at": "2026-06-13T23:26:04.637000Z",
+      "primary_item": {
+        "id": "d0c8547cdab87198cd4b085ce6c7e620357315cf",
+        "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
+        "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1134,14 +1075,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5477,
-      "importance": 0.5477,
-      "importance_score": 0.5477,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7486,
+        "recency": 0.6383,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1156,6 +1097,83 @@
         "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e65c2057c12e",
+      "title": "Anthropic 禁用 Fable 5 模型，亚马逊 CEO 贾西或是背后导火索",
+      "url": "https://www.ithome.com/0/963/991.htm",
+      "primary_url": "https://www.ithome.com/0/963/991.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f724fba949ad3e3b05777e6e94260ffefa92f5dc",
+          "title": "Anthropic 禁用 Fable 5 模型，亚马逊 CEO 贾西或是背后导火索",
+          "url": "https://www.ithome.com/0/963/991.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T22:52:46Z"
+        },
+        {
+          "id": "ef83980cf509413e56acd77a03b0832f0bc4a6eb",
+          "title": "让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊",
+          "url": "https://www.ithome.com/0/963/991.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T22:52:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "f724fba949ad3e3b05777e6e94260ffefa92f5dc",
+          "title": "Anthropic 禁用 Fable 5 模型，亚马逊 CEO 贾西或是背后导火索",
+          "url": "https://www.ithome.com/0/963/991.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T22:52:46Z"
+        },
+        {
+          "id": "ef83980cf509413e56acd77a03b0832f0bc4a6eb",
+          "title": "让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊",
+          "url": "https://www.ithome.com/0/963/991.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T22:52:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8817,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T22:52:46Z",
+      "latest_at": "2026-06-13T22:52:46Z",
+      "primary_item": {
+        "id": "f724fba949ad3e3b05777e6e94260ffefa92f5dc",
+        "title": "Anthropic 禁用 Fable 5 模型，亚马逊 CEO 贾西或是背后导火索",
+        "url": "https://www.ithome.com/0/963/991.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1231,14 +1249,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8373,
+        "recency": 0.727,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1253,6 +1271,84 @@
         "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
         "source": "stephen.bochinski.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_edd4b53532af",
+      "title": "陈宇森，会是 AI 时代的蒋凡吗？",
+      "url": "https://www.huxiu.com/article/4867121.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4867121.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "657ae87a2b353742a40405911beff406cc90800e",
+          "title": "陈宇森，会是 AI 时代的蒋凡吗？",
+          "url": "https://www.huxiu.com/article/4867121.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7a5b4d475066e2c64205622cf2ac3c6636296659",
+          "title": "陈宇森，会是AI时代的蒋凡吗？",
+          "url": "https://www.huxiu.com/article/4867121.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T01:00:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "657ae87a2b353742a40405911beff406cc90800e",
+          "title": "陈宇森，会是 AI 时代的蒋凡吗？",
+          "url": "https://www.huxiu.com/article/4867121.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7a5b4d475066e2c64205622cf2ac3c6636296659",
+          "title": "陈宇森，会是AI时代的蒋凡吗？",
+          "url": "https://www.huxiu.com/article/4867121.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T01:00:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T01:00:28Z",
+      "latest_at": "2026-06-14T01:43:08.723197Z",
+      "primary_item": {
+        "id": "657ae87a2b353742a40405911beff406cc90800e",
+        "title": "陈宇森，会是 AI 时代的蒋凡吗？",
+        "url": "https://www.huxiu.com/article/4867121.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1309,14 +1405,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.7582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1443,14 +1539,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4819,
+        "recency": 0.3716,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1464,259 +1560,6 @@
         "title": "开源人工智能必须胜出",
         "url": "https://opensourceaimustwin.com",
         "source": "opensourceaimustwin.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fc780e0ad91f",
-      "title": "科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调",
-      "url": "https://www.ithome.com/0/963/990.htm",
-      "primary_url": "https://www.ithome.com/0/963/990.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0724bad87131212649601c935cf747ebd536c314",
-          "title": "科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调",
-          "url": "https://www.ithome.com/0/963/990.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "cd05c21e1c5b4a18d57c2cf63e79e2f076267eda",
-          "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
-          "url": "https://www.ithome.com/0/963/990.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T15:21:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0724bad87131212649601c935cf747ebd536c314",
-          "title": "科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调",
-          "url": "https://www.ithome.com/0/963/990.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "cd05c21e1c5b4a18d57c2cf63e79e2f076267eda",
-          "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
-          "url": "https://www.ithome.com/0/963/990.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T15:21:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.794,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T15:21:21Z",
-      "latest_at": "2026-06-13T18:07:38.314412Z",
-      "primary_item": {
-        "id": "0724bad87131212649601c935cf747ebd536c314",
-        "title": "科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调",
-        "url": "https://www.ithome.com/0/963/990.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d3bb048b2ea1",
-      "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://news.ycombinator.com/item?id=48516504",
-      "primary_url": "https://news.ycombinator.com/item?id=48516504",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-          "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://news.ycombinator.com/item?id=48516504",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T15:02:36.072000Z"
-        },
-        {
-          "id": "c34a7d558e5fb3f86d00b138a0d4b1588f3548d7",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T14:54:03.054000Z"
-        },
-        {
-          "id": "c4a4c8be2a32d31f0866e9410377695cdafe51d5",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T12:10:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-          "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://news.ycombinator.com/item?id=48516504",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T15:02:36.072000Z"
-        },
-        {
-          "id": "c34a7d558e5fb3f86d00b138a0d4b1588f3548d7",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T14:54:03.054000Z"
-        },
-        {
-          "id": "c4a4c8be2a32d31f0866e9410377695cdafe51d5",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T12:10:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6655,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T12:10:47Z",
-      "latest_at": "2026-06-13T15:02:36.072000Z",
-      "primary_item": {
-        "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-        "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-        "url": "https://news.ycombinator.com/item?id=48516504",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_dfe9a7c4e889",
-      "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。",
-      "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
-      "primary_url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "df8e902fb156ab67195578638a84e4e57b9976fb",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。",
-          "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:50:10.367000Z"
-        },
-        {
-          "id": "f4c6858a35526e556d79ad03ab7dccfeedfc47c7",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。 / Anthropic CEO Dario Amodei warned Mythos posed a national security threat. Washington just responded.",
-          "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T16:31:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "df8e902fb156ab67195578638a84e4e57b9976fb",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。",
-          "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:50:10.367000Z"
-        },
-        {
-          "id": "f4c6858a35526e556d79ad03ab7dccfeedfc47c7",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。 / Anthropic CEO Dario Amodei warned Mythos posed a national security threat. Washington just responded.",
-          "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T16:31:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7818,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T16:31:13Z",
-      "latest_at": "2026-06-13T17:50:10.367000Z",
-      "primary_item": {
-        "id": "df8e902fb156ab67195578638a84e4e57b9976fb",
-        "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。",
-        "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1774,14 +1617,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4866,
-      "importance": 0.4866,
-      "importance_score": 0.4866,
+      "score": 0.4645,
+      "importance": 0.4645,
+      "importance_score": 0.4645,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6929,
+        "recency": 0.5826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1795,6 +1638,102 @@
         "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
         "url": "https://slopscan.ava.pet",
         "source": "slopscan.ava.pet",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6c328bc3821a",
+      "title": "《牧羊犬：由最危险的AI模型打造的游戏》",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "primary_url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "source": "koenvangilst.nl",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "98f2c14870b56df450b3c55a7ece2e5e636e4853",
+          "title": "《牧羊犬：由最危险的AI模型打造的游戏》",
+          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+          "source": "koenvangilst.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T12:13:58.475000Z"
+        },
+        {
+          "id": "cbdc036e97b598542c5bc941c050de9f6a35d0f5",
+          "title": "《牧羊犬：由最危险的AI模型打造的游戏》 / Shepherd's Dog: A Game by Fable",
+          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T05:44:46Z"
+        },
+        {
+          "id": "bd1ea126fb19228132667c89045818befbb3fbdf",
+          "title": "《牧羊犬：由最危险的AI模型打造的游戏》 / Shepherd's Dog: A Game by the Most Dangerous AI Model",
+          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T05:44:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "koenvangilst.nl"
+      ],
+      "items": [
+        {
+          "id": "98f2c14870b56df450b3c55a7ece2e5e636e4853",
+          "title": "《牧羊犬：由最危险的AI模型打造的游戏》",
+          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+          "source": "koenvangilst.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T12:13:58.475000Z"
+        },
+        {
+          "id": "cbdc036e97b598542c5bc941c050de9f6a35d0f5",
+          "title": "《牧羊犬：由最危险的AI模型打造的游戏》 / Shepherd's Dog: A Game by Fable",
+          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T05:44:46Z"
+        },
+        {
+          "id": "bd1ea126fb19228132667c89045818befbb3fbdf",
+          "title": "《牧羊犬：由最危险的AI模型打造的游戏》 / Shepherd's Dog: A Game by the Most Dangerous AI Model",
+          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T05:44:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4606,
+      "importance": 0.4606,
+      "importance_score": 0.4606,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4381,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T05:44:46Z",
+      "latest_at": "2026-06-13T12:13:58.475000Z",
+      "primary_item": {
+        "id": "98f2c14870b56df450b3c55a7ece2e5e636e4853",
+        "title": "《牧羊犬：由最危险的AI模型打造的游戏》",
+        "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+        "source": "koenvangilst.nl",
         "source_name": "Buzzing"
       }
     }
