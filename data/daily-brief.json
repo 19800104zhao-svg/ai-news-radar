@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T01:43:08.723197Z",
+  "generated_at": "2026-06-14T06:41:17.901321Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -133,14 +133,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6939,
+        "recency": 0.4868,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -156,6 +156,126 @@
         "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
         "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a3d9080ab66",
+      "title": "Anthropic 上市前夕",
+      "url": "https://x.com/xiaohu/status/2065991805238497732",
+      "primary_url": "https://x.com/xiaohu/status/2065991805238497732",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4f1d143fcb97e2a7ec3e05130a048942ec463f43",
+          "title": "Anthropic 上市前夕",
+          "url": "https://x.com/xiaohu/status/2065991805238497732",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T02:56:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小互 (@xiaohu)"
+      ],
+      "items": [
+        {
+          "id": "4f1d143fcb97e2a7ec3e05130a048942ec463f43",
+          "title": "Anthropic 上市前夕",
+          "url": "https://x.com/xiaohu/status/2065991805238497732",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T02:56:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8441,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T02:56:45Z",
+      "latest_at": "2026-06-14T02:56:45Z",
+      "primary_item": {
+        "id": "4f1d143fcb97e2a7ec3e05130a048942ec463f43",
+        "title": "Anthropic 上市前夕",
+        "url": "https://x.com/xiaohu/status/2065991805238497732",
+        "source": "X：小互 (@xiaohu)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8054bc1bd718",
+      "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
+      "primary_url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
+          "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
+          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T00:03:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
+          "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
+          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T00:03:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.724,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T00:03:49Z",
+      "latest_at": "2026-06-14T00:03:49Z",
+      "primary_item": {
+        "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
+        "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
+        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -194,14 +314,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9284,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -216,125 +336,6 @@
         "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
         "url": "https://aihot.virxact.com/daily/2026-06-14",
         "source": "AI HOT",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bdfd4e87287a",
-      "title": "Suno 音轨分离：从零生成更纯净",
-      "url": "https://x.com/suno/status/2065862499765821916",
-      "primary_url": "https://x.com/suno/status/2065862499765821916",
-      "source": "X：Suno (@suno)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf7c29043aa0b78563de9032170e7fe468897623",
-          "title": "Suno 音轨分离：从零生成更纯净",
-          "url": "https://x.com/suno/status/2065862499765821916",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T18:22:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Suno (@suno)"
-      ],
-      "items": [
-        {
-          "id": "bf7c29043aa0b78563de9032170e7fe468897623",
-          "title": "Suno 音轨分离：从零生成更纯净",
-          "url": "https://x.com/suno/status/2065862499765821916",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T18:22:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6943,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-13T18:22:56Z",
-      "latest_at": "2026-06-13T18:22:56Z",
-      "primary_item": {
-        "id": "bf7c29043aa0b78563de9032170e7fe468897623",
-        "title": "Suno 音轨分离：从零生成更纯净",
-        "url": "https://x.com/suno/status/2065862499765821916",
-        "source": "X：Suno (@suno)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8bc58a6fb0e6",
-      "title": "Fusion API：半价达Fable级智能",
-      "url": "https://x.com/OpenRouter/status/2065856853989270011",
-      "primary_url": "https://x.com/OpenRouter/status/2065856853989270011",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6cb239a403f98f0a135ba676292d22341c109e2f",
-          "title": "Fusion API：半价达Fable级智能",
-          "url": "https://x.com/OpenRouter/status/2065856853989270011",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T18:00:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "6cb239a403f98f0a135ba676292d22341c109e2f",
-          "title": "Fusion API：半价达Fable级智能",
-          "url": "https://x.com/OpenRouter/status/2065856853989270011",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T18:00:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6787,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T18:00:30Z",
-      "latest_at": "2026-06-13T18:00:30Z",
-      "primary_item": {
-        "id": "6cb239a403f98f0a135ba676292d22341c109e2f",
-        "title": "Fusion API：半价达Fable级智能",
-        "url": "https://x.com/OpenRouter/status/2065856853989270011",
-        "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
       }
     },
@@ -410,14 +411,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.6979,
+      "importance": 0.6979,
+      "importance_score": 0.6979,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3867,
+        "recency": 0.1797,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -489,21 +490,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.627,
+        "recency": 0.42,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-13T16:46:05Z",
       "latest_at": "2026-06-13T16:46:05.572000Z",
@@ -569,14 +569,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.695,
-      "importance": 0.695,
-      "importance_score": 0.695,
+      "score": 0.6536,
+      "importance": 0.6536,
+      "importance_score": 0.6536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2899,
+        "recency": 0.0829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -648,14 +648,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6795,
-      "importance": 0.6795,
-      "importance_score": 0.6795,
+      "score": 0.6381,
+      "importance": 0.6381,
+      "importance_score": 0.6381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2127,
+        "recency": 0.0056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -674,134 +674,55 @@
       }
     },
     {
-      "story_id": "story_78be1495ac07",
-      "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
-      "primary_url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
-          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
-          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T02:26:30Z"
-        },
-        {
-          "id": "8e1d4e9d6d7ccf272a8f9a2fe9ba7821ea10924d",
-          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI / Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T02:26:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
-          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
-          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T02:26:30Z"
-        },
-        {
-          "id": "8e1d4e9d6d7ccf272a8f9a2fe9ba7821ea10924d",
-          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI / Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T02:26:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.643,
-      "importance": 0.643,
-      "importance_score": 0.643,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0301,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T02:26:30Z",
-      "latest_at": "2026-06-13T02:26:30Z",
-      "primary_item": {
-        "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
-        "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
-        "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5b042e5ab0c4",
-      "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
-      "url": "https://www.huxiu.com/article/4867123.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4867123.html?f=rss",
+      "story_id": "story_648a563bd218",
+      "title": "OSCHINA-开源 × AI・开发者生态社区",
+      "url": "https://www.oschina.net/news/458347",
+      "primary_url": "https://www.oschina.net/news/458347",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
-          "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
-          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "id": "1fca748b68b2f6d0f2fce3e7d803da880dcdbb1b",
+          "title": "OSCHINA-开源 × AI・开发者生态社区",
+          "url": "https://www.oschina.net/news/458347",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "35d4a775562d72156cd2c8b90c5f9ca0645c672d",
-          "title": "奇点终于临近，未来却是一个大大的问号：从Anthropic的《当AI开始建造自己》说起",
-          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T01:05:05Z"
+          "id": "e9f35a030dcc955e7e897521f5d10021c92af0ec",
+          "title": "知识管理系统 WCP5.0.1 发布，全面重构支持AI工作流引擎编排",
+          "url": "https://www.oschina.net/news/458347",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
         "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "开源中国 · 热门资讯"
       ],
       "items": [
         {
-          "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
-          "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
-          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "id": "1fca748b68b2f6d0f2fce3e7d803da880dcdbb1b",
+          "title": "OSCHINA-开源 × AI・开发者生态社区",
+          "url": "https://www.oschina.net/news/458347",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "35d4a775562d72156cd2c8b90c5f9ca0645c672d",
-          "title": "奇点终于临近，未来却是一个大大的问号：从Anthropic的《当AI开始建造自己》说起",
-          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T01:05:05Z"
+          "id": "e9f35a030dcc955e7e897521f5d10021c92af0ec",
+          "title": "知识管理系统 WCP5.0.1 发布，全面重构支持AI工作流引擎编排",
+          "url": "https://www.oschina.net/news/458347",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
@@ -820,14 +741,92 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-14T01:05:05Z",
-      "latest_at": "2026-06-14T01:43:08.723197Z",
+      "earliest_at": "2026-06-14T06:41:17.901321Z",
+      "latest_at": "2026-06-14T06:41:17.901321Z",
       "primary_item": {
-        "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
-        "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
-        "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+        "id": "1fca748b68b2f6d0f2fce3e7d803da880dcdbb1b",
+        "title": "OSCHINA-开源 × AI・开发者生态社区",
+        "url": "https://www.oschina.net/news/458347",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_2b46eaad02c6",
+      "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e9b0a47243063e4046de9039730267b379166d5b",
+          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T06:06:10.564000Z"
+        },
+        {
+          "id": "3bcd706cf903a6857ddbd6484aabd39900cd01e4",
+          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人 / Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T23:19:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.com"
+      ],
+      "items": [
+        {
+          "id": "e9b0a47243063e4046de9039730267b379166d5b",
+          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T06:06:10.564000Z"
+        },
+        {
+          "id": "3bcd706cf903a6857ddbd6484aabd39900cd01e4",
+          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人 / Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T23:19:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9756,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T23:19:52Z",
+      "latest_at": "2026-06-14T06:06:10.564000Z",
+      "primary_item": {
+        "id": "e9b0a47243063e4046de9039730267b379166d5b",
+        "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
+        "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -884,14 +883,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9915,
+        "recency": 0.7844,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -906,6 +905,84 @@
         "url": "https://news.ycombinator.com/item?id=48522675",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_ba1d055c7d34",
+      "title": "“告诉他他是一坨屎”：Meta 的新人工智能单元一团糟 / 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
+      "primary_url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "e6e2945f0920f8fe931eaa8f08584160edde3cfc",
+          "title": "“告诉他他是一坨屎”：Meta 的新人工智能单元一团糟 / 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T01:23:45Z"
+        },
+        {
+          "id": "39f6bfae8260f022af5b941c6983eb7e224291e4",
+          "title": "Meta 的混沌 AI 策略 / Meta’s chaotic AI strategy",
+          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T01:23:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "e6e2945f0920f8fe931eaa8f08584160edde3cfc",
+          "title": "“告诉他他是一坨屎”：Meta 的新人工智能单元一团糟 / 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T01:23:45Z"
+        },
+        {
+          "id": "39f6bfae8260f022af5b941c6983eb7e224291e4",
+          "title": "Meta 的混沌 AI 策略 / Meta’s chaotic AI strategy",
+          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T01:23:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7795,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T01:23:45Z",
+      "latest_at": "2026-06-14T01:23:45Z",
+      "primary_item": {
+        "id": "e6e2945f0920f8fe931eaa8f08584160edde3cfc",
+        "title": "“告诉他他是一坨屎”：Meta 的新人工智能单元一团糟 / 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -962,14 +1039,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.4876,
+      "importance": 0.4876,
+      "importance_score": 0.4876,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9048,
+        "recency": 0.6978,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -983,119 +1060,6 @@
         "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
         "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3625dfb80c29",
-      "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:02:14.600000Z"
-        },
-        {
-          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:10:09.405000Z"
-        },
-        {
-          "id": "8acc1372e61f9b08163d5f3b22ecc2a2ae2defe1",
-          "title": "美国禁止在境外使用后，Anthropic 向所有用户封锁了顶级 AI 模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T07:25:58.397000Z"
-        },
-        {
-          "id": "eb2cefaa3b2c62e6939b76fc139877c6b01a2350",
-          "title": "美国禁止境外用户访问，Anthropic下架《Mythos》和《Fable》模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T02:56:01.940000Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:02:14.600000Z"
-        },
-        {
-          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:10:09.405000Z"
-        },
-        {
-          "id": "8acc1372e61f9b08163d5f3b22ecc2a2ae2defe1",
-          "title": "美国禁止在境外使用后，Anthropic 向所有用户封锁了顶级 AI 模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T07:25:58.397000Z"
-        },
-        {
-          "id": "eb2cefaa3b2c62e6939b76fc139877c6b01a2350",
-          "title": "美国禁止境外用户访问，Anthropic下架《Mythos》和《Fable》模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T02:56:01.940000Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6383,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T02:56:01.940000Z",
-      "latest_at": "2026-06-13T17:02:14.600000Z",
-      "primary_item": {
-        "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-        "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -1152,14 +1116,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.4829,
+      "importance": 0.4829,
+      "importance_score": 0.4829,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8817,
+        "recency": 0.6746,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1249,14 +1213,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.477,
+      "importance": 0.477,
+      "importance_score": 0.477,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.727,
+        "recency": 0.52,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1270,6 +1234,179 @@
         "title": "在家学习AI编程，不花大钱",
         "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
         "source": "stephen.bochinski.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5b042e5ab0c4",
+      "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
+      "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4867123.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
+          "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
+          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "35d4a775562d72156cd2c8b90c5f9ca0645c672d",
+          "title": "奇点终于临近，未来却是一个大大的问号：从Anthropic的《当AI开始建造自己》说起",
+          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T01:05:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
+          "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
+          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "35d4a775562d72156cd2c8b90c5f9ca0645c672d",
+          "title": "奇点终于临近，未来却是一个大大的问号：从Anthropic的《当AI开始建造自己》说起",
+          "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T01:05:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7929,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T01:05:05Z",
+      "latest_at": "2026-06-14T01:43:08.723197Z",
+      "primary_item": {
+        "id": "d68e9f760214ace5111572c128ff7b8d9fcfa4bb",
+        "title": "奇点终于临近，未来却是一个大大的问号：从 Anthropic 的《当 AI 开始建造自己》说起",
+        "url": "https://www.huxiu.com/article/4867123.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3625dfb80c29",
+      "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:02:14.600000Z"
+        },
+        {
+          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
+          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:10:09.405000Z"
+        },
+        {
+          "id": "8acc1372e61f9b08163d5f3b22ecc2a2ae2defe1",
+          "title": "美国禁止在境外使用后，Anthropic 向所有用户封锁了顶级 AI 模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T07:25:58.397000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:02:14.600000Z"
+        },
+        {
+          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
+          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:10:09.405000Z"
+        },
+        {
+          "id": "8acc1372e61f9b08163d5f3b22ecc2a2ae2defe1",
+          "title": "美国禁止在境外使用后，Anthropic 向所有用户封锁了顶级 AI 模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T07:25:58.397000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4592,
+      "importance": 0.4592,
+      "importance_score": 0.4592,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4312,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T07:25:58.397000Z",
+      "latest_at": "2026-06-13T17:02:14.600000Z",
+      "primary_item": {
+        "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+        "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -1327,14 +1464,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1405,14 +1542,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4996,
-      "importance": 0.4996,
-      "importance_score": 0.4996,
+      "score": 0.4582,
+      "importance": 0.4582,
+      "importance_score": 0.4582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7582,
+        "recency": 0.5511,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1427,140 +1564,6 @@
         "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
         "source": "Hacker News",
         "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_d39e8382375e",
-      "title": "开源人工智能必须胜出",
-      "url": "https://opensourceaimustwin.com",
-      "primary_url": "https://opensourceaimustwin.com",
-      "source": "opensourceaimustwin.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "db40679adf4cbb63b2d8159fa9467e87397cdb38",
-          "title": "开源人工智能必须胜出",
-          "url": "https://opensourceaimustwin.com",
-          "source": "opensourceaimustwin.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T10:38:11.183000Z"
-        },
-        {
-          "id": "0677736ae139fbf0f46be42f9bf2ac3329b90c05",
-          "title": "开源人工智能必须胜出 / Opensource AI Must Win",
-          "url": "https://opensourceaimustwin.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T10:24:09Z"
-        },
-        {
-          "id": "14fb9bb62a7431a92aa34bc0a9678010f7f7ec7c",
-          "title": "开源人工智能必须获胜 / Open source AI must win",
-          "url": "https://news.ycombinator.com/item?id=48511908",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T04:50:06.940000Z"
-        },
-        {
-          "id": "480bde7c45962e29d04d191d6678cc076ceac299",
-          "title": "开源人工智能必须胜出",
-          "url": "https://opensourceaimustwin.com/?share=v2",
-          "source": "opensourceaimustwin.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T02:56:01.580000Z"
-        },
-        {
-          "id": "5c81eeba22c64c5f9be78a0a3ebd821e0545626c",
-          "title": "开源人工智能必须胜出 / Open source AI must win",
-          "url": "https://opensourceaimustwin.com/?share=v2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T02:14:24Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "opensourceaimustwin.com"
-      ],
-      "items": [
-        {
-          "id": "db40679adf4cbb63b2d8159fa9467e87397cdb38",
-          "title": "开源人工智能必须胜出",
-          "url": "https://opensourceaimustwin.com",
-          "source": "opensourceaimustwin.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T10:38:11.183000Z"
-        },
-        {
-          "id": "0677736ae139fbf0f46be42f9bf2ac3329b90c05",
-          "title": "开源人工智能必须胜出 / Opensource AI Must Win",
-          "url": "https://opensourceaimustwin.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T10:24:09Z"
-        },
-        {
-          "id": "14fb9bb62a7431a92aa34bc0a9678010f7f7ec7c",
-          "title": "开源人工智能必须获胜 / Open source AI must win",
-          "url": "https://news.ycombinator.com/item?id=48511908",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T04:50:06.940000Z"
-        },
-        {
-          "id": "480bde7c45962e29d04d191d6678cc076ceac299",
-          "title": "开源人工智能必须胜出",
-          "url": "https://opensourceaimustwin.com/?share=v2",
-          "source": "opensourceaimustwin.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T02:56:01.580000Z"
-        },
-        {
-          "id": "5c81eeba22c64c5f9be78a0a3ebd821e0545626c",
-          "title": "开源人工智能必须胜出 / Open source AI must win",
-          "url": "https://opensourceaimustwin.com/?share=v2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T02:14:24Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3716,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T02:14:24Z",
-      "latest_at": "2026-06-13T10:38:11.183000Z",
-      "primary_item": {
-        "id": "db40679adf4cbb63b2d8159fa9467e87397cdb38",
-        "title": "开源人工智能必须胜出",
-        "url": "https://opensourceaimustwin.com",
-        "source": "opensourceaimustwin.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1617,14 +1620,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4645,
-      "importance": 0.4645,
-      "importance_score": 0.4645,
+      "score": 0.4231,
+      "importance": 0.4231,
+      "importance_score": 0.4231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5826,
+        "recency": 0.3755,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1638,102 +1641,6 @@
         "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
         "url": "https://slopscan.ava.pet",
         "source": "slopscan.ava.pet",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6c328bc3821a",
-      "title": "《牧羊犬：由最危险的AI模型打造的游戏》",
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "primary_url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "source": "koenvangilst.nl",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "98f2c14870b56df450b3c55a7ece2e5e636e4853",
-          "title": "《牧羊犬：由最危险的AI模型打造的游戏》",
-          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-          "source": "koenvangilst.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T12:13:58.475000Z"
-        },
-        {
-          "id": "cbdc036e97b598542c5bc941c050de9f6a35d0f5",
-          "title": "《牧羊犬：由最危险的AI模型打造的游戏》 / Shepherd's Dog: A Game by Fable",
-          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T05:44:46Z"
-        },
-        {
-          "id": "bd1ea126fb19228132667c89045818befbb3fbdf",
-          "title": "《牧羊犬：由最危险的AI模型打造的游戏》 / Shepherd's Dog: A Game by the Most Dangerous AI Model",
-          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T05:44:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "koenvangilst.nl"
-      ],
-      "items": [
-        {
-          "id": "98f2c14870b56df450b3c55a7ece2e5e636e4853",
-          "title": "《牧羊犬：由最危险的AI模型打造的游戏》",
-          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-          "source": "koenvangilst.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T12:13:58.475000Z"
-        },
-        {
-          "id": "cbdc036e97b598542c5bc941c050de9f6a35d0f5",
-          "title": "《牧羊犬：由最危险的AI模型打造的游戏》 / Shepherd's Dog: A Game by Fable",
-          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T05:44:46Z"
-        },
-        {
-          "id": "bd1ea126fb19228132667c89045818befbb3fbdf",
-          "title": "《牧羊犬：由最危险的AI模型打造的游戏》 / Shepherd's Dog: A Game by the Most Dangerous AI Model",
-          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-13T05:44:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4606,
-      "importance": 0.4606,
-      "importance_score": 0.4606,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4381,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T05:44:46Z",
-      "latest_at": "2026-06-13T12:13:58.475000Z",
-      "primary_item": {
-        "id": "98f2c14870b56df450b3c55a7ece2e5e636e4853",
-        "title": "《牧羊犬：由最危险的AI模型打造的游戏》",
-        "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-        "source": "koenvangilst.nl",
         "source_name": "Buzzing"
       }
     }
