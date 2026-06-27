@@ -1,8 +1,109 @@
 {
-  "generated_at": "2026-06-27T00:07:29.469364Z",
+  "generated_at": "2026-06-27T04:34:24.868194Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_adbd50c1b1db",
+      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "e84bcd00c3a98a59d2762293230a2bde808754cc",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "e84bcd00c3a98a59d2762293230a2bde808754cc",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8677,
+      "importance": 0.8677,
+      "importance_score": 0.8677,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7647,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:00:00Z",
+      "latest_at": "2026-06-26T17:31:54.233000Z",
+      "primary_item": {
+        "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+        "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
@@ -91,18 +192,9 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 10,
+      "source_count": 9,
       "source_names": [
         "Page Fallback"
       ],
@@ -187,27 +279,19 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.912,
-      "importance": 0.912,
-      "importance_score": 0.912,
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
       "importance_label": "多源热议",
       "importance_breakdown": {
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9378,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -216,7 +300,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T03:42:34.190985Z",
+      "earliest_at": "2026-06-26T07:52:52.355645Z",
       "latest_at": "2026-06-27T00:07:29.469364Z",
       "primary_item": {
         "id": "1a3728283570a1e29361ad760b6a6db12750e731",
@@ -261,14 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
+        "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8664,
+        "recency": 0.8953,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,166 +370,6 @@
         "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_adbd50c1b1db",
-      "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T10:00:00Z"
-        },
-        {
-          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
-          "title": "GPT‑5.6 Sol 预览：新一代模型",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:31:54.233000Z"
-        },
-        {
-          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
-          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:06:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T10:00:00Z"
-        },
-        {
-          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
-          "title": "GPT‑5.6 Sol 预览：新一代模型",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:31:54.233000Z"
-        },
-        {
-          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
-          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:06:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.4115,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T10:00:00Z",
-      "latest_at": "2026-06-26T17:31:54.233000Z",
-      "primary_item": {
-        "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-        "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85f3f6a5eb71",
-      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-      "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
-      "primary_url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
-          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T23:31:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
-          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T23:31:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.975,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T23:31:29Z",
-      "latest_at": "2026-06-26T23:31:29Z",
-      "primary_item": {
-        "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
-        "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-        "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -482,14 +407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
+        "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6858,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -506,6 +432,148 @@
         "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8a4fe10cc807",
+      "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+      "url": "https://www.ithome.com/0/969/334.htm",
+      "primary_url": "https://www.ithome.com/0/969/334.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T03:39:06Z"
+        },
+        {
+          "id": "9c6d456aadfcd0703bc63048d704f26210fe64eb",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T03:39:06Z"
+        },
+        {
+          "id": "9c6d456aadfcd0703bc63048d704f26210fe64eb",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9868,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T03:39:06Z",
+      "latest_at": "2026-06-27T04:34:24.868194Z",
+      "primary_item": {
+        "id": "ab5269659ec754e3674a00887b02acdec8330fa3",
+        "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+        "url": "https://www.ithome.com/0/969/334.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_85f3f6a5eb71",
+      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+      "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "primary_url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T23:31:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T23:31:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9297,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T23:31:29Z",
+      "latest_at": "2026-06-26T23:31:29Z",
+      "primary_item": {
+        "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+        "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+        "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -543,14 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8315,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -603,14 +672,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6971,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,19 +733,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.646,
+        "recency": 0.8295,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
       "earliest_at": "2026-06-26T15:37:43Z",
       "latest_at": "2026-06-26T15:37:43Z",
@@ -722,19 +794,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6329,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
       "earliest_at": "2026-06-26T15:18:56Z",
       "latest_at": "2026-06-26T15:18:56Z",
@@ -744,6 +818,149 @@
         "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
         "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3913a744a585",
+      "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
+      "url": "https://www.ithome.com/0/969/311.htm",
+      "primary_url": "https://www.ithome.com/0/969/311.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6fc5449d5cdd75fb091b372214940eb56fd6bfd5",
+          "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
+          "url": "https://www.ithome.com/0/969/311.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T01:43:18Z"
+        },
+        {
+          "id": "0628a2fac83615c1011227267aaeb61436acaa31",
+          "title": "国家统计局：电子行业利润 1-5 月增长 103.9%，AI 驱动高端算力 / 存储芯片需求爆发",
+          "url": "https://www.ithome.com/0/969/311.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T01:43:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6fc5449d5cdd75fb091b372214940eb56fd6bfd5",
+          "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
+          "url": "https://www.ithome.com/0/969/311.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T01:43:18Z"
+        },
+        {
+          "id": "0628a2fac83615c1011227267aaeb61436acaa31",
+          "title": "国家统计局：电子行业利润 1-5 月增长 103.9%，AI 驱动高端算力 / 存储芯片需求爆发",
+          "url": "https://www.ithome.com/0/969/311.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T01:43:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9597,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T01:43:18Z",
+      "latest_at": "2026-06-27T01:43:18Z",
+      "primary_item": {
+        "id": "6fc5449d5cdd75fb091b372214940eb56fd6bfd5",
+        "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
+        "url": "https://www.ithome.com/0/969/311.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eaa14c52b6e0",
+      "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "primary_url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7708,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:32:58Z",
+      "latest_at": "2026-06-26T10:32:58Z",
+      "primary_item": {
+        "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+        "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -800,17 +1017,18 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7016,
-      "importance": 0.7016,
-      "importance_score": 0.7016,
-      "importance_label": "值得关注",
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
+      "importance_label": "行业动态",
       "importance_breakdown": {
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3232,
+        "recency": 0.7417,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -826,842 +1044,423 @@
       }
     },
     {
-      "story_id": "story_eaa14c52b6e0",
-      "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
-      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
-      "primary_url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6da74133e3ec",
+      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+      "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+      "primary_url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
-          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
-          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T10:32:58Z"
+          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T10:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
-          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
-          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T10:32:58Z"
+          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "官方更新",
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4344,
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7647,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T10:32:58Z",
-      "latest_at": "2026-06-26T10:32:58Z",
+      "earliest_at": "2026-06-26T10:00:00Z",
+      "latest_at": "2026-06-26T10:00:00Z",
       "primary_item": {
-        "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
-        "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
-        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+        "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+        "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5a8665b1ad52",
-      "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
-      "url": "https://news.ycombinator.com/item?id=48692995",
-      "primary_url": "https://news.ycombinator.com/item?id=48692995",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_876d1b8a384d",
+      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+      "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ae34e7a043b078cc7a561ff50d3ed17b617b23e5",
-          "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
-          "url": "https://news.ycombinator.com/item?id=48692995",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T00:08:02.534000Z"
-        },
-        {
-          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
-          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T23:55:57.851000Z"
-        },
-        {
-          "id": "6ad9d670f82c65c86803c2f739b65613e1a5245c",
-          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T22:48:28Z"
+          "id": "193fd12b02e35f41a451de554e5c70724c1edbaa",
+          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+          "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T16:51:17Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.reuters.com"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "ae34e7a043b078cc7a561ff50d3ed17b617b23e5",
-          "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
-          "url": "https://news.ycombinator.com/item?id=48692995",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T00:08:02.534000Z"
-        },
-        {
-          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
-          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T23:55:57.851000Z"
-        },
-        {
-          "id": "6ad9d670f82c65c86803c2f739b65613e1a5245c",
-          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T22:48:28Z"
+          "id": "193fd12b02e35f41a451de554e5c70724c1edbaa",
+          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+          "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T16:51:17Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8443,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T22:48:28Z",
-      "latest_at": "2026-06-27T00:08:02.534000Z",
+      "earliest_at": "2026-06-26T16:51:17Z",
+      "latest_at": "2026-06-26T16:51:17Z",
       "primary_item": {
-        "id": "ae34e7a043b078cc7a561ff50d3ed17b617b23e5",
-        "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
-        "url": "https://news.ycombinator.com/item?id=48692995",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "193fd12b02e35f41a451de554e5c70724c1edbaa",
+        "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+        "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_05e6063b590f",
-      "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
-      "url": "https://www.huxiu.com/article/4870793.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870793.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_91989e2294aa",
+      "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+      "url": "https://www.aibase.com/news/29200",
+      "primary_url": "https://www.aibase.com/news/29200",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
-          "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
-          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0c166191953b5d23eeb1d0b1c1e7729e38113c9f",
-          "title": "40万次Claude Code真实对话分析：在AI面前，你的“专家”资历归零了",
-          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T23:11:08Z"
+          "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+          "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+          "url": "https://www.aibase.com/news/29200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
-          "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
-          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0c166191953b5d23eeb1d0b1c1e7729e38113c9f",
-          "title": "40万次Claude Code真实对话分析：在AI面前，你的“专家”资历归零了",
-          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T23:11:08Z"
+          "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+          "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+          "url": "https://www.aibase.com/news/29200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7743,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T23:11:08Z",
-      "latest_at": "2026-06-27T00:07:29.469364Z",
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
       "primary_item": {
-        "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
-        "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
-        "url": "https://www.huxiu.com/article/4870793.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+        "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+        "url": "https://www.aibase.com/news/29200",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_14667f465e75",
-      "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由",
-      "url": "https://github.com/workweave/router",
-      "primary_url": "https://github.com/workweave/router",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_f1c0696003cb",
+      "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+      "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+      "primary_url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2ee5fea65a7338a7b23f3078a93694c23273ccde",
-          "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由",
-          "url": "https://github.com/workweave/router",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T20:43:47.163000Z"
-        },
-        {
-          "id": "7449a83952280a36ec2433a1b107ce29e6984a4c",
-          "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
-          "url": "https://news.ycombinator.com/item?id=48688700",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T17:32:25.106000Z"
-        },
-        {
-          "id": "f3b2cb4b369c131dffe73c547e518c7e850bdcb4",
-          "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
-          "url": "https://github.com/workweave/router",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T16:40:11Z"
+          "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
+          "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+          "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T05:40:52Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "2ee5fea65a7338a7b23f3078a93694c23273ccde",
-          "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由",
-          "url": "https://github.com/workweave/router",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T20:43:47.163000Z"
-        },
-        {
-          "id": "7449a83952280a36ec2433a1b107ce29e6984a4c",
-          "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
-          "url": "https://news.ycombinator.com/item?id=48688700",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T17:32:25.106000Z"
-        },
-        {
-          "id": "f3b2cb4b369c131dffe73c547e518c7e850bdcb4",
-          "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
-          "url": "https://github.com/workweave/router",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T16:40:11Z"
+          "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
+          "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+          "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T05:40:52Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8585,
-        "story_heat": 0.5
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7185,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T16:40:11Z",
-      "latest_at": "2026-06-26T20:43:47.163000Z",
+      "earliest_at": "2026-06-26T05:40:52Z",
+      "latest_at": "2026-06-26T05:40:52Z",
       "primary_item": {
-        "id": "2ee5fea65a7338a7b23f3078a93694c23273ccde",
-        "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由",
-        "url": "https://github.com/workweave/router",
-        "source": "github.com",
-        "source_name": "Buzzing"
+        "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
+        "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+        "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_b482b19fe032",
-      "title": "美国政府将决定谁可以使用GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-      "primary_url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-      "source": "www.washingtonpost.com",
-      "source_name": "Buzzing",
+      "story_id": "story_7d1c29d1345d",
+      "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+      "url": "https://www.aibase.com/news/29203",
+      "primary_url": "https://www.aibase.com/news/29203",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "42c925379d0718e205a57b76176a393454d3f306",
-          "title": "美国政府将决定谁可以使用GPT-5.6",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-          "source": "www.washingtonpost.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T19:23:47.983000Z"
-        },
-        {
-          "id": "fd493b5d17526d2a171ff10b12d3edf8b7a9fdd1",
-          "title": "美国政府将决定谁可以使用GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T18:23:14Z"
-        },
-        {
-          "id": "9f767e57c4724c3197460cd32bd4f6221063323e",
-          "title": "美国政府将决定谁可以使用GPT-5.6 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T18:23:14Z"
+          "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+          "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+          "url": "https://www.aibase.com/news/29203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "www.washingtonpost.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "42c925379d0718e205a57b76176a393454d3f306",
-          "title": "美国政府将决定谁可以使用GPT-5.6",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-          "source": "www.washingtonpost.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T19:23:47.983000Z"
-        },
-        {
-          "id": "fd493b5d17526d2a171ff10b12d3edf8b7a9fdd1",
-          "title": "美国政府将决定谁可以使用GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T18:23:14Z"
-        },
-        {
-          "id": "9f767e57c4724c3197460cd32bd4f6221063323e",
-          "title": "美国政府将决定谁可以使用GPT-5.6 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T18:23:14Z"
+          "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+          "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+          "url": "https://www.aibase.com/news/29203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.803,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7743,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T18:23:14Z",
-      "latest_at": "2026-06-26T19:23:47.983000Z",
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
       "primary_item": {
-        "id": "42c925379d0718e205a57b76176a393454d3f306",
-        "title": "美国政府将决定谁可以使用GPT-5.6",
-        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-        "source": "www.washingtonpost.com",
-        "source_name": "Buzzing"
+        "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+        "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+        "url": "https://www.aibase.com/news/29203",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_47c56e9adbe9",
-      "title": "人工智能行业正向美国大选投入数百万美元",
-      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-      "primary_url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-      "source": "www.bloodinthemachine.com",
-      "source_name": "Buzzing",
+      "story_id": "story_24be2fa5cbd6",
+      "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+      "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
+      "primary_url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-          "title": "人工智能行业正向美国大选投入数百万美元",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "www.bloodinthemachine.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:35:53.860000Z"
-        },
-        {
-          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://news.ycombinator.com/item?id=48687483",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T15:39:36.041000Z"
-        },
-        {
-          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
-          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T15:02:43Z"
+          "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
+          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+          "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T04:37:58Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.bloodinthemachine.com"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-          "title": "人工智能行业正向美国大选投入数百万美元",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "www.bloodinthemachine.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:35:53.860000Z"
-        },
-        {
-          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://news.ycombinator.com/item?id=48687483",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T15:39:36.041000Z"
-        },
-        {
-          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
-          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T15:02:43Z"
+          "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
+          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+          "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T04:37:58Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7697,
-        "story_heat": 0.5
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7077,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T15:02:43Z",
-      "latest_at": "2026-06-26T18:35:53.860000Z",
+      "earliest_at": "2026-06-26T04:37:58Z",
+      "latest_at": "2026-06-26T04:37:58Z",
       "primary_item": {
-        "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-        "title": "人工智能行业正向美国大选投入数百万美元",
-        "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-        "source": "www.bloodinthemachine.com",
-        "source_name": "Buzzing"
+        "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
+        "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+        "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2732ab390af9",
-      "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
+      "story_id": "story_5159b27d61b8",
+      "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+      "url": "https://www.aibase.com/news/29199",
+      "primary_url": "https://www.aibase.com/news/29199",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T21:15:51.287000Z"
-        },
-        {
-          "id": "80bafd5e654681731a91d6b23ef573c7518ffc58",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机 / NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T20:04:55Z"
+          "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+          "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+          "url": "https://www.aibase.com/news/29199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T21:15:51.287000Z"
-        },
-        {
-          "id": "80bafd5e654681731a91d6b23ef573c7518ffc58",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机 / NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T20:04:55Z"
+          "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+          "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+          "url": "https://www.aibase.com/news/29199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8808,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7743,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T20:04:55Z",
-      "latest_at": "2026-06-26T21:15:51.287000Z",
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
       "primary_item": {
-        "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-        "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d910f8dce0d2",
-      "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
-      "url": "https://www.huxiu.com/article/4870791.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870791.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ae371b5ad0db043053064129599cf50d784d515e",
-          "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
-          "url": "https://www.huxiu.com/article/4870791.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-06-27T00:07:29.469364Z"
-        },
-        {
-          "id": "a6dbfb36f0cb1c59478c70b399dec0f4b3e9dfcf",
-          "title": "刚刚，GPT-5.6正式发布，史上最强但被自己坑惨了",
-          "url": "https://www.huxiu.com/article/4870791.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T23:09:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "ae371b5ad0db043053064129599cf50d784d515e",
-          "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
-          "url": "https://www.huxiu.com/article/4870791.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-06-27T00:07:29.469364Z"
-        },
-        {
-          "id": "a6dbfb36f0cb1c59478c70b399dec0f4b3e9dfcf",
-          "title": "刚刚，GPT-5.6正式发布，史上最强但被自己坑惨了",
-          "url": "https://www.huxiu.com/article/4870791.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T23:09:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T23:09:09Z",
-      "latest_at": "2026-06-27T00:07:29.469364Z",
-      "primary_item": {
-        "id": "ae371b5ad0db043053064129599cf50d784d515e",
-        "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
-        "url": "https://www.huxiu.com/article/4870791.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2f3830581c59",
-      "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
-      "url": "https://news.ycombinator.com/item?id=48692883",
-      "primary_url": "https://news.ycombinator.com/item?id=48692883",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
-          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
-          "url": "https://news.ycombinator.com/item?id=48692883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T00:08:02.534000Z"
-        },
-        {
-          "id": "6f50a2e5d4fbfa689d4bd6cba82cb8fc60791aa1",
-          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T22:36:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
-          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
-          "url": "https://news.ycombinator.com/item?id=48692883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T00:08:02.534000Z"
-        },
-        {
-          "id": "6f50a2e5d4fbfa689d4bd6cba82cb8fc60791aa1",
-          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T22:36:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T22:36:51Z",
-      "latest_at": "2026-06-27T00:08:02.534000Z",
-      "primary_item": {
-        "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
-        "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
-        "url": "https://news.ycombinator.com/item?id=48692883",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2e3b818d6fcb",
-      "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
-      "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-      "primary_url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "36b4285f6b4371c7c659ca7e25dd898443263958",
-          "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
-          "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:19:56.134000Z"
-        },
-        {
-          "id": "df8f9e3a09b10c7d004d38c5d83a373c955ad7a9",
-          "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制 / OpenAI says access to its new GPT-5.6 model is limited at the US government's request",
-          "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T18:08:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "36b4285f6b4371c7c659ca7e25dd898443263958",
-          "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
-          "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:19:56.134000Z"
-        },
-        {
-          "id": "df8f9e3a09b10c7d004d38c5d83a373c955ad7a9",
-          "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制 / OpenAI says access to its new GPT-5.6 model is limited at the US government's request",
-          "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T18:08:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4997,
-      "importance": 0.4997,
-      "importance_score": 0.4997,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7586,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T18:08:58Z",
-      "latest_at": "2026-06-26T18:19:56.134000Z",
-      "primary_item": {
-        "id": "36b4285f6b4371c7c659ca7e25dd898443263958",
-        "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
-        "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+        "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+        "url": "https://www.aibase.com/news/29199",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
