@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T05:01:38.672998Z",
+  "generated_at": "2026-06-28T08:31:48.883904Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9677,
+        "recency": 0.92,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,87 @@
         "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
         "url": "https://www.ithome.com/0/969/570.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7fc17092690c",
+      "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+      "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+      "primary_url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9ed204705387fe21ff798e975008b74ef9a14557",
+          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+          "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-28T07:44:41Z"
+        },
+        {
+          "id": "c5e727c8a2b66b0f35a851acb9f613a055e0c0e0",
+          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能 / Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
+          "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-28T07:44:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9ed204705387fe21ff798e975008b74ef9a14557",
+          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+          "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-28T07:44:41Z"
+        },
+        {
+          "id": "c5e727c8a2b66b0f35a851acb9f613a055e0c0e0",
+          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能 / Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
+          "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-28T07:44:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9887,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-28T07:44:41Z",
+      "latest_at": "2026-06-28T07:44:41Z",
+      "primary_item": {
+        "id": "9ed204705387fe21ff798e975008b74ef9a14557",
+        "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+        "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -138,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "recency": 0.9356,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8406,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -261,15 +342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8887,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -322,21 +403,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.8002,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-27T17:05:48Z",
       "latest_at": "2026-06-27T17:05:48Z",
@@ -345,6 +425,67 @@
         "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
         "url": "https://x.com/berryxia/status/2070916520822321292",
         "source": "X：Berry Xia (@berryxia)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fbd38ff6d7c7",
+      "title": "一次失败的（民族国家？）攻击的剖析",
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
+      "primary_url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
+          "title": "一次失败的（民族国家？）攻击的剖析",
+          "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T15:39:53.429000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
+          "title": "一次失败的（民族国家？）攻击的剖析",
+          "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T15:39:53.429000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7838,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T15:39:53.429000Z",
+      "latest_at": "2026-06-27T15:39:53.429000Z",
+      "primary_item": {
+        "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
+        "title": "一次失败的（民族国家？）攻击的剖析",
+        "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -402,15 +543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7868,
+        "recency": 0.748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -425,147 +566,6 @@
         "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
         "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fbd38ff6d7c7",
-      "title": "一次失败的（民族国家？）攻击的剖析",
-      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-      "primary_url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
-          "title": "一次失败的（民族国家？）攻击的剖析",
-          "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T15:39:53.429000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
-          "title": "一次失败的（民族国家？）攻击的剖析",
-          "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T15:39:53.429000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8245,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-27T15:39:53.429000Z",
-      "latest_at": "2026-06-27T15:39:53.429000Z",
-      "primary_item": {
-        "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
-        "title": "一次失败的（民族国家？）攻击的剖析",
-        "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5258ff9579da",
-      "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-      "url": "https://www.ithome.com/0/969/400.htm",
-      "primary_url": "https://www.ithome.com/0/969/400.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ff0b37694e4bd3606df6fb79ce7f00759f39fd60",
-          "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-          "url": "https://www.ithome.com/0/969/400.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T08:16:09Z"
-        },
-        {
-          "id": "dcc0eeba3b110db4e6c105af5760be57d6ac6c26",
-          "title": "AI 账单失控后 DeepSeek 成“香饽饽”，部分美国企业已 100% 切换",
-          "url": "https://www.ithome.com/0/969/400.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T08:16:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ff0b37694e4bd3606df6fb79ce7f00759f39fd60",
-          "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-          "url": "https://www.ithome.com/0/969/400.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T08:16:09Z"
-        },
-        {
-          "id": "dcc0eeba3b110db4e6c105af5760be57d6ac6c26",
-          "title": "AI 账单失控后 DeepSeek 成“香饽饽”，部分美国企业已 100% 切换",
-          "url": "https://www.ithome.com/0/969/400.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T08:16:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.741,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-27T08:16:09Z",
-      "latest_at": "2026-06-27T08:16:09Z",
-      "primary_item": {
-        "id": "ff0b37694e4bd3606df6fb79ce7f00759f39fd60",
-        "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-        "url": "https://www.ithome.com/0/969/400.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -642,15 +642,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.647,
-      "importance": 0.647,
-      "importance_score": 0.647,
+      "score": 0.6401,
+      "importance": 0.6401,
+      "importance_score": 0.6401,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.782,
+        "recency": 0.7434,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -665,6 +665,141 @@
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_57de68a664e5",
+      "title": "对 AI 废话和网络噪音的最佳回应来自 Robin Williams / The best response to AI slop and online noise is from Robin Williams",
+      "url": "https://news.ycombinator.com/item?id=48703452",
+      "primary_url": "https://news.ycombinator.com/item?id=48703452",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "867cb56630f2bdb9e65c1f8a384853daea9d6fd9",
+          "title": "对 AI 废话和网络噪音的最佳回应来自 Robin Williams / The best response to AI slop and online noise is from Robin Williams",
+          "url": "https://news.ycombinator.com/item?id=48703452",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T08:27:03.101000Z"
+        },
+        {
+          "id": "6b0d6b8fac3ab6ee0434f030d1a437eefd3a7e33",
+          "title": "Robin Williams 对 AI slop 的回应 / Response to AI slop is from Robin Williams",
+          "url": "https://news.ycombinator.com/item?id=48703452",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T04:41:58.861000Z"
+        },
+        {
+          "id": "0f3bd76bba96f3ed3f59862aff7170aed96cde5f",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "jayacunzo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T04:26:54.879000Z"
+        },
+        {
+          "id": "ec033dacf12140986d6c4537116f83821c328af4",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / Response to AI slop is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T01:28:10Z"
+        },
+        {
+          "id": "458bfc53b5e9a3755f9c2bea83056b30b606d7e2",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / The best response to AI slop and online noise is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T01:28:10Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "jayacunzo.com"
+      ],
+      "items": [
+        {
+          "id": "867cb56630f2bdb9e65c1f8a384853daea9d6fd9",
+          "title": "对 AI 废话和网络噪音的最佳回应来自 Robin Williams / The best response to AI slop and online noise is from Robin Williams",
+          "url": "https://news.ycombinator.com/item?id=48703452",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T08:27:03.101000Z"
+        },
+        {
+          "id": "6b0d6b8fac3ab6ee0434f030d1a437eefd3a7e33",
+          "title": "Robin Williams 对 AI slop 的回应 / Response to AI slop is from Robin Williams",
+          "url": "https://news.ycombinator.com/item?id=48703452",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T04:41:58.861000Z"
+        },
+        {
+          "id": "0f3bd76bba96f3ed3f59862aff7170aed96cde5f",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "jayacunzo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T04:26:54.879000Z"
+        },
+        {
+          "id": "ec033dacf12140986d6c4537116f83821c328af4",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / Response to AI slop is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T01:28:10Z"
+        },
+        {
+          "id": "458bfc53b5e9a3755f9c2bea83056b30b606d7e2",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / The best response to AI slop and online noise is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T01:28:10Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6206,
+      "importance": 0.6206,
+      "importance_score": 0.6206,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9989,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T01:28:10Z",
+      "latest_at": "2026-06-28T08:27:03.101000Z",
+      "primary_item": {
+        "id": "867cb56630f2bdb9e65c1f8a384853daea9d6fd9",
+        "title": "对 AI 废话和网络噪音的最佳回应来自 Robin Williams / The best response to AI slop and online noise is from Robin Williams",
+        "url": "https://news.ycombinator.com/item?id=48703452",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -756,15 +891,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6178,
-      "importance": 0.6178,
-      "importance_score": 0.6178,
+      "score": 0.6102,
+      "importance": 0.6102,
+      "importance_score": 0.6102,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8535,
+        "recency": 0.8114,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -782,101 +917,101 @@
       }
     },
     {
-      "story_id": "story_57de68a664e5",
-      "title": "Robin Williams 对 AI slop 的回应 / Response to AI slop is from Robin Williams",
-      "url": "https://news.ycombinator.com/item?id=48703452",
-      "primary_url": "https://news.ycombinator.com/item?id=48703452",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_15b81a17c7dd",
+      "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "primary_url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "source": "www.the-independent.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6b0d6b8fac3ab6ee0434f030d1a437eefd3a7e33",
-          "title": "Robin Williams 对 AI slop 的回应 / Response to AI slop is from Robin Williams",
-          "url": "https://news.ycombinator.com/item?id=48703452",
+          "id": "9f2cf774469e602d03b86df3c1930f7c40867658",
+          "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+          "source": "www.the-independent.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T06:19:06.155000Z"
+        },
+        {
+          "id": "22d9b1e5926cb164c9a724bec1274a5e614345bc",
+          "title": "福特雇佣了人工智能并解雇了人类。结果适得其反 / Ford hired AI and sacked humans. It backfired badly",
+          "url": "https://news.ycombinator.com/item?id=48703968",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-06-28T04:41:58.861000Z"
         },
         {
-          "id": "0f3bd76bba96f3ed3f59862aff7170aed96cde5f",
-          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯",
-          "url": "https://jayacunzo.com/blog/your-move-chief",
-          "source": "jayacunzo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T04:26:54.879000Z"
-        },
-        {
-          "id": "ec033dacf12140986d6c4537116f83821c328af4",
-          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / Response to AI slop is from Robin Williams",
-          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "id": "c5c9361bee3e9ccf3be77011cea5a3962d2bea50",
+          "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。 / Ford hired AI and sacked humans. It backfired badly",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-06-28T01:28:10Z"
+          "published_at": "2026-06-28T03:09:13Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
         "hackernews",
-        "jayacunzo.com"
+        "www.the-independent.com"
       ],
       "items": [
         {
-          "id": "6b0d6b8fac3ab6ee0434f030d1a437eefd3a7e33",
-          "title": "Robin Williams 对 AI slop 的回应 / Response to AI slop is from Robin Williams",
-          "url": "https://news.ycombinator.com/item?id=48703452",
+          "id": "9f2cf774469e602d03b86df3c1930f7c40867658",
+          "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+          "source": "www.the-independent.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T06:19:06.155000Z"
+        },
+        {
+          "id": "22d9b1e5926cb164c9a724bec1274a5e614345bc",
+          "title": "福特雇佣了人工智能并解雇了人类。结果适得其反 / Ford hired AI and sacked humans. It backfired badly",
+          "url": "https://news.ycombinator.com/item?id=48703968",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-06-28T04:41:58.861000Z"
         },
         {
-          "id": "0f3bd76bba96f3ed3f59862aff7170aed96cde5f",
-          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯",
-          "url": "https://jayacunzo.com/blog/your-move-chief",
-          "source": "jayacunzo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T04:26:54.879000Z"
-        },
-        {
-          "id": "ec033dacf12140986d6c4537116f83821c328af4",
-          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / Response to AI slop is from Robin Williams",
-          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "id": "c5c9361bee3e9ccf3be77011cea5a3962d2bea50",
+          "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。 / Ford hired AI and sacked humans. It backfired badly",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-06-28T01:28:10Z"
+          "published_at": "2026-06-28T03:09:13Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5651,
+      "importance": 0.5651,
+      "importance_score": 0.5651,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9686,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-28T01:28:10Z",
-      "latest_at": "2026-06-28T04:41:58.861000Z",
+      "earliest_at": "2026-06-28T03:09:13Z",
+      "latest_at": "2026-06-28T06:19:06.155000Z",
       "primary_item": {
-        "id": "6b0d6b8fac3ab6ee0434f030d1a437eefd3a7e33",
-        "title": "Robin Williams 对 AI slop 的回应 / Response to AI slop is from Robin Williams",
-        "url": "https://news.ycombinator.com/item?id=48703452",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "9f2cf774469e602d03b86df3c1930f7c40867658",
+        "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。",
+        "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+        "source": "www.the-independent.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -933,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5533,
-      "importance": 0.5533,
-      "importance_score": 0.5533,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.45,
         "ai_relevance": 0.67,
-        "recency": 0.8364,
+        "recency": 0.7951,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1031,15 +1166,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5499,
-      "importance": 0.5499,
-      "importance_score": 0.5499,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8841,
+        "recency": 0.8405,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1110,15 +1245,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9507,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1133,6 +1268,84 @@
         "url": "https://www.huxiu.com/article/4870967.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_36ffdd9e9f31",
+      "title": "[职场话题] 大模型时代，学新知识的迷茫问题",
+      "url": "https://www.v2ex.com/t/1223411",
+      "primary_url": "https://www.v2ex.com/t/1223411",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c2261874ab012da4b478583a627167a386e767d3",
+          "title": "[职场话题] 大模型时代，学新知识的迷茫问题",
+          "url": "https://www.v2ex.com/t/1223411",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T03:45:35Z"
+        },
+        {
+          "id": "a69a904d46aa03c6737484eeeac9fc73e18f26a0",
+          "title": "[问与答] 大模型时代，学新知识的迷茫问题",
+          "url": "https://www.v2ex.com/t/1223411",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T03:45:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "c2261874ab012da4b478583a627167a386e767d3",
+          "title": "[职场话题] 大模型时代，学新知识的迷茫问题",
+          "url": "https://www.v2ex.com/t/1223411",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T03:45:35Z"
+        },
+        {
+          "id": "a69a904d46aa03c6737484eeeac9fc73e18f26a0",
+          "title": "[问与答] 大模型时代，学新知识的迷茫问题",
+          "url": "https://www.v2ex.com/t/1223411",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T03:45:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9334,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T03:45:35Z",
+      "latest_at": "2026-06-28T03:45:35Z",
+      "primary_item": {
+        "id": "c2261874ab012da4b478583a627167a386e767d3",
+        "title": "[职场话题] 大模型时代，学新知识的迷茫问题",
+        "url": "https://www.v2ex.com/t/1223411",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1208,15 +1421,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7634,
+        "recency": 0.7257,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1287,15 +1500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8569,
+        "recency": 0.8146,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1366,15 +1579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9507,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1389,85 +1602,6 @@
         "url": "https://www.huxiu.com/article/4870975.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5b273f77cdfd",
-      "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://news.ycombinator.com/item?id=48704373",
-      "primary_url": "https://news.ycombinator.com/item?id=48704373",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8f678ab05294525d09eb008ce78fbf6620c5a4d5",
-          "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-          "url": "https://news.ycombinator.com/item?id=48704373",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T04:41:58.861000Z"
-        },
-        {
-          "id": "79b5b6d03eae14de546a8e1af039c031a92cef23",
-          "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-          "url": "https://github.com/itsthelore/wayfinder-router",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T04:31:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8f678ab05294525d09eb008ce78fbf6620c5a4d5",
-          "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-          "url": "https://news.ycombinator.com/item?id=48704373",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T04:41:58.861000Z"
-        },
-        {
-          "id": "79b5b6d03eae14de546a8e1af039c031a92cef23",
-          "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-          "url": "https://github.com/itsthelore/wayfinder-router",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T04:31:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9953,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T04:31:18Z",
-      "latest_at": "2026-06-28T04:41:58.861000Z",
-      "primary_item": {
-        "id": "8f678ab05294525d09eb008ce78fbf6620c5a4d5",
-        "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-        "url": "https://news.ycombinator.com/item?id=48704373",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1524,15 +1658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8245,
+        "recency": 0.7839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1546,85 +1680,6 @@
         "title": "Show HN: AI-whisper——当Codex在背后提供支持时，Claude的表现更出色",
         "url": "https://ai-creed.dev/projects/ai-whisper",
         "source": "ai-creed.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e8bcf2c1d04c",
-      "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
-      "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
-          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T15:07:55.982000Z"
-        },
-        {
-          "id": "6b4574824a6a72d3af152b3f4e844a68a8c6af6a",
-          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者 / In the AI era, be a builder or a seller, not a measurer",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T14:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
-          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T15:07:55.982000Z"
-        },
-        {
-          "id": "6b4574824a6a72d3af152b3f4e844a68a8c6af6a",
-          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者 / In the AI era, be a builder or a seller, not a measurer",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T14:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5131,
-      "importance": 0.5131,
-      "importance_score": 0.5131,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8182,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T14:01:01Z",
-      "latest_at": "2026-06-27T15:07:55.982000Z",
-      "primary_item": {
-        "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
-        "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
-        "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
