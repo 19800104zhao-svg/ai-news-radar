@@ -5162,6 +5162,70 @@ def build_merge_log_payload(events: list[dict[str, Any]], generated_at: str) -> 
     }
 
 
+def build_manifest_payload(generated_at: str) -> dict[str, Any]:
+    return {
+        "site": "news.tonyzhao.com",
+        "purpose": "自动更新的 24 小时中文 AI 新闻雷达。多信源抓取→去重→AI相关性打分→故事线合并→多源认证。站点只提供结构化素材，推理与呈现交给访客 agent 自己做。",
+        "base_url": "https://news.tonyzhao.com",
+        "generated_at": generated_at,
+        "update_frequency": "每天约一次（本机 launchd 定时，电脑关机不跑；数据以各 JSON 内 generated_at 为准）",
+        "language": "zh-CN（标题含中英双语）",
+        "endpoints": [
+            {
+                "id": "daily-brief",
+                "url": "https://news.tonyzhao.com/data/daily-brief.json",
+                "role": "精选故事线（Top 优先级），挖选题/日报首选读这个",
+                "shape": "{ generated_at, window_hours, total_items, items[] }",
+                "item_schema": "见 stories 同构 schema",
+                "recommended": True,
+            },
+            {
+                "id": "stories-merged",
+                "url": "https://news.tonyzhao.com/data/stories-merged.json",
+                "role": "全量故事集合（约 460 条），含多源证据 sources[]，做全景/挖长尾选题读这个",
+                "shape": "{ generated_at, window_hours, total_stories, stories[] }",
+                "item_schema": {
+                    "story_id": "str 稳定ID",
+                    "title": "str 中英双语标题",
+                    "url": "str 主链接",
+                    "source": "str 主来源机构",
+                    "source_count": "int 独立来源数=多源认证强度",
+                    "sources[]": "{id,title,url,source,source_name,site_id,published_at} 多源证据",
+                    "importance_score": "float 0-1 综合重要度",
+                    "importance_label": "枚举 值得关注/行业动态/官方更新/多源热议",
+                    "importance_breakdown": "{editorial,source_tier,ai_relevance,recency,story_heat} 各0-1",
+                    "category": "枚举 watch/industry/official/multi_source",
+                    "reasons[]": "评分理由标签",
+                    "earliest_at": "ISO8601 UTC",
+                    "latest_at": "ISO8601 UTC",
+                },
+                "recommended": True,
+            },
+            {
+                "id": "source-status",
+                "url": "https://news.tonyzhao.com/data/source-status.json",
+                "role": "来源抓取健康：成功/失败源、24h内条目数、各付费源开关",
+                "shape": "{ generated_at, sites[], successful_sites, items_in_24h, ... }",
+                "recommended": False,
+            },
+            {
+                "id": "latest-24h",
+                "url": "https://news.tonyzhao.com/data/latest-24h.json",
+                "role": "24h AI 强相关原始条目",
+                "recommended": False,
+            },
+            {
+                "id": "latest-24h-all",
+                "url": "https://news.tonyzhao.com/data/latest-24h-all.json",
+                "role": "24h 全量条目",
+                "recommended": False,
+            },
+        ],
+        "how_to_use": "GET 对应 JSON（无鉴权、无 CORS 限制）。按 importance_score 降序取 Top N；用 source_count>=2 判断多源认证强度；用 category 过滤类型。别在站内找搜索/问答接口——本站只出结构化素材。",
+        "agent_entry": "https://news.tonyzhao.com/skill.md",
+    }
+
+
 def build_creator_hot_items(
     archive: dict[str, dict[str, Any]],
     now: datetime,
@@ -5247,6 +5311,7 @@ def main() -> int:
     title_cache_path = output_dir / "title-zh-cache.json"
     email_digest_path = output_dir / AGENTMAIL_DIGEST_FILE
     paid_source_state_path = output_dir / PAID_SOURCE_STATE_FILE
+    manifest_path = output_dir / "manifest.json"
 
     archive = load_archive(archive_path)
     paid_source_state = load_paid_source_state(paid_source_state_path)
@@ -5488,6 +5553,7 @@ def main() -> int:
     daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
     stories_merged_payload = build_stories_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
     merge_log_payload = build_merge_log_payload(merge_events, generated_at=generated_at)
+    manifest_payload = build_manifest_payload(generated_at=generated_at)
 
     # site stats
     site_stat: dict[str, dict[str, Any]] = {}
@@ -5651,6 +5717,10 @@ def main() -> int:
         )
     waytoagi_path.write_text(json.dumps(sanitize_public_payload(waytoagi_payload), ensure_ascii=False, indent=2), encoding="utf-8")
     title_cache_path.write_text(json.dumps(sanitize_public_payload(title_cache), ensure_ascii=False, indent=2), encoding="utf-8")
+    manifest_path.write_text(
+        json.dumps(sanitize_public_payload(manifest_payload), ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
     print(f"Wrote: {latest_path} ({len(latest_items)} items)")
     print(f"Wrote: {latest_all_path} ({len(latest_items_all_dedup)} all-mode items)")
@@ -5664,6 +5734,7 @@ def main() -> int:
         print(f"Wrote: {email_digest_path} ({email_digest_payload.get('total_messages', 0)} email items)")
     print(f"Wrote: {waytoagi_path} ({waytoagi_payload.get('count_7d', 0)} items)")
     print(f"Wrote: {title_cache_path} ({len(title_cache)} entries)")
+    print(f"Wrote: {manifest_path}")
 
     return 0
 
