@@ -2,7 +2,7 @@
   "site": "news.tonyzhao.com",
   "purpose": "自动更新的 24 小时中文 AI 新闻雷达。多信源抓取→去重→AI相关性打分→故事线合并→多源认证。站点只提供结构化素材，推理与呈现交给访客 agent 自己做。",
   "base_url": "https://news.tonyzhao.com",
-  "generated_at": "2026-07-01T00:00:05.545217Z",
+  "generated_at": "2026-07-01T12:50:56.358877Z",
   "update_frequency": "每天约一次（本机 launchd 定时，电脑关机不跑；数据以各 JSON 内 generated_at 为准）",
   "language": "zh-CN（标题含中英双语）",
   "endpoints": [
@@ -43,8 +43,18 @@
       "shape": "{ generated_at, sites[], successful_sites, items_in_24h, ... }",
       "recommended": false
     },
-    { "id": "latest-24h", "url": "https://news.tonyzhao.com/data/latest-24h.json", "role": "24h AI 强相关原始条目", "recommended": false },
-    { "id": "latest-24h-all", "url": "https://news.tonyzhao.com/data/latest-24h-all.json", "role": "24h 全量条目", "recommended": false }
+    {
+      "id": "latest-24h",
+      "url": "https://news.tonyzhao.com/data/latest-24h.json",
+      "role": "24h AI 强相关原始条目",
+      "recommended": false
+    },
+    {
+      "id": "latest-24h-all",
+      "url": "https://news.tonyzhao.com/data/latest-24h-all.json",
+      "role": "24h 全量条目",
+      "recommended": false
+    }
   ],
   "how_to_use": "GET 对应 JSON（无鉴权、无 CORS 限制）。按 importance_score 降序取 Top N；用 source_count>=2 判断多源认证强度；用 category 过滤类型。别在站内找搜索/问答接口——本站只出结构化素材。",
   "agent_entry": "https://news.tonyzhao.com/skill.md"

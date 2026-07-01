@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-01T00:00:05.545217Z",
+  "generated_at": "2026-07-01T12:50:56.358877Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
+          "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
+          "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8307,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T00:00:00Z",
+      "latest_at": "2026-07-01T00:00:00Z",
+      "primary_item": {
+        "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
+        "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_f8c0cbef5e2e",
       "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
@@ -57,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8575,
-      "importance": 0.8575,
-      "importance_score": 0.8575,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8915,
+        "recency": 0.7405,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9243,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,88 +206,6 @@
         "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
         "url": "https://huggingface.co/blog/ibm-research/scarfbench",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fb435a036a32",
-      "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "primary_url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
-          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
-          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T09:00:00Z"
-        },
-        {
-          "id": "daac7b474e3c6cca5d43664d02a457c7ae9b6cbb",
-          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
-          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T09:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
-          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
-          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T09:00:00Z"
-        },
-        {
-          "id": "daac7b474e3c6cca5d43664d02a457c7ae9b6cbb",
-          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
-          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T09:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8052,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T09:00:00Z",
-      "latest_at": "2026-06-30T09:00:00Z",
-      "primary_item": {
-        "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
-        "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
-        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -264,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9095,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,15 +344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9175,
+        "recency": 0.7621,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -388,6 +368,168 @@
         "title": "Claude Sonnet 5 发布",
         "url": "https://www.anthropic.com/news/claude-sonnet-5",
         "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_adc0d337ee6f",
+      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+      "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "primary_url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+          "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T00:11:00Z"
+        },
+        {
+          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
+          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-01T00:55:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：数字生命卡兹克",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+          "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T00:11:00Z"
+        },
+        {
+          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
+          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-01T00:55:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8329,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T00:11:00Z",
+      "latest_at": "2026-07-01T00:55:08Z",
+      "primary_item": {
+        "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+        "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+        "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ebdc837ee1f0",
+      "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
+      "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+      "primary_url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a02da64dc6e9f253657f250719231d72c42a1cd6",
+          "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
+          "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T08:10:17Z"
+        },
+        {
+          "id": "0fafe80f32af041dd3b919708611c1997b1364e7",
+          "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型 / NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
+          "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T08:10:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a02da64dc6e9f253657f250719231d72c42a1cd6",
+          "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
+          "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T08:10:17Z"
+        },
+        {
+          "id": "0fafe80f32af041dd3b919708611c1997b1364e7",
+          "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型 / NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
+          "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T08:10:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9347,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T08:10:17Z",
+      "latest_at": "2026-07-01T08:10:17Z",
+      "primary_item": {
+        "id": "a02da64dc6e9f253657f250719231d72c42a1cd6",
+        "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
+        "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -426,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8737,
+        "recency": 0.7258,
         "story_heat": 0.0
       },
       "category": "official",
@@ -454,65 +596,84 @@
       }
     },
     {
-      "story_id": "story_6e98bdfa6975",
-      "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c035cdd5ac64",
+      "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+      "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+      "primary_url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T06:00:00Z"
+          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T10:03:41Z"
+        },
+        {
+          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Google AI Blog"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T06:00:00Z"
+          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T10:03:41Z"
+        },
+        {
+          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7711,
-        "story_heat": 0.0
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9605,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T06:00:00Z",
-      "latest_at": "2026-06-30T06:00:00Z",
+      "earliest_at": "2026-07-01T10:03:41Z",
+      "latest_at": "2026-07-01T10:03:41Z",
       "primary_item": {
-        "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-        "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+        "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+        "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -550,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8909,
+        "recency": 0.7401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -575,6 +736,209 @@
         "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e7110ebabb37",
+      "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+      "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+      "primary_url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+      "source": "公众号：龙猫LongCat（美团）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+          "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+          "source": "公众号：龙猫LongCat（美团）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T02:24:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：龙猫LongCat（美团）"
+      ],
+      "items": [
+        {
+          "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+          "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+          "source": "公众号：龙猫LongCat（美团）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T02:24:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8599,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T02:24:00Z",
+      "latest_at": "2026-07-01T02:24:00Z",
+      "primary_item": {
+        "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+        "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+        "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+        "source": "公众号：龙猫LongCat（美团）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_aa2171452c3f",
+      "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
+      "url": "https://www.aibase.com/news/29301",
+      "primary_url": "https://www.aibase.com/news/29301",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
+          "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
+          "url": "https://www.aibase.com/news/29301",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T12:50:56.358877Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
+          "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
+          "url": "https://www.aibase.com/news/29301",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T12:50:56.358877Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T12:50:56.358877Z",
+      "latest_at": "2026-07-01T12:50:56.358877Z",
+      "primary_item": {
+        "id": "a97732d64b55e64c777fe5f883fad2b69f0d9aff",
+        "title": "AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！",
+        "url": "https://www.aibase.com/news/29301",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0fc811547c38",
+      "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+      "url": "https://www.ithome.com/0/970/810.htm",
+      "primary_url": "https://www.ithome.com/0/970/810.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
+          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+          "url": "https://www.ithome.com/0/970/810.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T23:43:32Z"
+        },
+        {
+          "id": "73d52bb52fa0bf7707679fec31f1ca43886abadb",
+          "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
+          "url": "https://www.ithome.com/0/970/810.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T23:43:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
+          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+          "url": "https://www.ithome.com/0/970/810.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T23:43:32Z"
+        },
+        {
+          "id": "73d52bb52fa0bf7707679fec31f1ca43886abadb",
+          "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
+          "url": "https://www.ithome.com/0/970/810.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T23:43:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8274,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T23:43:32Z",
+      "latest_at": "2026-06-30T23:43:32Z",
+      "primary_item": {
+        "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
+        "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+        "url": "https://www.ithome.com/0/970/810.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -631,22 +995,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.7604,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T17:52:46Z",
       "latest_at": "2026-06-30T17:52:46Z",
@@ -655,6 +1018,66 @@
         "title": "Acti 将 AI 智能体直接放入手机键盘",
         "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c5fef2c86cb3",
+      "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+      "url": "https://x.com/shao__meng/status/2072126769986220157",
+      "primary_url": "https://x.com/shao__meng/status/2072126769986220157",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
+          "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+          "url": "https://x.com/shao__meng/status/2072126769986220157",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T01:14:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
+          "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+          "url": "https://x.com/shao__meng/status/2072126769986220157",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T01:14:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8458,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T01:14:54Z",
+      "latest_at": "2026-07-01T01:14:54Z",
+      "primary_item": {
+        "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
+        "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+        "url": "https://x.com/shao__meng/status/2072126769986220157",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -693,21 +1116,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T22:32:34Z",
       "latest_at": "2026-06-30T22:32:34Z",
@@ -754,21 +1176,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9983,
+        "recency": 0.8292,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T23:52:59Z",
       "latest_at": "2026-06-30T23:52:59Z",
@@ -815,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9,
+        "recency": 0.7476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -843,84 +1264,64 @@
       }
     },
     {
-      "story_id": "story_42e26984ee68",
-      "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
-      "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
-      "primary_url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_13b959c7f8d2",
+      "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
+      "url": "https://www.aibase.com/news/29313",
+      "primary_url": "https://www.aibase.com/news/29313",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
-          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
-          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T11:14:52Z"
-        },
-        {
-          "id": "7ed729c25f314fccca6bd0316f07511b202b3f2d",
-          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示 / Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
-          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T11:14:52Z"
+          "id": "d1419609719143580bcd9b2bbab2d16dcf050312",
+          "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
+          "url": "https://www.aibase.com/news/29313",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T12:50:56.358877Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
-          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
-          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T11:14:52Z"
-        },
-        {
-          "id": "7ed729c25f314fccca6bd0316f07511b202b3f2d",
-          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示 / Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
-          "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T11:14:52Z"
+          "id": "d1419609719143580bcd9b2bbab2d16dcf050312",
+          "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
+          "url": "https://www.aibase.com/news/29313",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T12:50:56.358877Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8318,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T11:14:52Z",
-      "latest_at": "2026-06-30T11:14:52Z",
+      "earliest_at": "2026-07-01T12:50:56.358877Z",
+      "latest_at": "2026-07-01T12:50:56.358877Z",
       "primary_item": {
-        "id": "9be482f343df6de8317876b5e8bbadef6d50533a",
-        "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
-        "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "d1419609719143580bcd9b2bbab2d16dcf050312",
+        "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
+        "url": "https://www.aibase.com/news/29313",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -958,21 +1359,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9026,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T16:54:26Z",
       "latest_at": "2026-06-30T16:54:26Z",
@@ -981,388 +1381,6 @@
         "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
         "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
         "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7eaad8c16868",
-      "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
-      "url": "https://www.aibase.com/news/29276",
-      "primary_url": "https://www.aibase.com/news/29276",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
-          "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
-          "url": "https://www.aibase.com/news/29276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T18:00:05.545217Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
-          "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
-          "url": "https://www.aibase.com/news/29276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T18:00:05.545217Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T18:00:05.545217Z",
-      "latest_at": "2026-06-30T18:00:05.545217Z",
-      "primary_item": {
-        "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
-        "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
-        "url": "https://www.aibase.com/news/29276",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b799958215d9",
-      "title": "Claude Code 入门：智能体循环",
-      "url": "https://claude.com/blog/getting-started-with-loops",
-      "primary_url": "https://claude.com/blog/getting-started-with-loops",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
-          "title": "Claude Code 入门：智能体循环",
-          "url": "https://claude.com/blog/getting-started-with-loops",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:28:28.530000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
-          "title": "Claude Code 入门：智能体循环",
-          "url": "https://claude.com/blog/getting-started-with-loops",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:28:28.530000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9101,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T17:28:28.530000Z",
-      "latest_at": "2026-06-30T17:28:28.530000Z",
-      "primary_item": {
-        "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
-        "title": "Claude Code 入门：智能体循环",
-        "url": "https://claude.com/blog/getting-started-with-loops",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb28522465f5",
-      "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-      "url": "https://www.ithome.com/0/970/583.htm",
-      "primary_url": "https://www.ithome.com/0/970/583.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T07:56:46Z"
-        },
-        {
-          "id": "ea3c651356fda8f7bf616f8189880140ae47f174",
-          "title": "另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T07:56:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T07:56:46Z"
-        },
-        {
-          "id": "ea3c651356fda8f7bf616f8189880140ae47f174",
-          "title": "另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T07:56:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T07:56:46Z",
-      "latest_at": "2026-06-30T07:56:46Z",
-      "primary_item": {
-        "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-        "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-        "url": "https://www.ithome.com/0/970/583.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5a1ae999ca0c",
-      "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-      "url": "https://x.com/xiaohu/status/2071796715162857477",
-      "primary_url": "https://x.com/xiaohu/status/2071796715162857477",
-      "source": "X：小互 (@xiaohu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-          "url": "https://x.com/xiaohu/status/2071796715162857477",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T03:23:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：小互 (@xiaohu)"
-      ],
-      "items": [
-        {
-          "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-          "url": "https://x.com/xiaohu/status/2071796715162857477",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T03:23:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7426,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T03:23:23Z",
-      "latest_at": "2026-06-30T03:23:23Z",
-      "primary_item": {
-        "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-        "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-        "url": "https://x.com/xiaohu/status/2071796715162857477",
-        "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7b7b692161c6",
-      "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-      "url": "https://x.com/NotebookLM/status/2072043680442245276",
-      "primary_url": "https://x.com/NotebookLM/status/2072043680442245276",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c269d91cc08c6e0bbc48b93150dbb6cb0921f2ed",
-          "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-          "url": "https://x.com/NotebookLM/status/2072043680442245276",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T19:44:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：NotebookLM (@NotebookLM)"
-      ],
-      "items": [
-        {
-          "id": "c269d91cc08c6e0bbc48b93150dbb6cb0921f2ed",
-          "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-          "url": "https://x.com/NotebookLM/status/2072043680442245276",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T19:44:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9404,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T19:44:44Z",
-      "latest_at": "2026-06-30T19:44:44Z",
-      "primary_item": {
-        "id": "c269d91cc08c6e0bbc48b93150dbb6cb0921f2ed",
-        "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-        "url": "https://x.com/NotebookLM/status/2072043680442245276",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_af92f13a24dd",
-      "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-      "url": "https://developers.googleblog.com/announcing-adk-go-20",
-      "primary_url": "https://developers.googleblog.com/announcing-adk-go-20",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "32d16f72a9fa9a3dbb4a7fea295de8ad36cb15cd",
-          "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-          "url": "https://developers.googleblog.com/announcing-adk-go-20",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:17:40.302000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "32d16f72a9fa9a3dbb4a7fea295de8ad36cb15cd",
-          "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-          "url": "https://developers.googleblog.com/announcing-adk-go-20",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:17:40.302000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9077,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T17:17:40.302000Z",
-      "latest_at": "2026-06-30T17:17:40.302000Z",
-      "primary_item": {
-        "id": "32d16f72a9fa9a3dbb4a7fea295de8ad36cb15cd",
-        "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-        "url": "https://developers.googleblog.com/announcing-adk-go-20",
-        "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
       }
     }
