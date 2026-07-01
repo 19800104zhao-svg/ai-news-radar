@@ -1,0 +1,22 @@
+# news.tonyzhao.com — AI News Radar
+
+> 自动更新的 24 小时中文 AI 新闻雷达。多信源抓取、去重、AI 相关性打分、故事线合并、多源认证。
+> 定位：站点只提供结构化素材（JSON），推理和呈现交给访客 agent 自己做。无后端、无鉴权、无搜索 API。
+
+## 给 Agent 的接入方式
+- 机器可读端点索引与字段 schema：/data/manifest.json
+- 完整接入说明（技能卡）：/skill.md
+
+## 主数据端点
+- [每日精选故事线](https://news.tonyzhao.com/data/daily-brief.json)：Top 优先级，日报/挖选题首选
+- [全量故事集合](https://news.tonyzhao.com/data/stories-merged.json)：约 460 条，含多源证据
+- [来源健康状态](https://news.tonyzhao.com/data/source-status.json)：源成功率、24h 条目数
+
+## 关键字段
+- importance_score (0-1)：综合重要度，降序即优先级
+- source_count：独立来源数，>=2 表示多源认证、更可信
+- category：watch / industry / official / multi_source
+- importance_label：值得关注 / 行业动态 / 官方更新 / 多源热议
+
+## 更新频率
+每天约一次（以各 JSON 内 generated_at 字段为准）。
