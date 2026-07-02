@@ -1,230 +1,24 @@
 {
-  "generated_at": "2026-07-01T12:50:56.358877Z",
+  "generated_at": "2026-07-02T00:00:03.925300Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
-          "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
-          "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8307,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T00:00:00Z",
-      "latest_at": "2026-07-01T00:00:00Z",
-      "primary_item": {
-        "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
-        "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f8c0cbef5e2e",
-      "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-      "primary_url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "39f4ae2da20716867516b48552278be546b5ac84",
-          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:02:40Z"
-        },
-        {
-          "id": "ca6a96cb9b4e21c3801a5c4d06bd5f06c4d2bc74",
-          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
-          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:02:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39f4ae2da20716867516b48552278be546b5ac84",
-          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:02:40Z"
-        },
-        {
-          "id": "ca6a96cb9b4e21c3801a5c4d06bd5f06c4d2bc74",
-          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
-          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:02:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7405,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T16:02:40Z",
-      "latest_at": "2026-06-30T16:02:40Z",
-      "primary_item": {
-        "id": "39f4ae2da20716867516b48552278be546b5ac84",
-        "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-        "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8654826289ec",
-      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7678,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T18:32:50Z",
-      "latest_at": "2026-06-30T18:32:50Z",
-      "primary_item": {
-        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_baf3220209a7",
-      "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "story_id": "story_774ebb0256c8",
+      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T17:25:51Z"
+          "published_at": "2026-07-01T18:39:17Z"
         }
       ],
       "source_count": 1,
@@ -233,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T17:25:51Z"
+          "published_at": "2026-07-01T18:39:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8446,
+      "importance": 0.8446,
+      "importance_score": 0.8446,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7555,
+        "ai_relevance": 0.94,
+        "recency": 0.9257,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,98 +55,345 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T17:25:51Z",
-      "latest_at": "2026-06-30T17:25:51Z",
+      "earliest_at": "2026-07-01T18:39:17Z",
+      "latest_at": "2026-07-01T18:39:17Z",
       "primary_item": {
-        "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-        "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0f764e9bc764",
-      "title": "Claude Sonnet 5 发布",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "primary_url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "Anthropic：Newsroom（网页）",
+      "story_id": "story_abd37bf2f2f7",
+      "title": "我们在 2026 年 6 月公布的最新 AI 新闻 / The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "739e8b0be6c30c4795768b9b3ef00174a216455c",
+          "title": "我们在 2026 年 6 月公布的最新 AI 新闻 / The latest AI news we announced in June 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:15:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "739e8b0be6c30c4795768b9b3ef00174a216455c",
+          "title": "我们在 2026 年 6 月公布的最新 AI 新闻 / The latest AI news we announced in June 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9203,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T18:15:00Z",
+      "latest_at": "2026-07-01T18:15:00Z",
+      "primary_item": {
+        "id": "739e8b0be6c30c4795768b9b3ef00174a216455c",
+        "title": "我们在 2026 年 6 月公布的最新 AI 新闻 / The latest AI news we announced in June 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0818b7e36264",
+      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:32:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T20:32:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9514,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T20:32:52Z",
+      "latest_at": "2026-07-01T20:32:52Z",
+      "primary_item": {
+        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_77de1806e9d7",
+      "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+      "primary_url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
+          "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
+          "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T16:00:00Z",
+      "latest_at": "2026-07-01T16:00:00Z",
+      "primary_item": {
+        "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
+        "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3aa6eba89386",
+      "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+      "primary_url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T22:27:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T22:27:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9779,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T22:27:16Z",
+      "latest_at": "2026-07-01T22:27:16Z",
+      "primary_item": {
+        "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+        "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+        "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c035cdd5ac64",
+      "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+      "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+      "primary_url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
-          "title": "Claude Sonnet 5 发布",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Anthropic：Newsroom（网页）",
+          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T18:02:06.984000Z"
+          "published_at": "2026-07-01T10:03:41Z"
         },
         {
-          "id": "67fa563844e9154887350136b4fe9208b8030f96",
-          "title": "克劳德·索内特 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T18:19:05.316000Z"
+          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
         },
         {
-          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
-          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T17:59:52Z"
+          "id": "98b7c08e0e207b717813fda0c22bd478bfd22969",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
-          "title": "Claude Sonnet 5 发布",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Anthropic：Newsroom（网页）",
+          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T18:02:06.984000Z"
+          "published_at": "2026-07-01T10:03:41Z"
         },
         {
-          "id": "67fa563844e9154887350136b4fe9208b8030f96",
-          "title": "克劳德·索内特 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T18:19:05.316000Z"
+          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
         },
         {
-          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
-          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T17:59:52Z"
+          "id": "98b7c08e0e207b717813fda0c22bd478bfd22969",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
+          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T10:03:41Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7621,
+        "recency": 0.8177,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -361,13 +402,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T17:59:52Z",
-      "latest_at": "2026-06-30T18:19:05.316000Z",
+      "earliest_at": "2026-07-01T10:03:41Z",
+      "latest_at": "2026-07-01T10:03:41Z",
       "primary_item": {
-        "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
-        "title": "Claude Sonnet 5 发布",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "source": "Anthropic：Newsroom（网页）",
+        "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
+        "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+        "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -425,15 +466,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8329,
+        "recency": 0.709,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,6 +490,168 @@
         "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
         "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4ccea67daf74",
+      "title": "Meta效仿SpaceX，将过剩AI算力变现",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+      "primary_url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d070303d8c3916057db8f74e22815e26168d6a34",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T13:43:07Z"
+        },
+        {
+          "id": "5b29f5d1a51f44c69e956d0df5f890521db6bab8",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现 / Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T13:43:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d070303d8c3916057db8f74e22815e26168d6a34",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T13:43:07Z"
+        },
+        {
+          "id": "5b29f5d1a51f44c69e956d0df5f890521db6bab8",
+          "title": "Meta效仿SpaceX，将过剩AI算力变现 / Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T13:43:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.862,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T13:43:07Z",
+      "latest_at": "2026-07-01T13:43:07Z",
+      "primary_item": {
+        "id": "d070303d8c3916057db8f74e22815e26168d6a34",
+        "title": "Meta效仿SpaceX，将过剩AI算力变现",
+        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_69c215f0bf18",
+      "title": "Claude Code v2.1.198 发布",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+          "title": "Claude Code v2.1.198 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T20:45:36Z"
+        },
+        {
+          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
+          "title": "v2.1.198",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T20:45:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+          "title": "Claude Code v2.1.198 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T20:45:36Z"
+        },
+        {
+          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
+          "title": "v2.1.198",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T20:45:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9543,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T20:45:36Z",
+      "latest_at": "2026-07-01T20:45:36Z",
+      "primary_item": {
+        "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+        "title": "Claude Code v2.1.198 发布",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+        "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -506,15 +709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.7957,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -534,164 +737,21 @@
       }
     },
     {
-      "story_id": "story_d7f8db1c666b",
-      "title": "为什么专业化是不可避免的 / Why Specialization Is Inevitable",
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4ab939dc572085e04f2d075c4c3312ceac310356",
-          "title": "为什么专业化是不可避免的 / Why Specialization Is Inevitable",
-          "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T14:39:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4ab939dc572085e04f2d075c4c3312ceac310356",
-          "title": "为什么专业化是不可避免的 / Why Specialization Is Inevitable",
-          "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T14:39:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7258,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T14:39:11Z",
-      "latest_at": "2026-06-30T14:39:11Z",
-      "primary_item": {
-        "id": "4ab939dc572085e04f2d075c4c3312ceac310356",
-        "title": "为什么专业化是不可避免的 / Why Specialization Is Inevitable",
-        "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c035cdd5ac64",
-      "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-      "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-      "primary_url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
-          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T10:03:41Z"
-        },
-        {
-          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
-          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
-          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T10:03:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
-          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T10:03:41Z"
-        },
-        {
-          "id": "714592a68f722836a9c445e71f7ca19b8d0faa7b",
-          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略 / OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
-          "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T10:03:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9605,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T10:03:41Z",
-      "latest_at": "2026-07-01T10:03:41Z",
-      "primary_item": {
-        "id": "bd3356c9ae1e7719cec53d38611472ab635c0a8a",
-        "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-        "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_66857aac9970",
-      "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-      "primary_url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+      "story_id": "story_f7b1eaa8826e",
+      "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T16:00:19Z"
+          "published_at": "2026-07-01T19:00:21Z"
         }
       ],
       "source_count": 1,
@@ -700,26 +760,26 @@
       ],
       "items": [
         {
-          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T16:00:19Z"
+          "published_at": "2026-07-01T19:00:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7401,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "official",
@@ -728,12 +788,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T16:00:19Z",
-      "latest_at": "2026-06-30T16:00:19Z",
+      "earliest_at": "2026-07-01T19:00:21Z",
+      "latest_at": "2026-07-01T19:00:21Z",
       "primary_item": {
-        "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-        "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-        "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+        "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+        "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -773,21 +833,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.732,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T02:24:00Z",
       "latest_at": "2026-07-01T02:24:00Z",
@@ -796,6 +855,66 @@
         "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
         "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
         "source": "公众号：龙猫LongCat（美团）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7bec97c12fd8",
+      "title": "Meta 大规模 AI 存储蓝图",
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+      "primary_url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+      "source": "Meta Engineering Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
+          "title": "Meta 大规模 AI 存储蓝图",
+          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T16:00:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Meta Engineering Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
+          "title": "Meta 大规模 AI 存储蓝图",
+          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T16:00:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.891,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T16:00:36Z",
+      "latest_at": "2026-07-01T16:00:36Z",
+      "primary_item": {
+        "id": "47cce869fdc7767c028d74cc046f7f674885f398",
+        "title": "Meta 大规模 AI 存储蓝图",
+        "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+        "source": "Meta Engineering Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -834,21 +953,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T12:50:56.358877Z",
       "latest_at": "2026-07-01T12:50:56.358877Z",
@@ -861,163 +979,122 @@
       }
     },
     {
-      "story_id": "story_0fc811547c38",
-      "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-      "url": "https://www.ithome.com/0/970/810.htm",
-      "primary_url": "https://www.ithome.com/0/970/810.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_1d6ba25fd397",
+      "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+      "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
+      "primary_url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
+      "source": "Google Developers Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
-          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-          "url": "https://www.ithome.com/0/970/810.htm",
-          "source": "IT之家（RSS）",
+          "id": "0bba8dc83cb74e835ca79c5d4daaa9600a00e4da",
+          "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+          "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
+          "source": "Google Developers Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T23:43:32Z"
-        },
-        {
-          "id": "73d52bb52fa0bf7707679fec31f1ca43886abadb",
-          "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
-          "url": "https://www.ithome.com/0/970/810.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T23:43:32Z"
+          "published_at": "2026-07-01T17:17:56.374000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "Google Developers Blog（RSS）"
       ],
       "items": [
         {
-          "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
-          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-          "url": "https://www.ithome.com/0/970/810.htm",
-          "source": "IT之家（RSS）",
+          "id": "0bba8dc83cb74e835ca79c5d4daaa9600a00e4da",
+          "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+          "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
+          "source": "Google Developers Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T23:43:32Z"
-        },
-        {
-          "id": "73d52bb52fa0bf7707679fec31f1ca43886abadb",
-          "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
-          "url": "https://www.ithome.com/0/970/810.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T23:43:32Z"
+          "published_at": "2026-07-01T17:17:56.374000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8274,
-        "story_heat": 0.25
+        "recency": 0.9078,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-30T23:43:32Z",
-      "latest_at": "2026-06-30T23:43:32Z",
+      "earliest_at": "2026-07-01T17:17:56.374000Z",
+      "latest_at": "2026-07-01T17:17:56.374000Z",
       "primary_item": {
-        "id": "d5eb0a29d17463e21b534c85b25a7b97746b67d7",
-        "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-        "url": "https://www.ithome.com/0/970/810.htm",
-        "source": "IT之家（RSS）",
+        "id": "0bba8dc83cb74e835ca79c5d4daaa9600a00e4da",
+        "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+        "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
+        "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_759e2573fbbc",
-      "title": "Acti 将 AI 智能体直接放入手机键盘",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-      "primary_url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_7ba98dc94a42",
+      "title": "智谱推出GLM-5.2官方开发环境ZCode",
+      "url": "https://x.com/Zai_org/status/2072349453361557898",
+      "primary_url": "https://x.com/Zai_org/status/2072349453361557898",
+      "source": "X：智谱 Z.ai (@Zai_org)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "512a5bb906707c2311c2abffb83f770704604ed7",
-          "title": "Acti 将 AI 智能体直接放入手机键盘",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "971bd6d5da3e32d8fb11d232dd1e096ed1e89206",
+          "title": "智谱推出GLM-5.2官方开发环境ZCode",
+          "url": "https://x.com/Zai_org/status/2072349453361557898",
+          "source": "X：智谱 Z.ai (@Zai_org)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T17:52:46Z"
-        },
-        {
-          "id": "52f7d10a9d95b5830f13d5a81d95572bfd80850a",
-          "title": "Acti 将 AI 智能体直接放入手机键盘 / Acti puts AI agents directly into your smartphone keyboard",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T17:52:46Z"
+          "published_at": "2026-07-01T15:59:46Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "X：智谱 Z.ai (@Zai_org)"
       ],
       "items": [
         {
-          "id": "512a5bb906707c2311c2abffb83f770704604ed7",
-          "title": "Acti 将 AI 智能体直接放入手机键盘",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "971bd6d5da3e32d8fb11d232dd1e096ed1e89206",
+          "title": "智谱推出GLM-5.2官方开发环境ZCode",
+          "url": "https://x.com/Zai_org/status/2072349453361557898",
+          "source": "X：智谱 Z.ai (@Zai_org)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T17:52:46Z"
-        },
-        {
-          "id": "52f7d10a9d95b5830f13d5a81d95572bfd80850a",
-          "title": "Acti 将 AI 智能体直接放入手机键盘 / Acti puts AI agents directly into your smartphone keyboard",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T17:52:46Z"
+          "published_at": "2026-07-01T15:59:46Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7604,
-        "story_heat": 0.25
+        "recency": 0.8908,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-30T17:52:46Z",
-      "latest_at": "2026-06-30T17:52:46Z",
+      "earliest_at": "2026-07-01T15:59:46Z",
+      "latest_at": "2026-07-01T15:59:46Z",
       "primary_item": {
-        "id": "512a5bb906707c2311c2abffb83f770704604ed7",
-        "title": "Acti 将 AI 智能体直接放入手机键盘",
-        "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "971bd6d5da3e32d8fb11d232dd1e096ed1e89206",
+        "title": "智谱推出GLM-5.2官方开发环境ZCode",
+        "url": "https://x.com/Zai_org/status/2072349453361557898",
+        "source": "X：智谱 Z.ai (@Zai_org)",
         "source_name": "AI HOT"
       }
     },
@@ -1056,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8458,
+        "recency": 0.72,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1082,141 +1159,81 @@
       }
     },
     {
-      "story_id": "story_a8538ea13566",
-      "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
-      "url": "https://x.com/AISafetyMemes/status/2072085914558558402",
-      "primary_url": "https://x.com/AISafetyMemes/status/2072085914558558402",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "story_id": "story_d498a202a8f0",
+      "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
+      "url": "https://www.ithome.com/0/971/071.htm",
+      "primary_url": "https://www.ithome.com/0/971/071.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ca907b7c8ff7e54887efc4f50ef2a48e1df55e18",
-          "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
-          "url": "https://x.com/AISafetyMemes/status/2072085914558558402",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "id": "1cb8106ebf6e57e85cac804cb9b10e7f0a1e6d34",
+          "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
+          "url": "https://www.ithome.com/0/971/071.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T22:32:34Z"
+          "published_at": "2026-07-01T06:57:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "ca907b7c8ff7e54887efc4f50ef2a48e1df55e18",
-          "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
-          "url": "https://x.com/AISafetyMemes/status/2072085914558558402",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "id": "1cb8106ebf6e57e85cac804cb9b10e7f0a1e6d34",
+          "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
+          "url": "https://www.ithome.com/0/971/071.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T22:32:34Z"
+          "published_at": "2026-07-01T06:57:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8134,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-30T22:32:34Z",
-      "latest_at": "2026-06-30T22:32:34Z",
+      "earliest_at": "2026-07-01T06:57:42Z",
+      "latest_at": "2026-07-01T06:57:42Z",
       "primary_item": {
-        "id": "ca907b7c8ff7e54887efc4f50ef2a48e1df55e18",
-        "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
-        "url": "https://x.com/AISafetyMemes/status/2072085914558558402",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "id": "1cb8106ebf6e57e85cac804cb9b10e7f0a1e6d34",
+        "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
+        "url": "https://www.ithome.com/0/971/071.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9d60e115dad6",
-      "title": "商务部解除Claude Fable 5等出口管制",
-      "url": "https://x.com/AnthropicAI/status/2072106151890809341",
-      "primary_url": "https://x.com/AnthropicAI/status/2072106151890809341",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "703954a9b63a9d0c7f8446ba9ba79333bdf1fe4f",
-          "title": "商务部解除Claude Fable 5等出口管制",
-          "url": "https://x.com/AnthropicAI/status/2072106151890809341",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T23:52:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "703954a9b63a9d0c7f8446ba9ba79333bdf1fe4f",
-          "title": "商务部解除Claude Fable 5等出口管制",
-          "url": "https://x.com/AnthropicAI/status/2072106151890809341",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T23:52:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8292,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T23:52:59Z",
-      "latest_at": "2026-06-30T23:52:59Z",
-      "primary_item": {
-        "id": "703954a9b63a9d0c7f8446ba9ba79333bdf1fe4f",
-        "title": "商务部解除Claude Fable 5等出口管制",
-        "url": "https://x.com/AnthropicAI/status/2072106151890809341",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0b9cb68fce80",
-      "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
-      "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+      "story_id": "story_bfcd7a3f6d8e",
+      "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+      "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+      "primary_url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
-          "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
-          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T16:42:21Z"
+          "published_at": "2026-07-01T18:33:24Z"
         }
       ],
       "source_count": 1,
@@ -1225,26 +1242,26 @@
       ],
       "items": [
         {
-          "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
-          "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
-          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T16:42:21Z"
+          "published_at": "2026-07-01T18:33:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7476,
+        "ai_relevance": 0.91,
+        "recency": 0.9244,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1253,12 +1270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T16:42:21Z",
-      "latest_at": "2026-06-30T16:42:21Z",
+      "earliest_at": "2026-07-01T18:33:24Z",
+      "latest_at": "2026-07-01T18:33:24Z",
       "primary_item": {
-        "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
-        "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
-        "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+        "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+        "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+        "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1298,21 +1315,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T12:50:56.358877Z",
       "latest_at": "2026-07-01T12:50:56.358877Z",
@@ -1322,66 +1338,6 @@
         "url": "https://www.aibase.com/news/29313",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea75cbc697c1",
-      "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-      "primary_url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-          "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-          "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:54:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-          "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-          "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:54:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7498,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T16:54:26Z",
-      "latest_at": "2026-06-30T16:54:26Z",
-      "primary_item": {
-        "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-        "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
       }
     }
   ]
