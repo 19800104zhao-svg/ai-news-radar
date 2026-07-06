@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-06T00:00:01.197343Z",
+  "generated_at": "2026-07-06T05:03:17.751572Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c57690ad336e",
+      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "primary_url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9296,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T00:00:00Z",
+      "latest_at": "2026-07-06T00:00:00Z",
+      "primary_item": {
+        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+        "url": "https://huggingface.co/blog/revamped-kernels",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_44de5f528adc",
       "title": "Anthropic Claude Design 反向工程提示词开源更新",
@@ -76,15 +138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8857,
+        "recency": 0.8234,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -138,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9214,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,6 +223,128 @@
         "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
         "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3fc6b379c5e2",
+      "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
+      "url": "https://www.aibase.com/news/29387",
+      "primary_url": "https://www.aibase.com/news/29387",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e45893744618c84531937954f8f68d50556bd73",
+          "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
+          "url": "https://www.aibase.com/news/29387",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3e45893744618c84531937954f8f68d50556bd73",
+          "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
+          "url": "https://www.aibase.com/news/29387",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T05:03:17.751572Z",
+      "latest_at": "2026-07-06T05:03:17.751572Z",
+      "primary_item": {
+        "id": "3e45893744618c84531937954f8f68d50556bd73",
+        "title": "AI机器人来袭！日本计划部署千万台应对劳动力危机",
+        "url": "https://www.aibase.com/news/29387",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1cdb1783355f",
+      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "primary_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9475,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T01:19:09Z",
+      "latest_at": "2026-07-06T01:19:09Z",
+      "primary_item": {
+        "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+        "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+        "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -199,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9577,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -283,6 +467,67 @@
         "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
         "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
         "source": "X：美团 LongCat (@Meituan_LongCat)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3bc87a70e847",
+      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+      "url": "https://www.ithome.com/0/972/896.htm",
+      "primary_url": "https://www.ithome.com/0/972/896.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9453,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T01:09:29Z",
+      "latest_at": "2026-07-06T01:09:29Z",
+      "primary_item": {
+        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+        "url": "https://www.ithome.com/0/972/896.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -340,22 +585,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7918,
+        "recency": 0.7361,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T07:50:19Z",
       "latest_at": "2026-07-05T07:50:19Z",
@@ -368,84 +612,64 @@
       }
     },
     {
-      "story_id": "story_0a49822c4024",
-      "title": "三周前，我不小心创办了一家小公司",
-      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "primary_url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_909b01672156",
+      "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
+      "url": "https://www.aibase.com/news/29391",
+      "primary_url": "https://www.aibase.com/news/29391",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-          "title": "三周前，我不小心创办了一家小公司",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T17:43:57.442000Z"
-        },
-        {
-          "id": "2f6a7703c48d7cf57ae5789509dabfcc37bf1581",
-          "title": "三周前，我不小心创办了一家小公司 / I Accidentally Started a Small Business Three Weeks Ago",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T03:36:49Z"
+          "id": "57bf456cd4122cf3f2de4573dad9791bfe200bc2",
+          "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
+          "url": "https://www.aibase.com/news/29391",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-          "title": "三周前，我不小心创办了一家小公司",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T17:43:57.442000Z"
-        },
-        {
-          "id": "2f6a7703c48d7cf57ae5789509dabfcc37bf1581",
-          "title": "三周前，我不小心创办了一家小公司 / I Accidentally Started a Small Business Three Weeks Ago",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T03:36:49Z"
+          "id": "57bf456cd4122cf3f2de4573dad9791bfe200bc2",
+          "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
+          "url": "https://www.aibase.com/news/29391",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9135,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-05T03:36:49Z",
-      "latest_at": "2026-07-05T17:43:57.442000Z",
+      "earliest_at": "2026-07-06T05:03:17.751572Z",
+      "latest_at": "2026-07-06T05:03:17.751572Z",
       "primary_item": {
-        "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-        "title": "三周前，我不小心创办了一家小公司",
-        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "57bf456cd4122cf3f2de4573dad9791bfe200bc2",
+        "title": "AI编程迎来“深度思考”：Deep Code正式适配DeepSeek-V4",
+        "url": "https://www.aibase.com/news/29391",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -502,15 +726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 0.8329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -525,6 +749,188 @@
         "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
         "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
         "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_97be09b05ad8",
+      "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
+      "url": "https://www.aibase.com/news/29383",
+      "primary_url": "https://www.aibase.com/news/29383",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
+          "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
+          "url": "https://www.aibase.com/news/29383",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
+          "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
+          "url": "https://www.aibase.com/news/29383",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T05:03:17.751572Z",
+      "latest_at": "2026-07-06T05:03:17.751572Z",
+      "primary_item": {
+        "id": "c929943bdc2d514569d1d5cffa583cb9039547ae",
+        "title": "Anthropic 开启百亿级算力豪赌，拟在澳大利亚加码千兆瓦数据中心",
+        "url": "https://www.aibase.com/news/29383",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1400d5a8cf38",
+      "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
+      "url": "https://www.aibase.com/news/29384",
+      "primary_url": "https://www.aibase.com/news/29384",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
+          "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
+          "url": "https://www.aibase.com/news/29384",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
+          "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
+          "url": "https://www.aibase.com/news/29384",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T05:03:17.751572Z",
+      "latest_at": "2026-07-06T05:03:17.751572Z",
+      "primary_item": {
+        "id": "3f6d12482edd184cd87becbf1eda2c1932366f5f",
+        "title": "Google 重拳出击：Gemini 3.5 Pro 锁定 7 月 17 日发布，全面对垒 DeepSeek V4",
+        "url": "https://www.aibase.com/news/29384",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0a49822c4024",
+      "title": "三周前，我不小心创办了一家小公司",
+      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+      "primary_url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+          "title": "三周前，我不小心创办了一家小公司",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T17:43:57.442000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+          "title": "三周前，我不小心创办了一家小公司",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T17:43:57.442000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8492,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-05T17:43:57.442000Z",
+      "latest_at": "2026-07-05T17:43:57.442000Z",
+      "primary_item": {
+        "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+        "title": "三周前，我不小心创办了一家小公司",
+        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -636,15 +1042,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6565,
+      "importance": 0.6565,
+      "importance_score": 0.6565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9296,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -662,654 +1068,345 @@
       }
     },
     {
-      "story_id": "story_54e97f468046",
-      "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://news.ycombinator.com/item?id=48796817",
-      "primary_url": "https://news.ycombinator.com/item?id=48796817",
+      "story_id": "story_0aae4f63f51e",
+      "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
+      "url": "https://www.aibase.com/news/29381",
+      "primary_url": "https://www.aibase.com/news/29381",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
+          "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
+          "url": "https://www.aibase.com/news/29381",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
+          "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
+          "url": "https://www.aibase.com/news/29381",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T05:03:17.751572Z",
+      "latest_at": "2026-07-06T05:03:17.751572Z",
+      "primary_item": {
+        "id": "2e79b5bc49b49cc2746c3796e349791545e6933c",
+        "title": "Meta 调整 AI 开发节奏：Llama API 公共预览版将于明日下线",
+        "url": "https://www.aibase.com/news/29381",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e295a2fb0082",
+      "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
+      "url": "https://www.aibase.com/news/29386",
+      "primary_url": "https://www.aibase.com/news/29386",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
+          "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
+          "url": "https://www.aibase.com/news/29386",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
+          "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
+          "url": "https://www.aibase.com/news/29386",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T05:03:17.751572Z",
+      "latest_at": "2026-07-06T05:03:17.751572Z",
+      "primary_item": {
+        "id": "a88ec576695a1f8ee1def45debbd24cf8d03f479",
+        "title": "具身智能的「ChatGPT时刻」临近：宇树科技描绘机器人产业新图景",
+        "url": "https://www.aibase.com/news/29386",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_523ce8f8d5c0",
+      "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
+      "url": "https://www.aibase.com/news/29393",
+      "primary_url": "https://www.aibase.com/news/29393",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
+          "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
+          "url": "https://www.aibase.com/news/29393",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
+          "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
+          "url": "https://www.aibase.com/news/29393",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T05:03:17.751572Z",
+      "latest_at": "2026-07-06T05:03:17.751572Z",
+      "primary_item": {
+        "id": "792f406f396418ec2f15000ef7d09cc70dd45abb",
+        "title": "告别高额Token账单：pxpipe如何用“图像”重塑Claude Code开发成本",
+        "url": "https://www.aibase.com/news/29393",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0a5406dd2dc7",
+      "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "url": "https://news.ycombinator.com/item?id=48799256",
+      "primary_url": "https://news.ycombinator.com/item?id=48799256",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
+          "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
+          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+          "url": "https://news.ycombinator.com/item?id=48799256",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T23:41:23.962000Z"
+          "published_at": "2026-07-06T04:41:10.770000Z"
         },
         {
-          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "intextbooks.science.uu.nl",
+          "id": "15f3ccb3094030750360e813bd7bf9e17195c5d0",
+          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案",
+          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+          "source": "www.readtheline.ca",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T22:31:42.105000Z"
+          "published_at": "2026-07-06T03:19:43.349000Z"
         },
         {
-          "id": "0e2c8060c184d2498571c53e592bb53e2e4bde1b",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T18:47:43Z"
+          "id": "488cdefc119bbe2cc2526509a0d58325c3edab5d",
+          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-06T00:04:48Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews",
-        "intextbooks.science.uu.nl"
+        "www.readtheline.ca"
       ],
       "items": [
         {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
+          "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
+          "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+          "url": "https://news.ycombinator.com/item?id=48799256",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T23:41:23.962000Z"
+          "published_at": "2026-07-06T04:41:10.770000Z"
         },
         {
-          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "intextbooks.science.uu.nl",
+          "id": "15f3ccb3094030750360e813bd7bf9e17195c5d0",
+          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案",
+          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+          "source": "www.readtheline.ca",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-05T22:31:42.105000Z"
+          "published_at": "2026-07-06T03:19:43.349000Z"
         },
         {
-          "id": "0e2c8060c184d2498571c53e592bb53e2e4bde1b",
-          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T18:47:43Z"
+          "id": "488cdefc119bbe2cc2526509a0d58325c3edab5d",
+          "title": "阿尔·维吉耶：加拿大的人工智能战略不应包含涉及帕兰蒂尔的秘密法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-06T00:04:48Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9955,
+        "recency": 0.9947,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T18:47:43Z",
-      "latest_at": "2026-07-05T23:41:23.962000Z",
+      "earliest_at": "2026-07-06T00:04:48Z",
+      "latest_at": "2026-07-06T04:41:10.770000Z",
       "primary_item": {
-        "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-        "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-        "url": "https://news.ycombinator.com/item?id=48796817",
+        "id": "e469011b6c6a58464757e88161e7855d2c75fa78",
+        "title": "Al Vigier：加拿大的人工智能战略不应包括秘密的 Palantir 法案 / Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+        "url": "https://news.ycombinator.com/item?id=48799256",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_6010bac3beb7",
-      "title": "CoplayDev /      unity-mcp",
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "primary_url": "https://github.com/CoplayDev/unity-mcp",
-      "source": "github",
-      "source_name": "NewsNow",
+      "story_id": "story_71f698610ab9",
+      "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
+      "url": "https://www.aibase.com/news/29388",
+      "primary_url": "https://www.aibase.com/news/29388",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c7034b7c05b248881c674e92dc93b8b8ef943174",
-          "title": "CoplayDev /      unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "7334a7a89e6192d9ae798d3dd94f7716d325fd78",
-          "title": "CoplayDev / unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
+          "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
+          "url": "https://www.aibase.com/news/29388",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c7034b7c05b248881c674e92dc93b8b8ef943174",
-          "title": "CoplayDev /      unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "7334a7a89e6192d9ae798d3dd94f7716d325fd78",
-          "title": "CoplayDev / unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
+          "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
+          "url": "https://www.aibase.com/news/29388",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T05:03:17.751572Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-06T00:00:01.197343Z",
-      "latest_at": "2026-07-06T00:01:51.158000Z",
+      "earliest_at": "2026-07-06T05:03:17.751572Z",
+      "latest_at": "2026-07-06T05:03:17.751572Z",
       "primary_item": {
-        "id": "c7034b7c05b248881c674e92dc93b8b8ef943174",
-        "title": "CoplayDev /      unity-mcp",
-        "url": "https://github.com/CoplayDev/unity-mcp",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_b97dfb6a3918",
-      "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-      "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-      "source": "techcrunch.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
-          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T19:03:35.047000Z"
-        },
-        {
-          "id": "1308301c1c1e259ef83b36cc49e584fc55b1bbcb",
-          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T17:05:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
-          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T19:03:35.047000Z"
-        },
-        {
-          "id": "1308301c1c1e259ef83b36cc49e584fc55b1bbcb",
-          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T17:05:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9311,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T17:05:35Z",
-      "latest_at": "2026-07-05T19:03:35.047000Z",
-      "primary_item": {
-        "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
-        "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-        "source": "techcrunch.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_157847605492",
-      "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "primary_url": "https://github.com/alirezarezvani/claude-skills",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:00:01.197343Z",
-      "latest_at": "2026-07-06T00:01:51.158000Z",
-      "primary_item": {
-        "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
-        "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
-        "url": "https://github.com/alirezarezvani/claude-skills",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_86b22559dc84",
-      "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-      "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-      "primary_url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T11:19:41.901000Z"
-        },
-        {
-          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T11:06:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T11:19:41.901000Z"
-        },
-        {
-          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T11:06:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8328,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T11:06:01Z",
-      "latest_at": "2026-07-05T11:19:41.901000Z",
-      "primary_item": {
-        "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-        "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-        "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c7f7e9fbc46c",
-      "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "primary_url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:00:01.197343Z",
-      "latest_at": "2026-07-06T00:01:51.158000Z",
-      "primary_item": {
-        "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
-        "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-        "url": "https://github.com/hesreallyhim/awesome-claude-code",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9c241fb43bc9",
-      "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "primary_url": "https://github.com/anthropics/claude-code",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:00:01.197343Z",
-      "latest_at": "2026-07-06T00:01:51.158000Z",
-      "primary_item": {
-        "id": "2e072617880966c376984c0063b46b286f706f04",
-        "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-        "url": "https://github.com/anthropics/claude-code",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_fa6538e9d176",
-      "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "primary_url": "https://github.com/steipete/CodexBar",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
-          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
-          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
-          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-06T00:01:51.158000Z"
-        },
-        {
-          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
-          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T00:00:01.197343Z",
-      "latest_at": "2026-07-06T00:01:51.158000Z",
-      "primary_item": {
-        "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
-        "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
-        "url": "https://github.com/steipete/CodexBar",
-        "source": "github",
-        "source_name": "NewsNow"
+        "id": "65e06845d3b143ed536e86071e9e946d5f8ca1b3",
+        "title": "复旦期末开卷新高度：学生出题反向“调教”AI， 4 人斩获满分",
+        "url": "https://www.aibase.com/news/29388",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
