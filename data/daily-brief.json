@@ -1,52 +1,152 @@
 {
-  "generated_at": "2026-07-07T13:00:01.917418Z",
+  "generated_at": "2026-07-08T13:00:06.147098Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_0a1d2bd6cc12",
-      "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "Hugging Face Blog",
+      "story_id": "story_779e86c533da",
+      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+      "primary_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
+          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "578c96b0cc2eed1f1c0b89821a333ea774423925",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T05:25:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "noma.security"
+      ],
+      "items": [
+        {
+          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
+          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "578c96b0cc2eed1f1c0b89821a333ea774423925",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T05:25:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.937,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T05:25:35Z",
+      "latest_at": "2026-07-08T08:29:47.091000Z",
+      "primary_item": {
+        "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+        "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_69bcbdfd037d",
+      "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+      "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-          "url": "https://huggingface.co/blog/lerobot-release-v060",
-          "source": "Hugging Face Blog",
+          "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+          "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+          "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
+          "published_at": "2026-07-08T04:53:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-          "url": "https://huggingface.co/blog/lerobot-release-v060",
-          "source": "Hugging Face Blog",
+          "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+          "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+          "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
+          "published_at": "2026-07-08T04:53:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "ai_relevance": 0.87,
+        "recency": 0.8894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,85 +155,816 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
+      "earliest_at": "2026-07-08T04:53:01Z",
+      "latest_at": "2026-07-08T04:53:01Z",
       "primary_item": {
-        "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-        "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-        "url": "https://huggingface.co/blog/lerobot-release-v060",
+        "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+        "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+        "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ca9a2a21da07",
+      "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "primary_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T21:15:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T21:15:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7967,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T21:15:33Z",
+      "latest_at": "2026-07-07T21:15:33Z",
+      "primary_item": {
+        "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+        "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f99d93502f25",
-      "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_85e90d55efed",
+      "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+      "primary_url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "eb5a5231597292933b2f6d273d45680e417563bb",
+          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T23:03:34.910000Z"
+          "published_at": "2026-07-08T07:00:51Z"
         },
         {
-          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "id": "4bc5394a134e8ce567c270b1a65cb50a508f93c3",
+          "title": "黑客可以利用9种最流行的AI工具来组建庞大的僵尸网络",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T07:41:47.077000Z"
+        },
+        {
+          "id": "f221d9ecc617472f965b828635bedd1120d8afb1",
+          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络 / Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T07:00:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "eb5a5231597292933b2f6d273d45680e417563bb",
+          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T07:00:51Z"
+        },
+        {
+          "id": "4bc5394a134e8ce567c270b1a65cb50a508f93c3",
+          "title": "黑客可以利用9种最流行的AI工具来组建庞大的僵尸网络",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T07:41:47.077000Z"
+        },
+        {
+          "id": "f221d9ecc617472f965b828635bedd1120d8afb1",
+          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络 / Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T07:00:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9172,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T07:00:51Z",
+      "latest_at": "2026-07-08T07:41:47.077000Z",
+      "primary_item": {
+        "id": "eb5a5231597292933b2f6d273d45680e417563bb",
+        "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+        "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a21a2c62d75d",
+      "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
+      "url": "https://www.ithome.com/0/974/169.htm",
+      "primary_url": "https://www.ithome.com/0/974/169.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
+          "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
+          "url": "https://www.ithome.com/0/974/169.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T09:55:17Z"
+        },
+        {
+          "id": "45f07a6667890e78181627288634074faec0ef9b",
+          "title": "未上报凶手暴力 ChatGPT 对话，加拿大一省拟就校园枪击案起诉 OpenAI",
+          "url": "https://www.ithome.com/0/974/169.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T09:55:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
+          "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
+          "url": "https://www.ithome.com/0/974/169.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T09:55:17Z"
+        },
+        {
+          "id": "45f07a6667890e78181627288634074faec0ef9b",
+          "title": "未上报凶手暴力 ChatGPT 对话，加拿大一省拟就校园枪击案起诉 OpenAI",
+          "url": "https://www.ithome.com/0/974/169.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-08T09:55:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9565,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T09:55:17Z",
+      "latest_at": "2026-07-08T09:55:17Z",
+      "primary_item": {
+        "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
+        "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
+        "url": "https://www.ithome.com/0/974/169.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d4caa9e3147d",
+      "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:05:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:05:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8299,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T00:05:35Z",
+      "latest_at": "2026-07-08T00:05:35Z",
+      "primary_item": {
+        "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+        "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+        "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_024a3808c07a",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+          "title": "Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:20:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+          "title": "Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:20:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7313,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:20:06Z",
+      "latest_at": "2026-07-07T15:20:06Z",
+      "primary_item": {
+        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+        "title": "Hugging Face Models on Foundry Managed Compute",
+        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3615d9eeb3d0",
+      "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
+      "url": "https://x.com/berryxia/status/2074827915779580055",
+      "primary_url": "https://x.com/berryxia/status/2074827915779580055",
+      "source": "X：Berry Xia (@berryxia)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
+          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
+          "url": "https://x.com/berryxia/status/2074827915779580055",
+          "source": "X：Berry Xia (@berryxia)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T12:08:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Berry Xia (@berryxia)"
+      ],
+      "items": [
+        {
+          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
+          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
+          "url": "https://x.com/berryxia/status/2074827915779580055",
+          "source": "X：Berry Xia (@berryxia)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T12:08:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9876,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T12:08:18Z",
+      "latest_at": "2026-07-08T12:08:18Z",
+      "primary_item": {
+        "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
+        "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
+        "url": "https://x.com/berryxia/status/2074827915779580055",
+        "source": "X：Berry Xia (@berryxia)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2be33636230",
+      "title": "Rowboat：开源、本地优先的桌面AI助手",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "primary_url": "https://github.com/rowboatlabs/rowboat",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a367a1ae1f30bf387c227f6dc57e5a7ace64d8b",
+          "title": "Rowboat：开源、本地优先的桌面AI助手",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:10:44Z"
+        },
+        {
+          "id": "714ea864cb1ba25214517302fe79105a5c75c083",
+          "title": "Show HN: Rowboat——Claude Desktop 的开源、本地优先替代方案",
+          "url": "https://github.com/rowboatlabs/rowboat",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-06T23:03:34.910000Z"
+          "published_at": "2026-07-08T02:37:46.152000Z"
         },
         {
-          "id": "c0edef91074bd1918b880c882d0a93dbe1ec476f",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "id": "8c4bf7d0007db5d17b80574c9a1529838dd96ffe",
+          "title": "Rowboat：开源、本地优先的桌面AI助手 / Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+          "url": "https://github.com/rowboatlabs/rowboat",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-06T16:47:44Z"
+          "published_at": "2026-07-07T16:10:44Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News：AI 热帖",
         "github.com"
       ],
       "items": [
         {
-          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0a367a1ae1f30bf387c227f6dc57e5a7ace64d8b",
+          "title": "Rowboat：开源、本地优先的桌面AI助手",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T23:03:34.910000Z"
+          "published_at": "2026-07-07T16:10:44Z"
         },
         {
-          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "id": "714ea864cb1ba25214517302fe79105a5c75c083",
+          "title": "Show HN: Rowboat——Claude Desktop 的开源、本地优先替代方案",
+          "url": "https://github.com/rowboatlabs/rowboat",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-06T23:03:34.910000Z"
+          "published_at": "2026-07-08T02:37:46.152000Z"
         },
         {
-          "id": "c0edef91074bd1918b880c882d0a93dbe1ec476f",
-          "title": "OfficeCLI：为AI智能体设计的开源Office套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "id": "8c4bf7d0007db5d17b80574c9a1529838dd96ffe",
+          "title": "Rowboat：开源、本地优先的桌面AI助手 / Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+          "url": "https://github.com/rowboatlabs/rowboat",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-06T16:47:44Z"
+          "published_at": "2026-07-07T16:10:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7403,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T16:10:44Z",
+      "latest_at": "2026-07-08T02:37:46.152000Z",
+      "primary_item": {
+        "id": "0a367a1ae1f30bf387c227f6dc57e5a7ace64d8b",
+        "title": "Rowboat：开源、本地优先的桌面AI助手",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8f63cacb1008",
+      "title": "工信部发布Claude Code后门安全风险提示",
+      "url": "https://x.com/xiaohu/status/2074736623284256881",
+      "primary_url": "https://x.com/xiaohu/status/2074736623284256881",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
+          "title": "工信部发布Claude Code后门安全风险提示",
+          "url": "https://x.com/xiaohu/status/2074736623284256881",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T06:05:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小互 (@xiaohu)"
+      ],
+      "items": [
+        {
+          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
+          "title": "工信部发布Claude Code后门安全风险提示",
+          "url": "https://x.com/xiaohu/status/2074736623284256881",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T06:05:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.905,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T06:05:32Z",
+      "latest_at": "2026-07-08T06:05:32Z",
+      "primary_item": {
+        "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
+        "title": "工信部发布Claude Code后门安全风险提示",
+        "url": "https://x.com/xiaohu/status/2074736623284256881",
+        "source": "X：小互 (@xiaohu)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1a33b32337b2",
+      "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+      "url": "https://www.aibase.com/news/29467",
+      "primary_url": "https://www.aibase.com/news/29467",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+          "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+          "url": "https://www.aibase.com/news/29467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T13:00:06.147098Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+          "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+          "url": "https://www.aibase.com/news/29467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T13:00:06.147098Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T13:00:06.147098Z",
+      "latest_at": "2026-07-08T13:00:06.147098Z",
+      "primary_item": {
+        "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+        "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+        "url": "https://www.aibase.com/news/29467",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0a4741a19553",
+      "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+      "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+      "primary_url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
+          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:03:22Z"
+        },
+        {
+          "id": "403013bddf9cfb52db46563ec398efd7f3319ad2",
+          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知 / Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
+          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-08T03:03:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
+          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:03:22Z"
+        },
+        {
+          "id": "403013bddf9cfb52db46563ec398efd7f3319ad2",
+          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知 / Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
+          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-08T03:03:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8662,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T03:03:22Z",
+      "latest_at": "2026-07-08T03:03:22Z",
+      "primary_item": {
+        "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
+        "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+        "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_269964bab90b",
+      "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+      "primary_url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
+          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "blog.zksecurity.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "c298885b7831994a22d9f82a3374bcb5fb55c031",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-07T18:36:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "blog.zksecurity.xyz"
+      ],
+      "items": [
+        {
+          "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "fc8b482280d5c66a94ef92e7c75a9f1eda0f8f9d",
+          "title": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "blog.zksecurity.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T04:29:33.609000Z"
+        },
+        {
+          "id": "c298885b7831994a22d9f82a3374bcb5fb55c031",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞 / AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-07T18:36:35Z"
         }
       ],
       "item_count": 3,
@@ -143,10 +974,10 @@
       "importance_score": 0.7938,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8177,
+        "recency": 0.8844,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -155,141 +986,261 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T16:47:44Z",
-      "latest_at": "2026-07-06T23:03:34.910000Z",
+      "earliest_at": "2026-07-07T18:36:35Z",
+      "latest_at": "2026-07-08T04:29:33.609000Z",
       "primary_item": {
-        "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
-        "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-        "url": "https://github.com/iOfficeAI/OfficeCLI",
+        "id": "a707ac2bd7835625b0107a0fd2578b0273740773",
+        "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+        "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_32d306e067bc",
-      "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-      "url": "https://www.aibase.com/news/29432",
-      "primary_url": "https://www.aibase.com/news/29432",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3141dc0b0f22",
+      "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+      "url": "https://x.com/shao__meng/status/2074661249804366310",
+      "primary_url": "https://x.com/shao__meng/status/2074661249804366310",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.aibase.com/news/29432",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T11:00:01.917418Z"
+          "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+          "url": "https://x.com/shao__meng/status/2074661249804366310",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T01:06:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+          "url": "https://x.com/shao__meng/status/2074661249804366310",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T01:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8421,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T01:06:01Z",
+      "latest_at": "2026-07-08T01:06:01Z",
+      "primary_item": {
+        "id": "4c6ee0578dce923499b5d675ab3913477ad67981",
+        "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
+        "url": "https://x.com/shao__meng/status/2074661249804366310",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_87248c3e75db",
+      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+      "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+      "primary_url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "520d141c1f7b15fdf61d17c8ddef962d8234d945",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T18:35:58Z"
         },
         {
-          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ed234fe6766f5ee1e028bd4a44996734bc959055",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型 / Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T18:35:58Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "量子位 · 每日最新"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.aibase.com/news/29432",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T11:00:01.917418Z"
+          "id": "520d141c1f7b15fdf61d17c8ddef962d8234d945",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T18:35:58Z"
         },
         {
-          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ed234fe6766f5ee1e028bd4a44996734bc959055",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型 / Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-07T18:35:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.7666,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T11:00:01.917418Z",
-      "latest_at": "2026-07-07T13:00:01.917418Z",
+      "earliest_at": "2026-07-07T18:35:58Z",
+      "latest_at": "2026-07-07T18:35:58Z",
       "primary_item": {
-        "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-        "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-        "url": "https://www.aibase.com/news/29432",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "520d141c1f7b15fdf61d17c8ddef962d8234d945",
+        "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+        "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_088a18b234ed",
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "primary_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b4d0438fe083",
+      "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+      "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+      "primary_url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4445bdbc0527b7146032ce4e31166332c0c03867",
-          "title": "PRX Part 4: Our Data Strategy",
-          "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-06T15:30:55Z"
+          "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
+          "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+          "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:12:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "4445bdbc0527b7146032ce4e31166332c0c03867",
-          "title": "PRX Part 4: Our Data Strategy",
-          "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-06T15:30:55Z"
+          "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
+          "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+          "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:12:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8312,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T00:12:06Z",
+      "latest_at": "2026-07-08T00:12:06Z",
+      "primary_item": {
+        "id": "01cc1f5023a1031d357185949053fd4c767c8a9b",
+        "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+        "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5b541b9a66cd",
+      "title": "GitHub Copilot app available to all",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:10:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:10:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7333,
+        "ai_relevance": 0.91,
+        "recency": 0.7296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -298,113 +1249,153 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T15:30:55Z",
-      "latest_at": "2026-07-06T15:30:55Z",
+      "earliest_at": "2026-07-07T15:10:14Z",
+      "latest_at": "2026-07-07T15:10:14Z",
       "primary_item": {
-        "id": "4445bdbc0527b7146032ce4e31166332c0c03867",
-        "title": "PRX Part 4: Our Data Strategy",
-        "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-        "source": "Hugging Face Blog",
+        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+        "title": "GitHub Copilot app available to all",
+        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_22b92e70fc9f",
-      "title": "美国首批自主地面车辆在乌克兰参战",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-      "primary_url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_4930f6a41be1",
+      "title": "中国拟限制外国访问最强AI模型",
+      "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
-          "title": "美国首批自主地面车辆在乌克兰参战",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "241f566835a2017dff0514efc1065475f7186340",
+          "title": "中国拟限制外国访问最强AI模型",
+          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        },
-        {
-          "id": "714c88d357cd00f2e12ff824f0fd94c5e3294b7d",
-          "title": "美国首批自主地面车辆在乌克兰参战 / The first American autonomous ground vehicles are fighting in Ukraine",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-07T09:00:00Z"
+          "published_at": "2026-07-07T15:14:30Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
-          "title": "美国首批自主地面车辆在乌克兰参战",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "241f566835a2017dff0514efc1065475f7186340",
+          "title": "中国拟限制外国访问最强AI模型",
+          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        },
-        {
-          "id": "714c88d357cd00f2e12ff824f0fd94c5e3294b7d",
-          "title": "美国首批自主地面车辆在乌克兰参战 / The first American autonomous ground vehicles are fighting in Ukraine",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-07T09:00:00Z"
+          "published_at": "2026-07-07T15:14:30Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.25
+        "recency": 0.7304,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T09:00:00Z",
-      "latest_at": "2026-07-07T09:00:00Z",
+      "earliest_at": "2026-07-07T15:14:30Z",
+      "latest_at": "2026-07-07T15:14:30Z",
       "primary_item": {
-        "id": "5f55bf4ba8680bca9a7f13cadd0b49c8f19f9674",
-        "title": "美国首批自主地面车辆在乌克兰参战",
-        "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "241f566835a2017dff0514efc1065475f7186340",
+        "title": "中国拟限制外国访问最强AI模型",
+        "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9af14cc051d7",
-      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-      "url": "https://x.com/emollick/status/2074348274136346871",
-      "primary_url": "https://x.com/emollick/status/2074348274136346871",
+      "story_id": "story_8b657dc98587",
+      "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+      "url": "https://www.ithome.com/0/973/922.htm",
+      "primary_url": "https://www.ithome.com/0/973/922.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
+          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+          "url": "https://www.ithome.com/0/973/922.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:30:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
+          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+          "url": "https://www.ithome.com/0/973/922.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:30:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.872,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T03:30:52Z",
+      "latest_at": "2026-07-08T03:30:52Z",
+      "primary_item": {
+        "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
+        "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+        "url": "https://www.ithome.com/0/973/922.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7592bb376a1a",
+      "title": "Ethan Mollick：开放权重模型供给难持续",
+      "url": "https://x.com/emollick/status/2074497401578996154",
+      "primary_url": "https://x.com/emollick/status/2074497401578996154",
       "source": "X：Ethan Mollick (@emollick)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-          "url": "https://x.com/emollick/status/2074348274136346871",
+          "id": "2a2c1619b116c242bb4fbe10f85b28be49de2a5f",
+          "title": "Ethan Mollick：开放权重模型供给难持续",
+          "url": "https://x.com/emollick/status/2074497401578996154",
           "source": "X：Ethan Mollick (@emollick)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T04:22:22Z"
+          "published_at": "2026-07-07T14:14:57Z"
         }
       ],
       "source_count": 1,
@@ -413,991 +1404,40 @@
       ],
       "items": [
         {
-          "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-          "url": "https://x.com/emollick/status/2074348274136346871",
+          "id": "2a2c1619b116c242bb4fbe10f85b28be49de2a5f",
+          "title": "Ethan Mollick：开放权重模型供给难持续",
+          "url": "https://x.com/emollick/status/2074497401578996154",
           "source": "X：Ethan Mollick (@emollick)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T04:22:22Z"
+          "published_at": "2026-07-07T14:14:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8829,
+        "recency": 0.72,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T04:22:22Z",
-      "latest_at": "2026-07-07T04:22:22Z",
+      "earliest_at": "2026-07-07T14:14:57Z",
+      "latest_at": "2026-07-07T14:14:57Z",
       "primary_item": {
-        "id": "3d91a776dbb34f31b1748518b01c9cbf7479ba34",
-        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-        "url": "https://x.com/emollick/status/2074348274136346871",
+        "id": "2a2c1619b116c242bb4fbe10f85b28be49de2a5f",
+        "title": "Ethan Mollick：开放权重模型供给难持续",
+        "url": "https://x.com/emollick/status/2074497401578996154",
         "source": "X：Ethan Mollick (@emollick)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_efce1537dac0",
-      "title": "Grok Imagine 更新：支持 15 秒视频",
-      "url": "https://x.com/elonmusk/status/2074378653501128833",
-      "primary_url": "https://x.com/elonmusk/status/2074378653501128833",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-          "title": "Grok Imagine 更新：支持 15 秒视频",
-          "url": "https://x.com/elonmusk/status/2074378653501128833",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T06:23:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-          "title": "Grok Imagine 更新：支持 15 秒视频",
-          "url": "https://x.com/elonmusk/status/2074378653501128833",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T06:23:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9089,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T06:23:05Z",
-      "latest_at": "2026-07-07T06:23:05Z",
-      "primary_item": {
-        "id": "5f15a8efec40443f9add6484906b3e617d5fa585",
-        "title": "Grok Imagine 更新：支持 15 秒视频",
-        "url": "https://x.com/elonmusk/status/2074378653501128833",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94d69a90ce66",
-      "title": "Claude Code v2.1.202 发布",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-          "title": "Claude Code v2.1.202 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T22:51:16Z"
-        },
-        {
-          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
-          "title": "v2.1.202",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T22:51:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude Code Releases",
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-          "title": "Claude Code v2.1.202 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T22:51:16Z"
-        },
-        {
-          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
-          "title": "v2.1.202",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T22:51:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8152,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T22:51:16Z",
-      "latest_at": "2026-07-06T22:51:16Z",
-      "primary_item": {
-        "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
-        "title": "Claude Code v2.1.202 发布",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_224f5f92f80b",
-      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "primary_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T06:45:06.341000Z"
-        },
-        {
-          "id": "828c057884ba8f799263c06c670626174e279508",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T23:59:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T06:45:06.341000Z"
-        },
-        {
-          "id": "828c057884ba8f799263c06c670626174e279508",
-          "title": "在网络不稳定的地区，小型AI模型正逐渐普及 / Small AI Models Gain Traction In places with unreliable networks",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T23:59:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9137,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T23:59:54Z",
-      "latest_at": "2026-07-07T06:45:06.341000Z",
-      "primary_item": {
-        "id": "e4f5426e0c655b56ef0ee7313e03cac786551714",
-        "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_506f3c6ff46a",
-      "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
-      "primary_url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c510dd78fec55b982109ae9f1fd9e8a1fac8a294",
-          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:35:00Z"
-        },
-        {
-          "id": "ad58da57f730ee5c13d5cf316f003be3441908ee",
-          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位 / Every major tech layoff in 2026 that has name-checked AI",
-          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T18:35:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c510dd78fec55b982109ae9f1fd9e8a1fac8a294",
-          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:35:00Z"
-        },
-        {
-          "id": "ad58da57f730ee5c13d5cf316f003be3441908ee",
-          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位 / Every major tech layoff in 2026 that has name-checked AI",
-          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T18:35:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7665,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T18:35:00Z",
-      "latest_at": "2026-07-06T18:35:00Z",
-      "primary_item": {
-        "id": "c510dd78fec55b982109ae9f1fd9e8a1fac8a294",
-        "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-        "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf5265d5a9bf",
-      "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
-      "url": "https://www.aibase.com/news/29436",
-      "primary_url": "https://www.aibase.com/news/29436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
-          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
-          "url": "https://www.aibase.com/news/29436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
-          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
-          "url": "https://www.aibase.com/news/29436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T13:00:01.917418Z",
-      "latest_at": "2026-07-07T13:00:01.917418Z",
-      "primary_item": {
-        "id": "70de58f4488252d4956c9539101570b5b5f4537d",
-        "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
-        "url": "https://www.aibase.com/news/29436",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_10894b601ae7",
-      "title": "Gemini Spark 可智能追踪话题实时反应",
-      "url": "https://x.com/GeminiApp/status/2074280473581572600",
-      "primary_url": "https://x.com/GeminiApp/status/2074280473581572600",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-          "title": "Gemini Spark 可智能追踪话题实时反应",
-          "url": "https://x.com/GeminiApp/status/2074280473581572600",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-          "title": "Gemini Spark 可智能追踪话题实时反应",
-          "url": "https://x.com/GeminiApp/status/2074280473581572600",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T23:52:57Z",
-      "latest_at": "2026-07-06T23:52:57Z",
-      "primary_item": {
-        "id": "0c436f1daebceeda2a4e532ead7482d2ba0f7b0a",
-        "title": "Gemini Spark 可智能追踪话题实时反应",
-        "url": "https://x.com/GeminiApp/status/2074280473581572600",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f8c6e8e93c27",
-      "title": "免费开源API中转站监测网站tokhub.me上线",
-      "url": "https://x.com/vista8/status/2074130700421456089",
-      "primary_url": "https://x.com/vista8/status/2074130700421456089",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
-          "title": "免费开源API中转站监测网站tokhub.me上线",
-          "url": "https://x.com/vista8/status/2074130700421456089",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T13:57:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
-          "title": "免费开源API中转站监测网站tokhub.me上线",
-          "url": "https://x.com/vista8/status/2074130700421456089",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T13:57:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.717,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T13:57:49Z",
-      "latest_at": "2026-07-06T13:57:49Z",
-      "primary_item": {
-        "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
-        "title": "免费开源API中转站监测网站tokhub.me上线",
-        "url": "https://x.com/vista8/status/2074130700421456089",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cb93fdb7a13f",
-      "title": "Claude Code 团队详解四种智能体循环类型",
-      "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-      "primary_url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-          "title": "Claude Code 团队详解四种智能体循环类型",
-          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T19:08:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-          "title": "Claude Code 团队详解四种智能体循环类型",
-          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T19:08:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7727,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T19:08:45Z",
-      "latest_at": "2026-07-06T19:08:45Z",
-      "primary_item": {
-        "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
-        "title": "Claude Code 团队详解四种智能体循环类型",
-        "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6e07258dc312",
-      "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-      "url": "https://www.aibase.com/news/29443",
-      "primary_url": "https://www.aibase.com/news/29443",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-          "url": "https://www.aibase.com/news/29443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-          "url": "https://www.aibase.com/news/29443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T13:00:01.917418Z",
-      "latest_at": "2026-07-07T13:00:01.917418Z",
-      "primary_item": {
-        "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-        "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-        "url": "https://www.aibase.com/news/29443",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e9c34c77de00",
-      "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
-      "primary_url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d98168c4f008ef7867e884f3fa1e6eabd4560f9c",
-          "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
-          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:56:14Z"
-        },
-        {
-          "id": "f8aef42920ff42a385f41d581a97694a71a4656f",
-          "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标 / The ‘first’ AI-run ransomware attack still needed a human",
-          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T23:56:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d98168c4f008ef7867e884f3fa1e6eabd4560f9c",
-          "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
-          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T23:56:14Z"
-        },
-        {
-          "id": "f8aef42920ff42a385f41d581a97694a71a4656f",
-          "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标 / The ‘first’ AI-run ransomware attack still needed a human",
-          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T23:56:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8281,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T23:56:14Z",
-      "latest_at": "2026-07-06T23:56:14Z",
-      "primary_item": {
-        "id": "d98168c4f008ef7867e884f3fa1e6eabd4560f9c",
-        "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
-        "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_131f99f8c6ac",
-      "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-      "url": "https://www.aibase.com/news/29437",
-      "primary_url": "https://www.aibase.com/news/29437",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-          "url": "https://www.aibase.com/news/29437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-          "url": "https://www.aibase.com/news/29437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T13:00:01.917418Z",
-      "latest_at": "2026-07-07T13:00:01.917418Z",
-      "primary_item": {
-        "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
-        "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
-        "url": "https://www.aibase.com/news/29437",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_524024212bc7",
-      "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-      "primary_url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
-        },
-        {
-          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T17:04:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
-        },
-        {
-          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
-          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-06T17:04:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T17:04:58Z",
-      "latest_at": "2026-07-06T17:04:58Z",
-      "primary_item": {
-        "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
-        "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d09a7f859582",
-      "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-      "url": "https://www.aibase.com/news/29439",
-      "primary_url": "https://www.aibase.com/news/29439",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-          "url": "https://www.aibase.com/news/29439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-          "url": "https://www.aibase.com/news/29439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T13:00:01.917418Z",
-      "latest_at": "2026-07-07T13:00:01.917418Z",
-      "primary_item": {
-        "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
-        "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
-        "url": "https://www.aibase.com/news/29439",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a4218777eae6",
-      "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
-      "url": "https://www.aibase.com/news/29441",
-      "primary_url": "https://www.aibase.com/news/29441",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
-          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
-          "url": "https://www.aibase.com/news/29441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
-          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
-          "url": "https://www.aibase.com/news/29441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:00:01.917418Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T13:00:01.917418Z",
-      "latest_at": "2026-07-07T13:00:01.917418Z",
-      "primary_item": {
-        "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
-        "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
-        "url": "https://www.aibase.com/news/29441",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
