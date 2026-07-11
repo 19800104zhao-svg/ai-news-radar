@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-10T13:00:03.317381Z",
+  "generated_at": "2026-07-11T13:00:02.129965Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 196,
-      "duration_ms": 15008,
+      "item_count": 190,
+      "duration_ms": 14028,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Curated Media",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 5862,
+      "duration_ms": 15864,
       "error": null
     },
     {
@@ -22,15 +22,15 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 380,
+      "duration_ms": 340,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 45,
-      "duration_ms": 219,
+      "item_count": 1,
+      "duration_ms": 367,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 529,
+      "duration_ms": 530,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 506,
+      "duration_ms": 711,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 479,
-      "duration_ms": 21734,
+      "item_count": 414,
+      "duration_ms": 19641,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1016,
+      "duration_ms": 673,
       "error": null
     },
     {
@@ -70,23 +70,23 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3042,
-      "duration_ms": 1184,
+      "duration_ms": 1059,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 77,
-      "duration_ms": 511,
+      "item_count": 67,
+      "duration_ms": 484,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 3,
-      "duration_ms": 8355,
+      "item_count": 2,
+      "duration_ms": 15711,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 24,
-      "duration_ms": 341,
+      "duration_ms": 378,
       "error": null
     },
     {
@@ -102,41 +102,43 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1668,
+      "duration_ms": 1835,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 114,
-      "duration_ms": 535,
+      "item_count": 123,
+      "duration_ms": 592,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": true,
-      "item_count": 129,
-      "duration_ms": 2230,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 44127,
+      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=36kr (Caused by ResponseError('too many 500 error responses'))"
     },
     {
       "site_id": "waytoagi",
       "site_name": "WaytoAGI",
       "ok": true,
-      "item_count": 6,
-      "duration_ms": 8084,
+      "item_count": 7,
+      "duration_ms": 8258,
       "error": null
     }
   ],
-  "successful_sites": 16,
-  "failed_sites": [],
+  "successful_sites": 15,
+  "failed_sites": [
+    "newsnow"
+  ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 5333,
-  "items_before_topic_filter": 2706,
-  "items_in_24h": 398,
+  "fetched_raw_items": 5088,
+  "items_before_topic_filter": 3431,
+  "items_in_24h": 330,
   "rss_opml": {
     "enabled": false,
     "path": null,
@@ -171,7 +173,7 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-07-10",
+    "generated_date_utc": "2026-07-11",
     "disabled_reason": "no_bearer_token"
   },
   "socialdata": {
@@ -196,7 +198,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": "2026-06-29T21:07:48.528628Z",
     "last_success_at": "2026-06-29T21:07:48.528628Z",
-    "generated_date_utc": "2026-07-10",
+    "generated_date_utc": "2026-07-11",
     "disabled_reason": "no_api_key"
   },
   "tikhub": {
@@ -221,7 +223,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": "2026-06-29T09:01:44.281285Z",
     "last_success_at": "2026-06-29T09:01:44.281285Z",
-    "generated_date_utc": "2026-07-10",
+    "generated_date_utc": "2026-07-11",
     "disabled_reason": "no_api_key"
   }
 }
