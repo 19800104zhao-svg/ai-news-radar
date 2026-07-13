@@ -2,7 +2,7 @@
   "site": "news.tonyzhao.com",
   "purpose": "自动更新的 24 小时中文 AI 新闻雷达。多信源抓取→去重→AI相关性打分→故事线合并→多源认证。站点只提供结构化素材，推理与呈现交给访客 agent 自己做。",
   "base_url": "https://news.tonyzhao.com",
-  "generated_at": "2026-07-12T13:02:07.905552Z",
+  "generated_at": "2026-07-13T13:00:05.826154Z",
   "update_frequency": "每天约一次（本机 launchd 定时，电脑关机不跑；数据以各 JSON 内 generated_at 为准）",
   "language": "zh-CN（标题含中英双语）",
   "endpoints": [
