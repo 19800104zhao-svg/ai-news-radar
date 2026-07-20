@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-20T13:00:02.212571Z",
+  "generated_at": "2026-07-20T22:58:54.059439Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 172,
-      "duration_ms": 23524,
+      "duration_ms": 11658,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 44,
-      "duration_ms": 6666,
+      "item_count": 46,
+      "duration_ms": 6305,
       "error": null
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
       "ok": true,
-      "item_count": 6,
-      "duration_ms": 586,
+      "item_count": 9,
+      "duration_ms": 283,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 30,
-      "duration_ms": 85,
+      "duration_ms": 219,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 1171,
+      "duration_ms": 1044,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 388,
+      "duration_ms": 897,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 496,
-      "duration_ms": 16303,
+      "item_count": 366,
+      "duration_ms": 11157,
       "error": null
     },
     {
@@ -62,31 +62,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 2245,
+      "duration_ms": 1958,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3051,
-      "duration_ms": 1357,
+      "item_count": 2974,
+      "duration_ms": 1255,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 55,
-      "duration_ms": 572,
+      "item_count": 77,
+      "duration_ms": 832,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 11157,
+      "item_count": 3,
+      "duration_ms": 9433,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 26,
-      "duration_ms": 181,
+      "duration_ms": 212,
       "error": null
     },
     {
@@ -102,45 +102,41 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1236,
+      "duration_ms": 996,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 97,
-      "duration_ms": 2778,
+      "item_count": 101,
+      "duration_ms": 2478,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 7347,
-      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=hackernews (Caused by ResponseError('too many 500 error responses'))"
+      "ok": true,
+      "item_count": 130,
+      "duration_ms": 1167,
+      "error": null
     },
     {
       "site_id": "waytoagi",
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 5327,
+      "duration_ms": 4227,
       "error": null
     }
   ],
-  "successful_sites": 15,
-  "failed_sites": [
-    "newsnow"
-  ],
-  "zero_item_sites": [
-    "hackernews"
-  ],
+  "successful_sites": 16,
+  "failed_sites": [],
+  "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 5153,
-  "items_before_topic_filter": 2869,
-  "items_in_24h": 315,
+  "fetched_raw_items": 5110,
+  "items_before_topic_filter": 3573,
+  "items_in_24h": 409,
   "rss_opml": {
     "enabled": false,
     "path": null,
