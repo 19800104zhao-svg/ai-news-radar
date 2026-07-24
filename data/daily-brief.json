@@ -1,250 +1,24 @@
 {
-  "generated_at": "2026-07-23T00:00:05.257207Z",
+  "generated_at": "2026-07-24T00:00:02.075645Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_482712912042",
-      "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-      "primary_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d153609eb57845646058e7718e14183113f17a91",
-          "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:38:54Z"
-        },
-        {
-          "id": "6455cb01f12eeec7cf0e56dc41b5e06e9d009007",
-          "title": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分 / Google commits $40M in AI tokens and credits for the Genesis Mission",
-          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d153609eb57845646058e7718e14183113f17a91",
-          "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:38:54Z"
-        },
-        {
-          "id": "6455cb01f12eeec7cf0e56dc41b5e06e9d009007",
-          "title": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分 / Google commits $40M in AI tokens and credits for the Genesis Mission",
-          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8611,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T13:38:54Z",
-      "latest_at": "2026-07-23T00:00:05.257207Z",
-      "primary_item": {
-        "id": "d153609eb57845646058e7718e14183113f17a91",
-        "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d8ab4e37a1c1",
-      "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
-      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
-          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
-          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
-          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
-          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9303,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T19:00:00Z",
-      "latest_at": "2026-07-22T19:00:00Z",
-      "primary_item": {
-        "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
-        "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
-        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c54f46e53d48",
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "primary_url": "https://openai.com/index/introducing-openai-presence",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-          "title": "Introducing OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T05:30:00Z"
-        },
-        {
-          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
-          "title": "OpenAI 存在 / OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T15:12:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-          "title": "Introducing OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T05:30:00Z"
-        },
-        {
-          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
-          "title": "OpenAI 存在 / OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T15:12:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7655,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T05:30:00Z",
-      "latest_at": "2026-07-22T15:12:26Z",
-      "primary_item": {
-        "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-        "title": "Introducing OpenAI Presence",
-        "url": "https://openai.com/index/introducing-openai-presence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3710e649c509",
-      "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "story_id": "story_d1636ce0d6d1",
+      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T16:21:47Z"
+          "published_at": "2026-07-23T22:32:23Z"
         }
       ],
       "source_count": 1,
@@ -253,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T16:21:47Z"
+          "published_at": "2026-07-23T22:32:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8956,
+        "ai_relevance": 0.94,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,41 +55,387 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T16:21:47Z",
-      "latest_at": "2026-07-22T16:21:47Z",
+      "earliest_at": "2026-07-23T22:32:23Z",
+      "latest_at": "2026-07-23T22:32:23Z",
       "primary_item": {
-        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-        "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_4f87af667aa6",
-      "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
-      "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
-      "primary_url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+      "story_id": "story_52002f50b4f8",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9411,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:47:58Z",
+      "latest_at": "2026-07-23T19:47:58Z",
+      "primary_item": {
+        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c1235e6e1a5b",
+      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
+          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "www.darpa.mil",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "7d1b9510d7c491b557fff9dc39ca2d6504386a93",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T13:51:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.darpa.mil"
+      ],
+      "items": [
+        {
+          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
+          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "www.darpa.mil",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "7d1b9510d7c491b557fff9dc39ca2d6504386a93",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T13:51:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9465,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T13:51:36Z",
+      "latest_at": "2026-07-23T20:11:31.906000Z",
+      "primary_item": {
+        "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_53c15e4668db",
+      "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T20:38:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T20:38:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9526,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T20:38:22Z",
+      "latest_at": "2026-07-23T20:38:22Z",
+      "primary_item": {
+        "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+        "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d70d846b51ce",
+      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "url": "https://www.ithome.com/0/980/890.htm",
+      "primary_url": "https://www.ithome.com/0/980/890.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.993,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T23:30:43Z",
+      "latest_at": "2026-07-23T23:30:43Z",
+      "primary_item": {
+        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "url": "https://www.ithome.com/0/980/890.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b2558e56df95",
+      "title": "ChatGPT 桌面版上线语音控制多智能体",
+      "url": "https://x.com/OpenAI/status/2080378182469857576",
+      "primary_url": "https://x.com/OpenAI/status/2080378182469857576",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
+          "title": "ChatGPT 桌面版上线语音控制多智能体",
+          "url": "https://x.com/OpenAI/status/2080378182469857576",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:43:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
+          "title": "ChatGPT 桌面版上线语音控制多智能体",
+          "url": "https://x.com/OpenAI/status/2080378182469857576",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:43:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.94,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:43:04Z",
+      "latest_at": "2026-07-23T19:43:04Z",
+      "primary_item": {
+        "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
+        "title": "ChatGPT 桌面版上线语音控制多智能体",
+        "url": "https://x.com/OpenAI/status/2080378182469857576",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f874ff9a4072",
+      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
-          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
-          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T19:33:48Z"
+          "published_at": "2026-07-23T17:01:30Z"
         },
         {
-          "id": "c493472cfb3e1f3f3cedd44ab43ec42152fd3a60",
-          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
-          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-07-22T19:33:48Z"
+          "published_at": "2026-07-23T17:01:30Z"
         }
       ],
       "source_count": 2,
@@ -325,35 +445,35 @@
       ],
       "items": [
         {
-          "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
-          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
-          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T19:33:48Z"
+          "published_at": "2026-07-23T17:01:30Z"
         },
         {
-          "id": "c493472cfb3e1f3f3cedd44ab43ec42152fd3a60",
-          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
-          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-07-22T19:33:48Z"
+          "published_at": "2026-07-23T17:01:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.86,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9379,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,365 +482,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T19:33:48Z",
-      "latest_at": "2026-07-22T19:33:48Z",
+      "earliest_at": "2026-07-23T17:01:30Z",
+      "latest_at": "2026-07-23T17:01:30Z",
       "primary_item": {
-        "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
-        "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
-        "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+        "id": "39ca60e336078bc560f5427e1deef672799be840",
+        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_844ec17c6121",
-      "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "primary_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-          "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
-          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-          "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
-          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8531,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
-      "primary_item": {
-        "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-        "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
-        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e9c71c13a6e7",
-      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-      "url": "https://github.com/marcelroed/gigatoken",
-      "primary_url": "https://github.com/marcelroed/gigatoken",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_9ae095cbc6ee",
+      "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "primary_url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
-          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "794df629b7a6322acb25902743aaec5346a26e71",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T18:51:32.473000Z"
+          "published_at": "2026-07-23T14:00:00Z"
         },
         {
-          "id": "a8c40916236521d37842f5fb913730ac539029cb",
-          "title": "GigaToken：语言模型分词速度提升约1000倍",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T18:51:32.473000Z"
-        },
-        {
-          "id": "f5fcc48e7fc6ad4c86ddb614a349ca9e55f1d88e",
-          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers / GigaToken: ~1000x faster Language model tokenization",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T17:20:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
-          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T18:51:32.473000Z"
-        },
-        {
-          "id": "a8c40916236521d37842f5fb913730ac539029cb",
-          "title": "GigaToken：语言模型分词速度提升约1000倍",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T18:51:32.473000Z"
-        },
-        {
-          "id": "f5fcc48e7fc6ad4c86ddb614a349ca9e55f1d88e",
-          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers / GigaToken: ~1000x faster Language model tokenization",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T17:20:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9284,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T17:20:38Z",
-      "latest_at": "2026-07-22T18:51:32.473000Z",
-      "primary_item": {
-        "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
-        "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-        "url": "https://github.com/marcelroed/gigatoken",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bd6ce42035f5",
-      "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "primary_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8531,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
-      "primary_item": {
-        "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-        "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1d793ca53d31",
-      "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-      "primary_url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
-          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T15:05:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
-          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T15:05:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8792,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T15:05:19Z",
-      "latest_at": "2026-07-22T15:05:19Z",
-      "primary_item": {
-        "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
-        "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_108e4a92a72a",
-      "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-      "url": "https://www.ithome.com/0/980/322.htm",
-      "primary_url": "https://www.ithome.com/0/980/322.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
-          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-          "url": "https://www.ithome.com/0/980/322.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T14:12:49Z"
-        },
-        {
-          "id": "c0e9c6d55f0e10cb78d59b4e3cd92bbf9f28ef50",
-          "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
-          "url": "https://www.ithome.com/0/980/322.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-22T14:12:49Z"
+          "id": "0c2ec2e78b2ab62005e68dbe5a06417b978994ac",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T14:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "The Verge",
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
-          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-          "url": "https://www.ithome.com/0/980/322.htm",
-          "source": "IT之家（RSS）",
+          "id": "794df629b7a6322acb25902743aaec5346a26e71",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T14:12:49Z"
+          "published_at": "2026-07-23T14:00:00Z"
         },
         {
-          "id": "c0e9c6d55f0e10cb78d59b4e3cd92bbf9f28ef50",
-          "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
-          "url": "https://www.ithome.com/0/980/322.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-22T14:12:49Z"
+          "id": "0c2ec2e78b2ab62005e68dbe5a06417b978994ac",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T14:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8682,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -729,183 +563,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T14:12:49Z",
-      "latest_at": "2026-07-22T14:12:49Z",
+      "earliest_at": "2026-07-23T14:00:00Z",
+      "latest_at": "2026-07-23T14:00:00Z",
       "primary_item": {
-        "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
-        "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-        "url": "https://www.ithome.com/0/980/322.htm",
-        "source": "IT之家（RSS）",
+        "id": "794df629b7a6322acb25902743aaec5346a26e71",
+        "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+        "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_130e23c4bd2f",
-      "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "primary_url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-          "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
-          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-          "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
-          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8531,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
-      "primary_item": {
-        "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-        "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
-        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d9d674100731",
-      "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
-      "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-      "primary_url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "story_id": "story_f88b9ddbe0d1",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "primary_url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
-          "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
-          "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T21:00:17Z"
+          "published_at": "2026-07-23T19:55:29.530000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
-          "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
-          "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T21:00:17Z"
+          "published_at": "2026-07-23T19:55:29.530000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T21:00:17Z",
-      "latest_at": "2026-07-22T21:00:17Z",
-      "primary_item": {
-        "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
-        "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
-        "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5dcd050f470c",
-      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-      "url": "https://x.com/omarsar0/status/2079982491578827214",
-      "primary_url": "https://x.com/omarsar0/status/2079982491578827214",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-          "url": "https://x.com/omarsar0/status/2079982491578827214",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:30:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
-      ],
-      "items": [
-        {
-          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-          "url": "https://x.com/omarsar0/status/2079982491578827214",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:30:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9105,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,60 +624,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T17:30:44Z",
-      "latest_at": "2026-07-22T17:30:44Z",
+      "earliest_at": "2026-07-23T19:55:29.530000Z",
+      "latest_at": "2026-07-23T19:55:29.530000Z",
       "primary_item": {
-        "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-        "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-        "url": "https://x.com/omarsar0/status/2079982491578827214",
-        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_e8fd0fe4c651",
-      "title": "微软 MagenticLite 模型全面开源",
-      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "primary_url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "source": "X：Microsoft Research (@MSFTResearch)",
+      "story_id": "story_21eba83ad106",
+      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+      "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-          "title": "微软 MagenticLite 模型全面开源",
-          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-          "source": "X：Microsoft Research (@MSFTResearch)",
+          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T17:57:57Z"
+          "published_at": "2026-07-23T12:33:27Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
       ],
       "items": [
         {
-          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-          "title": "微软 MagenticLite 模型全面开源",
-          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-          "source": "X：Microsoft Research (@MSFTResearch)",
+          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T17:57:57Z"
+          "published_at": "2026-07-23T12:33:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9165,
+        "recency": 0.8477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,93 +685,113 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T17:57:57Z",
-      "latest_at": "2026-07-22T17:57:57Z",
+      "earliest_at": "2026-07-23T12:33:27Z",
+      "latest_at": "2026-07-23T12:33:27Z",
       "primary_item": {
-        "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-        "title": "微软 MagenticLite 模型全面开源",
-        "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-        "source": "X：Microsoft Research (@MSFTResearch)",
+        "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+        "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+        "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f27dbe775a23",
-      "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
-      "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-      "primary_url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "story_id": "story_2ffe80c9e615",
+      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
-          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
-          "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T14:00:35Z"
+          "published_at": "2026-07-23T18:35:29.016000Z"
+        },
+        {
+          "id": "5705f143d153ceee0e8277f80d45b4788e4dff87",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建 / What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T16:53:33Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：SemiAnalysis (@SemiAnalysis_)"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
-          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
-          "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T14:00:35Z"
+          "published_at": "2026-07-23T18:35:29.016000Z"
+        },
+        {
+          "id": "5705f143d153ceee0e8277f80d45b4788e4dff87",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建 / What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T16:53:33Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
-        "story_heat": 0.0
+        "recency": 0.9249,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T14:00:35Z",
-      "latest_at": "2026-07-22T14:00:35Z",
+      "earliest_at": "2026-07-23T16:53:33Z",
+      "latest_at": "2026-07-23T18:35:29.016000Z",
       "primary_item": {
-        "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
-        "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
-        "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-        "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_e26eabffaa96",
-      "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
-      "url": "https://www.aibase.com/news/29806",
-      "primary_url": "https://www.aibase.com/news/29806",
+      "story_id": "story_53f6b71a0c79",
+      "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+      "url": "https://www.aibase.com/news/29844",
+      "primary_url": "https://www.aibase.com/news/29844",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
-          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
-          "url": "https://www.aibase.com/news/29806",
+          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "url": "https://www.aibase.com/news/29844",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-22T18:00:05.257207Z"
+          "published_at": "2026-07-23T19:00:02.075645Z"
         }
       ],
       "source_count": 1,
@@ -1069,13 +800,376 @@
       ],
       "items": [
         {
-          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
-          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
-          "url": "https://www.aibase.com/news/29806",
+          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "url": "https://www.aibase.com/news/29844",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-22T18:00:05.257207Z"
+          "published_at": "2026-07-23T19:00:02.075645Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9303,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:00:02.075645Z",
+      "latest_at": "2026-07-23T19:00:02.075645Z",
+      "primary_item": {
+        "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+        "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "url": "https://www.aibase.com/news/29844",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_085548e5aa00",
+      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+      "primary_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
+          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T14:52:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
+          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T14:52:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8766,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T14:52:44Z",
+      "latest_at": "2026-07-23T14:52:44Z",
+      "primary_item": {
+        "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
+        "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b86d2fedd0c1",
+      "title": "ChatGPT 向美国用户推出健康功能",
+      "url": "https://x.com/gdb/status/2080351159638704615",
+      "primary_url": "https://x.com/gdb/status/2080351159638704615",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
+          "title": "ChatGPT 向美国用户推出健康功能",
+          "url": "https://x.com/gdb/status/2080351159638704615",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:55:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
+          "title": "ChatGPT 向美国用户推出健康功能",
+          "url": "https://x.com/gdb/status/2080351159638704615",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:55:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.916,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T17:55:42Z",
+      "latest_at": "2026-07-23T17:55:42Z",
+      "primary_item": {
+        "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
+        "title": "ChatGPT 向美国用户推出健康功能",
+        "url": "https://x.com/gdb/status/2080351159638704615",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c806736e9c9",
+      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9213,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T18:19:14Z",
+      "latest_at": "2026-07-23T18:19:14Z",
+      "primary_item": {
+        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a34a897d283a",
+      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+      "primary_url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T04:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T04:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7491,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T04:00:00Z",
+      "latest_at": "2026-07-23T04:00:00Z",
+      "primary_item": {
+        "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_112b4523d36f",
+      "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+      "url": "https://x.com/satyanadella/status/2080329851127669104",
+      "primary_url": "https://x.com/satyanadella/status/2080329851127669104",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T16:31:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T16:31:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8976,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T16:31:01Z",
+      "latest_at": "2026-07-23T16:31:01Z",
+      "primary_item": {
+        "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+        "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+        "url": "https://x.com/satyanadella/status/2080329851127669104",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_959e9d757ff8",
+      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+      "url": "https://www.aibase.com/news/29843",
+      "primary_url": "https://www.aibase.com/news/29843",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "url": "https://www.aibase.com/news/29843",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T18:00:02.075645Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "url": "https://www.aibase.com/news/29843",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T18:00:02.075645Z"
         }
       ],
       "item_count": 1,
@@ -1096,240 +1190,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T18:00:05.257207Z",
-      "latest_at": "2026-07-22T18:00:05.257207Z",
+      "earliest_at": "2026-07-23T18:00:02.075645Z",
+      "latest_at": "2026-07-23T18:00:02.075645Z",
       "primary_item": {
-        "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
-        "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
-        "url": "https://www.aibase.com/news/29806",
+        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "url": "https://www.aibase.com/news/29843",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_85aa09c15ed0",
-      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "primary_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:23:31.324000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:23:31.324000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T17:23:31.324000Z",
-      "latest_at": "2026-07-22T17:23:31.324000Z",
-      "primary_item": {
-        "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-        "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-        "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f3196b73cd32",
-      "title": "腾讯设计Agent平台Miora全面开放",
-      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "primary_url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-          "title": "腾讯设计Agent平台Miora全面开放",
-          "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:21:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-          "title": "腾讯设计Agent平台Miora全面开放",
-          "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:21:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7529,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T04:21:03Z",
-      "latest_at": "2026-07-22T04:21:03Z",
-      "primary_item": {
-        "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-        "title": "腾讯设计Agent平台Miora全面开放",
-        "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_03c64a17d097",
-      "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
-      "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-      "primary_url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ae58b1a8f9dd0bf36f6d0de837e89a696a87626",
-          "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
-          "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T12:34:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "8ae58b1a8f9dd0bf36f6d0de837e89a696a87626",
-          "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
-          "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T12:34:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8479,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T12:34:24Z",
-      "latest_at": "2026-07-22T12:34:24Z",
-      "primary_item": {
-        "id": "8ae58b1a8f9dd0bf36f6d0de837e89a696a87626",
-        "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
-        "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fc3528d001b5",
-      "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "primary_url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI News",
+      "story_id": "story_660c6350b79c",
+      "title": "Agent automation controls in GitHub Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-          "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
-          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-          "source": "OpenAI News",
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "Agent automation controls in GitHub Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T12:00:00Z"
+          "published_at": "2026-07-23T15:30:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-          "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
-          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-          "source": "OpenAI News",
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "Agent automation controls in GitHub Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T12:00:00Z"
+          "published_at": "2026-07-23T15:30:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8409,
+        "ai_relevance": 0.87,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1338,14 +1252,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T12:00:00Z",
-      "latest_at": "2026-07-22T12:00:00Z",
+      "earliest_at": "2026-07-23T15:30:29Z",
+      "latest_at": "2026-07-23T15:30:29Z",
       "primary_item": {
-        "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-        "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
-        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-        "source": "OpenAI News",
+        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+        "title": "Agent automation controls in GitHub Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_68e653bdbdaf",
+      "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+      "url": "https://www.aibase.com/news/29841",
+      "primary_url": "https://www.aibase.com/news/29841",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
+          "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+          "url": "https://www.aibase.com/news/29841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T17:00:02.075645Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
+          "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+          "url": "https://www.aibase.com/news/29841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T17:00:02.075645Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:00:02.075645Z",
+      "latest_at": "2026-07-23T17:00:02.075645Z",
+      "primary_item": {
+        "id": "70cf676c0b49086d3d23db855b3b57a666b39d84",
+        "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+        "url": "https://www.aibase.com/news/29841",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
