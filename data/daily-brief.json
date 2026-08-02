@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-07-30T00:00:03.251678Z",
+  "generated_at": "2026-07-30T12:13:46.269732Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_6683db9728fe",
-      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8615,
-      "importance": 0.8615,
-      "importance_score": 0.8615,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.9637,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T21:26:19Z",
-      "latest_at": "2026-07-29T21:26:19Z",
-      "primary_item": {
-        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_cc8e132c6199",
       "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
@@ -119,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8611,
-      "importance": 0.8611,
-      "importance_score": 0.8611,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8781,
+        "recency": 0.736,
         "story_heat": 0.25
       },
       "category": "official",
@@ -144,6 +82,68 @@
         "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
         "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6683db9728fe",
+      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T21:26:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T21:26:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.8077,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T21:26:19Z",
+      "latest_at": "2026-07-29T21:26:19Z",
+      "primary_item": {
+        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -201,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8914,
+        "recency": 0.7471,
         "story_heat": 0.25
       },
       "category": "official",
@@ -230,8 +230,597 @@
       }
     },
     {
+      "story_id": "story_945ecdf346e3",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "f7b4aa2760ca6c843f930071c0896b5674b97753",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-30T18:13:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "f7b4aa2760ca6c843f930071c0896b5674b97753",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-30T18:13:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T18:13:06Z",
+      "latest_at": "2026-07-31T04:57:18.494000Z",
+      "primary_item": {
+        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7bdbbc9438d6",
+      "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+          "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "字节 Seed：Research Feed（网页内嵌数据）"
+      ],
+      "items": [
+        {
+          "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+          "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T16:00:00Z",
+      "latest_at": "2026-07-30T16:00:00Z",
+      "primary_item": {
+        "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+        "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+        "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+        "source": "字节 Seed：Research Feed（网页内嵌数据）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_285fa51c6c4a",
+      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "primary_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.937,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T07:43:29Z",
+      "latest_at": "2026-07-30T07:43:29Z",
+      "primary_item": {
+        "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+        "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_62c02e5a4ace",
+      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+      "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
+          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+          "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:38:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
+          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+          "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:38:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T21:38:05Z",
+      "latest_at": "2026-07-31T21:38:05Z",
+      "primary_item": {
+        "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
+        "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+        "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e29bceaab5cd",
+      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+      "url": "https://www.minimax.io/blog/minimax-h3",
+      "primary_url": "https://www.minimax.io/blog/minimax-h3",
+      "source": "MiniMax：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+          "url": "https://www.minimax.io/blog/minimax-h3",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:59:02.996000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MiniMax：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+          "url": "https://www.minimax.io/blog/minimax-h3",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:59:02.996000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T09:59:02.996000Z",
+      "latest_at": "2026-07-31T09:59:02.996000Z",
+      "primary_item": {
+        "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+        "url": "https://www.minimax.io/blog/minimax-h3",
+        "source": "MiniMax：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_38808d3e5e9a",
+      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+      "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+      "primary_url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3932e3be300dec7756de5bb45508c0a891eb636b",
+          "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+          "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T03:57:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "3932e3be300dec7756de5bb45508c0a891eb636b",
+          "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+          "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T03:57:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T03:57:07Z",
+      "latest_at": "2026-08-01T03:57:07Z",
+      "primary_item": {
+        "id": "3932e3be300dec7756de5bb45508c0a891eb636b",
+        "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+        "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c7dbaf790e17",
+      "title": "国家发改委：将加快《人工智能法》立法进程",
+      "url": "https://www.ithome.com/0/983/974.htm",
+      "primary_url": "https://www.ithome.com/0/983/974.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+          "title": "国家发改委：将加快《人工智能法》立法进程",
+          "url": "https://www.ithome.com/0/983/974.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T02:48:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+          "title": "国家发改委：将加快《人工智能法》立法进程",
+          "url": "https://www.ithome.com/0/983/974.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T02:48:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T02:48:12Z",
+      "latest_at": "2026-07-31T02:48:12Z",
+      "primary_item": {
+        "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+        "title": "国家发改委：将加快《人工智能法》立法进程",
+        "url": "https://www.ithome.com/0/983/974.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d395a9992155",
+      "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+      "url": "https://x.com/OpenBMB/status/2083175856563003724",
+      "primary_url": "https://x.com/OpenBMB/status/2083175856563003724",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+          "url": "https://x.com/OpenBMB/status/2083175856563003724",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T13:00:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：面壁智能 OpenBMB (@OpenBMB)"
+      ],
+      "items": [
+        {
+          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+          "url": "https://x.com/OpenBMB/status/2083175856563003724",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T13:00:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T13:00:02Z",
+      "latest_at": "2026-07-31T13:00:02Z",
+      "primary_item": {
+        "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+        "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+        "url": "https://x.com/OpenBMB/status/2083175856563003724",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7d5564383d5e",
+      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+      "primary_url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab0635703e0933894481269c608233802bd21ae6",
+          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T10:57:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ab0635703e0933894481269c608233802bd21ae6",
+          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T10:57:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T10:57:37Z",
+      "latest_at": "2026-07-31T10:57:37Z",
+      "primary_item": {
+        "id": "ab0635703e0933894481269c608233802bd21ae6",
+        "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+        "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_65e0a5db5254",
-      "title": "Default model enablement for Copilot Business and Enterprise",
+      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
       "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
       "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
       "source": "GitHub Changelog",
@@ -239,7 +828,7 @@
       "sources": [
         {
           "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Default model enablement for Copilot Business and Enterprise",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
           "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -254,7 +843,7 @@
       "items": [
         {
           "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Default model enablement for Copilot Business and Enterprise",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
           "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -264,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8658,
+        "recency": 0.7256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,986 +874,178 @@
       "latest_at": "2026-07-29T14:01:07Z",
       "primary_item": {
         "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-        "title": "Default model enablement for Copilot Business and Enterprise",
+        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
         "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_14fd05ad34f9",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_11246b395841",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals",
+      "primary_url": "https://simonwillison.net/2026/Jul/31/smevals",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
+          "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "url": "https://simonwillison.net/2026/Jul/31/smevals",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:15:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Simon Willison 博客"
       ],
       "items": [
         {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
+          "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "url": "https://simonwillison.net/2026/Jul/31/smevals",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:15:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8169,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T10:00:00Z",
-      "latest_at": "2026-07-29T10:00:00Z",
-      "primary_item": {
-        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2b31e5040cd9",
-      "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "primary_url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "9797d71520f75e59daa04536256009c0f9afb601",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T18:45:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "9797d71520f75e59daa04536256009c0f9afb601",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T18:45:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9271,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T18:45:27Z",
-      "latest_at": "2026-07-29T18:45:27Z",
-      "primary_item": {
-        "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-        "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_97854c7d008d",
-      "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "primary_url": "https://github.com/drumih/turbo-fieldfare",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T16:09:22.496000Z"
-        },
-        {
-          "id": "1b37939ebfbbfe70a1a7f1b13d03ba2ad4e44ebd",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B / Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T15:05:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T16:09:22.496000Z"
-        },
-        {
-          "id": "1b37939ebfbbfe70a1a7f1b13d03ba2ad4e44ebd",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B / Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T15:05:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8929,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T15:05:43Z",
-      "latest_at": "2026-07-29T16:09:22.496000Z",
-      "primary_item": {
-        "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-        "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-        "url": "https://github.com/drumih/turbo-fieldfare",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e8035148749c",
-      "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
-        },
-        {
-          "id": "47e23e037a1d0c96ad8796a8da4cda32a0d925d8",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T11:54:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
-        },
-        {
-          "id": "47e23e037a1d0c96ad8796a8da4cda32a0d925d8",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T11:54:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8398,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T11:54:29Z",
-      "latest_at": "2026-07-29T11:54:29Z",
-      "primary_item": {
-        "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-        "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9c352ca7201e",
-      "title": "Replit Design 发布：AI 赋能设计愿景",
-      "url": "https://x.com/Replit/status/2082568269119062019",
-      "primary_url": "https://x.com/Replit/status/2082568269119062019",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景",
-          "url": "https://x.com/Replit/status/2082568269119062019",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景",
-          "url": "https://x.com/Replit/status/2082568269119062019",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9543,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T20:45:42Z",
-      "latest_at": "2026-07-29T20:45:42Z",
-      "primary_item": {
-        "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-        "title": "Replit Design 发布：AI 赋能设计愿景",
-        "url": "https://x.com/Replit/status/2082568269119062019",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8b3387f5a968",
-      "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-      "url": "https://www.aibase.com/news/29985",
-      "primary_url": "https://www.aibase.com/news/29985",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-          "url": "https://www.aibase.com/news/29985",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T19:00:03.251678Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-          "url": "https://www.aibase.com/news/29985",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T19:00:03.251678Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T19:00:03.251678Z",
-      "latest_at": "2026-07-29T19:00:03.251678Z",
-      "primary_item": {
-        "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-        "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-        "url": "https://www.aibase.com/news/29985",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ee3da82e3a26",
-      "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.814,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:45:11Z",
-      "latest_at": "2026-07-29T09:45:11Z",
-      "primary_item": {
-        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-        "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b250f943b483",
-      "title": "腾讯混元开源 AngelSpec 投机解码框架",
-      "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-      "primary_url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
-          "title": "腾讯混元开源 AngelSpec 投机解码框架",
-          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:43:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：腾讯混元 (@TencentHunyuan)"
-      ],
-      "items": [
-        {
-          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
-          "title": "腾讯混元开源 AngelSpec 投机解码框架",
-          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:43:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8498,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T12:43:55Z",
-      "latest_at": "2026-07-29T12:43:55Z",
-      "primary_item": {
-        "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
-        "title": "腾讯混元开源 AngelSpec 投机解码框架",
-        "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-        "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b2b36e20e7a7",
-      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-      "primary_url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "520109bab60f838de978be96179993ff0f5cbced",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:35:09Z"
-        },
-        {
-          "id": "7bb434c6b856e786c2594ed925b5886746bd9719",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T15:35:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "520109bab60f838de978be96179993ff0f5cbced",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:35:09Z"
-        },
-        {
-          "id": "7bb434c6b856e786c2594ed925b5886746bd9719",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T15:35:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8856,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T15:35:09Z",
-      "latest_at": "2026-07-29T15:35:09Z",
+      "earliest_at": "2026-07-31T21:15:23Z",
+      "latest_at": "2026-07-31T21:15:23Z",
       "primary_item": {
-        "id": "520109bab60f838de978be96179993ff0f5cbced",
-        "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+        "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
+        "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+        "url": "https://simonwillison.net/2026/Jul/31/smevals",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2875a4400bb8",
+      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+      "primary_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:26:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:26:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T20:26:38Z",
+      "latest_at": "2026-07-30T20:26:38Z",
+      "primary_item": {
+        "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+        "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_413f9cfb12cf",
-      "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-      "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "story_id": "story_cf9e7f8b7e08",
+      "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-          "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "7d91b70339b7967ebaa32ca21e712e7f1c378db1",
+          "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T17:50:30.529000Z"
+          "published_at": "2026-07-30T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "DeepSeek：API 更新日志"
       ],
       "items": [
         {
-          "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-          "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "7d91b70339b7967ebaa32ca21e712e7f1c378db1",
+          "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T17:50:30.529000Z"
+          "published_at": "2026-07-30T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9149,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:50:30.529000Z",
-      "latest_at": "2026-07-29T17:50:30.529000Z",
-      "primary_item": {
-        "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-        "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-        "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eb1db950a66c",
-      "title": "算力价格未来可能上涨 10 倍以上",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "primary_url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-          "title": "算力价格未来可能上涨 10 倍以上",
-          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:01:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-          "title": "算力价格未来可能上涨 10 倍以上",
-          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:01:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T15:01:35Z",
-      "latest_at": "2026-07-29T15:01:35Z",
-      "primary_item": {
-        "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-        "title": "算力价格未来可能上涨 10 倍以上",
-        "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1d50a0b3fba4",
-      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-      "url": "https://www.ithome.com/0/983/298.htm",
-      "primary_url": "https://www.ithome.com/0/983/298.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:12:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:12:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8434,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T12:12:21Z",
-      "latest_at": "2026-07-29T12:12:21Z",
-      "primary_item": {
-        "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-        "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-        "url": "https://www.ithome.com/0/983/298.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a7ac5683488c",
-      "title": "Perplexity 开源智能体检测层 Numbat",
-      "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-      "primary_url": "https://x.com/perplexity_ai/status/2082511900580196596",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-          "title": "Perplexity 开源智能体检测层 Numbat",
-          "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:01:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Perplexity (@perplexity_ai)"
-      ],
-      "items": [
-        {
-          "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-          "title": "Perplexity 开源智能体检测层 Numbat",
-          "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:01:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9042,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:01:42Z",
-      "latest_at": "2026-07-29T17:01:42Z",
-      "primary_item": {
-        "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-        "title": "Perplexity 开源智能体检测层 Numbat",
-        "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-        "source": "X：Perplexity (@perplexity_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_26d010619d13",
-      "title": "OpenAI 为学术研究者免费提供前沿模型",
-      "url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "primary_url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-          "title": "OpenAI 为学术研究者免费提供前沿模型",
-          "url": "https://x.com/sherwinwu/status/2082517015944741342",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:22:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sherwin Wu（@sherwinwu）"
-      ],
-      "items": [
-        {
-          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-          "title": "OpenAI 为学术研究者免费提供前沿模型",
-          "url": "https://x.com/sherwinwu/status/2082517015944741342",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:22:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9087,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:22:02Z",
-      "latest_at": "2026-07-29T17:22:02Z",
-      "primary_item": {
-        "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-        "title": "OpenAI 为学术研究者免费提供前沿模型",
-        "url": "https://x.com/sherwinwu/status/2082517015944741342",
-        "source": "X：Sherwin Wu（@sherwinwu）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13327f6db245",
-      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-      "url": "https://www.aibase.com/news/29983",
-      "primary_url": "https://www.aibase.com/news/29983",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-          "url": "https://www.aibase.com/news/29983",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T18:00:03.251678Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-          "url": "https://www.aibase.com/news/29983",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T18:00:03.251678Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,73 +1053,257 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T18:00:03.251678Z",
-      "latest_at": "2026-07-29T18:00:03.251678Z",
+      "earliest_at": "2026-07-30T16:00:00Z",
+      "latest_at": "2026-07-30T16:00:00Z",
       "primary_item": {
-        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-        "url": "https://www.aibase.com/news/29983",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "7d91b70339b7967ebaa32ca21e712e7f1c378db1",
+        "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_dd6007cb67f0",
-      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-      "url": "https://github.com/gavamedia/deltafin",
-      "primary_url": "https://github.com/gavamedia/deltafin",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_fe4ad710c72f",
+      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "primary_url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
-          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "url": "https://github.com/gavamedia/deltafin",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+          "source": "X：Google DeepMind (@GoogleDeepMind)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T02:49:20.833000Z"
+          "published_at": "2026-07-30T15:02:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "X：Google DeepMind (@GoogleDeepMind)"
       ],
       "items": [
         {
-          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
-          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "url": "https://github.com/gavamedia/deltafin",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+          "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+          "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+          "source": "X：Google DeepMind (@GoogleDeepMind)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T02:49:20.833000Z"
+          "published_at": "2026-07-30T15:02:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7365,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-29T02:49:20.833000Z",
-      "latest_at": "2026-07-29T02:49:20.833000Z",
+      "earliest_at": "2026-07-30T15:02:00Z",
+      "latest_at": "2026-07-30T15:02:00Z",
       "primary_item": {
-        "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
-        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-        "url": "https://github.com/gavamedia/deltafin",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "eb21f3e05e403feda8cff0cad931b819ac00d1ff",
+        "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+        "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+        "source": "X：Google DeepMind (@GoogleDeepMind)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_afc6fe5a6238",
+      "title": "Gemini Spark 集成 Chrome 自动浏览功能",
+      "url": "https://x.com/GeminiApp/status/2082923048362299629",
+      "primary_url": "https://x.com/GeminiApp/status/2082923048362299629",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+          "title": "Gemini Spark 集成 Chrome 自动浏览功能",
+          "url": "https://x.com/GeminiApp/status/2082923048362299629",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:15:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+          "title": "Gemini Spark 集成 Chrome 自动浏览功能",
+          "url": "https://x.com/GeminiApp/status/2082923048362299629",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:15:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T20:15:28Z",
+      "latest_at": "2026-07-30T20:15:28Z",
+      "primary_item": {
+        "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+        "title": "Gemini Spark 集成 Chrome 自动浏览功能",
+        "url": "https://x.com/GeminiApp/status/2082923048362299629",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_478fa414920c",
+      "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+      "url": "https://x.com/gdb/status/2083457463337287721",
+      "primary_url": "https://x.com/gdb/status/2083457463337287721",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T07:39:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T07:39:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T07:39:02Z",
+      "latest_at": "2026-08-01T07:39:02Z",
+      "primary_item": {
+        "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+        "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+        "url": "https://x.com/gdb/status/2083457463337287721",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_351e94ae0e4c",
+      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+      "url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "primary_url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+          "url": "https://x.com/OpenRouter/status/2082882158574911564",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:32:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+          "url": "https://x.com/OpenRouter/status/2082882158574911564",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:32:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:32:59Z",
+      "latest_at": "2026-07-30T17:32:59Z",
+      "primary_item": {
+        "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
+        "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+        "url": "https://x.com/OpenRouter/status/2082882158574911564",
+        "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
       }
     }
