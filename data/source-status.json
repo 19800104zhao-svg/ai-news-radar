@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-30T12:13:46.269732Z",
+  "generated_at": "2026-08-03T00:00:05.705956Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 172,
-      "duration_ms": 3388,
+      "item_count": 103,
+      "duration_ms": 323257,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 44,
-      "duration_ms": 10193,
+      "item_count": 17,
+      "duration_ms": 182140,
       "error": null
     },
     {
@@ -22,39 +22,39 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 253,
+      "duration_ms": 7884,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 34,
-      "duration_ms": 243,
+      "item_count": 32,
+      "duration_ms": 7930,
       "error": null
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
-      "ok": true,
-      "item_count": 405,
-      "duration_ms": 1417,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 8828,
+      "error": "HTTPSConnectionPool(host='techurls.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))"
     },
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 744,
+      "duration_ms": 1285,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 262,
-      "duration_ms": 162660832,
+      "item_count": 195,
+      "duration_ms": 12846,
       "error": null
     },
     {
@@ -62,31 +62,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 124605,
+      "duration_ms": 4510,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 45289,
-      "error": "HTTPSConnectionPool(host='tophub.today', port=443): Read timed out."
+      "ok": true,
+      "item_count": 3018,
+      "duration_ms": 2559,
+      "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 53,
-      "duration_ms": 1443,
+      "item_count": 80,
+      "duration_ms": 1523,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 14,
-      "duration_ms": 40617,
+      "item_count": 5,
+      "duration_ms": 15769,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 26,
-      "duration_ms": 1956,
+      "duration_ms": 1185,
       "error": null
     },
     {
@@ -102,15 +102,15 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 715,
+      "duration_ms": 3896,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 96,
-      "duration_ms": 288,
+      "item_count": 92,
+      "duration_ms": 365,
       "error": null
     },
     {
@@ -118,28 +118,28 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 125,
-      "duration_ms": 33271,
+      "duration_ms": 1882,
       "error": null
     },
     {
       "site_id": "waytoagi",
       "site_name": "WaytoAGI",
       "ok": true,
-      "item_count": 6,
-      "duration_ms": 2448,
+      "item_count": 7,
+      "duration_ms": 3829,
       "error": null
     }
   ],
   "successful_sites": 14,
   "failed_sites": [
     "aibreakfast",
-    "tophub"
+    "techurls"
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 2002,
-  "items_before_topic_filter": 3076,
-  "items_in_24h": 575,
+  "fetched_raw_items": 4465,
+  "items_before_topic_filter": 2303,
+  "items_in_24h": 232,
   "rss_opml": {
     "enabled": false,
     "path": null,
@@ -174,7 +174,7 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-07-30",
+    "generated_date_utc": "2026-08-03",
     "disabled_reason": "no_bearer_token"
   },
   "socialdata": {
@@ -199,7 +199,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": "2026-06-29T21:07:48.528628Z",
     "last_success_at": "2026-06-29T21:07:48.528628Z",
-    "generated_date_utc": "2026-07-30",
+    "generated_date_utc": "2026-08-03",
     "disabled_reason": "no_api_key"
   },
   "tikhub": {
@@ -224,7 +224,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": "2026-06-29T09:01:44.281285Z",
     "last_success_at": "2026-06-29T09:01:44.281285Z",
-    "generated_date_utc": "2026-07-30",
+    "generated_date_utc": "2026-08-03",
     "disabled_reason": "no_api_key"
   }
 }
