@@ -1,125 +1,24 @@
 {
-  "generated_at": "2026-08-21T00:00:05.573709Z",
+  "generated_at": "2026-08-22T00:00:05.543403Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c7cdb6722fd8",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0ada2ec63296334c4ebabce43e4fe8b9a8d82036",
-          "title": "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0ada2ec63296334c4ebabce43e4fe8b9a8d82036",
-          "title": "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8924,
-      "importance": 0.8924,
-      "importance_score": 0.8924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9023,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T16:52:57Z",
-      "latest_at": "2026-08-21T00:00:05.573709Z",
-      "primary_item": {
-        "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b9b1ecfd122f",
-      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "story_id": "story_87fedaf94c82",
+      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "primary_url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-21T16:07:15Z"
         }
       ],
       "source_count": 1,
@@ -128,88 +27,26 @@
       ],
       "items": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-21T16:07:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9154,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
-      "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_027379c08484",
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "primary_url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-          "title": "Introducing AI Futures",
-          "url": "https://openai.com/index/introducing-ai-futures",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-          "title": "Introducing AI Futures",
-          "url": "https://openai.com/index/introducing-ai-futures",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7823,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -218,32 +55,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T07:00:00Z",
-      "latest_at": "2026-08-20T07:00:00Z",
+      "earliest_at": "2026-08-21T16:07:15Z",
+      "latest_at": "2026-08-21T16:07:15Z",
       "primary_item": {
-        "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-        "title": "Introducing AI Futures",
-        "url": "https://openai.com/index/introducing-ai-futures",
-        "source": "OpenAI News",
+        "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+        "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+        "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f67290731017",
-      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "story_id": "story_e42b7af4138c",
+      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8408,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T11:59:48Z",
+      "latest_at": "2026-08-21T11:59:48Z",
+      "primary_item": {
+        "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eb308b8c2b22",
+      "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-21T16:03:36Z"
         }
       ],
       "source_count": 1,
@@ -252,26 +151,26 @@
       ],
       "items": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-21T16:03:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8812,
+        "ai_relevance": 0.91,
+        "recency": 0.8917,
         "story_heat": 0.0
       },
       "category": "official",
@@ -280,32 +179,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T15:14:31Z",
-      "latest_at": "2026-08-20T15:14:31Z",
+      "earliest_at": "2026-08-21T16:03:36Z",
+      "latest_at": "2026-08-21T16:03:36Z",
       "primary_item": {
-        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-        "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+        "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+        "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_c23e436699dc",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "story_id": "story_6a6b96aef3de",
+      "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+      "primary_url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-21T17:28:36Z"
         }
       ],
       "source_count": 1,
@@ -314,26 +213,26 @@
       ],
       "items": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-21T17:28:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8715,
+        "recency": 0.9101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,32 +241,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
+      "earliest_at": "2026-08-21T17:28:36Z",
+      "latest_at": "2026-08-21T17:28:36Z",
       "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+        "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+        "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_eeecec07b73c",
-      "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-      "url": "https://www.aibase.com/news/30508",
-      "primary_url": "https://www.aibase.com/news/30508",
+      "story_id": "story_935f11743b70",
+      "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+      "url": "https://www.aibase.com/news/30534",
+      "primary_url": "https://www.aibase.com/news/30534",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
-          "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-          "url": "https://www.aibase.com/news/30508",
+          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "url": "https://www.aibase.com/news/30534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T18:00:05.573709Z"
+          "published_at": "2026-08-21T18:00:05.543403Z"
         }
       ],
       "source_count": 1,
@@ -376,13 +275,13 @@
       ],
       "items": [
         {
-          "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
-          "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-          "url": "https://www.aibase.com/news/30508",
+          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "url": "https://www.aibase.com/news/30534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T18:00:05.573709Z"
+          "published_at": "2026-08-21T18:00:05.543403Z"
         }
       ],
       "item_count": 1,
@@ -403,334 +302,352 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T18:00:05.573709Z",
-      "latest_at": "2026-08-20T18:00:05.573709Z",
+      "earliest_at": "2026-08-21T18:00:05.543403Z",
+      "latest_at": "2026-08-21T18:00:05.543403Z",
       "primary_item": {
-        "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
-        "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-        "url": "https://www.aibase.com/news/30508",
+        "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+        "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "url": "https://www.aibase.com/news/30534",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_78581594d7f4",
-      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-      "url": "https://www.ithome.com/0/992/239.htm",
-      "primary_url": "https://www.ithome.com/0/992/239.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_1908848b1e0a",
+      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "primary_url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
-          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-          "url": "https://www.ithome.com/0/992/239.htm",
-          "source": "IT之家（RSS）",
+          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T09:45:51Z"
+          "published_at": "2026-08-21T14:28:27.351000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
-          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-          "url": "https://www.ithome.com/0/992/239.htm",
-          "source": "IT之家（RSS）",
+          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T09:45:51Z"
+          "published_at": "2026-08-21T14:28:27.351000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8142,
+        "recency": 0.8715,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T09:45:51Z",
-      "latest_at": "2026-08-20T09:45:51Z",
+      "earliest_at": "2026-08-21T14:28:27.351000Z",
+      "latest_at": "2026-08-21T14:28:27.351000Z",
       "primary_item": {
-        "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
-        "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-        "url": "https://www.ithome.com/0/992/239.htm",
-        "source": "IT之家（RSS）",
+        "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c4718f6f117e",
-      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-      "url": "https://mistral.ai/news/agentic-search",
-      "primary_url": "https://mistral.ai/news/agentic-search",
-      "source": "Mistral AI：News（网页）",
+      "story_id": "story_cf9e7f8b7e08",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-          "url": "https://mistral.ai/news/agentic-search",
-          "source": "Mistral AI：News（网页）",
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T16:02:07.300000Z"
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        },
+        {
+          "id": "5ff43635197f7c87ff88b1a4f3d731bc00a56f89",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T11:49:31.581000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Mistral AI：News（网页）"
+        "DeepSeek：API 更新日志",
+        "api-docs.deepseek.com"
       ],
       "items": [
         {
-          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-          "url": "https://mistral.ai/news/agentic-search",
-          "source": "Mistral AI：News（网页）",
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T16:02:07.300000Z"
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        },
+        {
+          "id": "5ff43635197f7c87ff88b1a4f3d731bc00a56f89",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T11:49:31.581000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8913,
-        "story_heat": 0.0
+        "recency": 0.8103,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T16:02:07.300000Z",
-      "latest_at": "2026-08-20T16:02:07.300000Z",
+      "earliest_at": "2026-08-21T09:26:04.727000Z",
+      "latest_at": "2026-08-21T11:49:31.581000Z",
       "primary_item": {
-        "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-        "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-        "url": "https://mistral.ai/news/agentic-search",
-        "source": "Mistral AI：News（网页）",
+        "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_12b0d774f905",
-      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "primary_url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "source": "Claude：Blog（网页）",
+      "story_id": "story_2bf314b17c2a",
+      "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "primary_url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "21692f84c16d2d2684e76b911b52a09001219157",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-          "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-          "source": "Claude：Blog（网页）",
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T20:27:01.660000Z"
+          "published_at": "2026-08-21T09:25:43.682000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "21692f84c16d2d2684e76b911b52a09001219157",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-          "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-          "source": "Claude：Blog（网页）",
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T20:27:01.660000Z"
+          "published_at": "2026-08-21T09:25:43.682000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.63,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.95,
+        "recency": 0.8102,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T20:27:01.660000Z",
-      "latest_at": "2026-08-20T20:27:01.660000Z",
+      "earliest_at": "2026-08-21T09:25:43.682000Z",
+      "latest_at": "2026-08-21T09:25:43.682000Z",
       "primary_item": {
-        "id": "21692f84c16d2d2684e76b911b52a09001219157",
-        "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-        "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-        "source": "Claude：Blog（网页）",
+        "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+        "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_db8a6edc5902",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8717,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
-      "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9ab95df01f33",
-      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-      "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-      "primary_url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-      "source": "Google Cloud：Databases（RSS）",
+      "story_id": "story_44d20b9afbbb",
+      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-          "source": "Google Cloud：Databases（RSS）",
+          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T16:00:00Z"
+          "published_at": "2026-08-21T17:56:25.415000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Cloud：Databases（RSS）"
+        "LMSYS：Blog（Chatbot Arena 团队）"
       ],
       "items": [
         {
-          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-          "source": "Google Cloud：Databases（RSS）",
+          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T16:00:00Z"
+          "published_at": "2026-08-21T17:56:25.415000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.9162,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T16:00:00Z",
-      "latest_at": "2026-08-20T16:00:00Z",
+      "earliest_at": "2026-08-21T17:56:25.415000Z",
+      "latest_at": "2026-08-21T17:56:25.415000Z",
       "primary_item": {
-        "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-        "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-        "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-        "source": "Google Cloud：Databases（RSS）",
+        "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+        "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+        "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d8d2aad74311",
-      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-      "url": "https://www.aibase.com/news/30507",
-      "primary_url": "https://www.aibase.com/news/30507",
+      "story_id": "story_720e15fb3fb5",
+      "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
+      "url": "https://x.com/OpenBMB/status/2090786300194590816",
+      "primary_url": "https://x.com/OpenBMB/status/2090786300194590816",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "da2f1fd9c206978878ea3e5f1e51cfdae6252727",
+          "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
+          "url": "https://x.com/OpenBMB/status/2090786300194590816",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T13:01:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：面壁智能 OpenBMB (@OpenBMB)"
+      ],
+      "items": [
+        {
+          "id": "da2f1fd9c206978878ea3e5f1e51cfdae6252727",
+          "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
+          "url": "https://x.com/OpenBMB/status/2090786300194590816",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T13:01:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8534,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T13:01:13Z",
+      "latest_at": "2026-08-21T13:01:13Z",
+      "primary_item": {
+        "id": "da2f1fd9c206978878ea3e5f1e51cfdae6252727",
+        "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
+        "url": "https://x.com/OpenBMB/status/2090786300194590816",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_313e373c64c2",
+      "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+      "url": "https://www.aibase.com/news/30537",
+      "primary_url": "https://www.aibase.com/news/30537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "url": "https://www.aibase.com/news/30507",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T18:00:05.573709Z"
+          "published_at": "2026-08-21T18:00:05.543403Z"
         }
       ],
       "source_count": 1,
@@ -739,13 +656,13 @@
       ],
       "items": [
         {
-          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "url": "https://www.aibase.com/news/30507",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T18:00:05.573709Z"
+          "published_at": "2026-08-21T18:00:05.543403Z"
         }
       ],
       "item_count": 1,
@@ -766,92 +683,172 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T18:00:05.573709Z",
-      "latest_at": "2026-08-20T18:00:05.573709Z",
+      "earliest_at": "2026-08-21T18:00:05.543403Z",
+      "latest_at": "2026-08-21T18:00:05.543403Z",
       "primary_item": {
-        "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-        "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-        "url": "https://www.aibase.com/news/30507",
+        "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+        "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "url": "https://www.aibase.com/news/30537",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1dd95696a4fe",
-      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-      "url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "primary_url": "https://claude.com/blog/claude-code-guide-for-startups",
+      "story_id": "story_62928a839319",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
       "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-          "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-          "url": "https://claude.com/blog/claude-code-guide-for-startups",
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
           "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T13:26:53.704000Z"
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        },
+        {
+          "id": "25c722bcf259a26d84554810059227d267d337a9",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T18:48:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：Blog（网页）",
+        "Hacker News"
+      ],
+      "items": [
+        {
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        },
+        {
+          "id": "25c722bcf259a26d84554810059227d267d337a9",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T18:48:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9167,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T17:58:29.461000Z",
+      "latest_at": "2026-08-21T18:48:28Z",
+      "primary_item": {
+        "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_604e4dc00459",
+      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "340f16af643dfae465b99366c133369fcb22c060",
+          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+          "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "LMSYS：Blog（Chatbot Arena 团队）"
       ],
       "items": [
         {
-          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-          "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-          "url": "https://claude.com/blog/claude-code-guide-for-startups",
-          "source": "Claude：Blog（网页）",
+          "id": "340f16af643dfae465b99366c133369fcb22c060",
+          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+          "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T13:26:53.704000Z"
+          "published_at": "2026-08-21T17:56:25.415000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8586,
+        "recency": 0.9162,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T13:26:53.704000Z",
-      "latest_at": "2026-08-20T13:26:53.704000Z",
+      "earliest_at": "2026-08-21T17:56:25.415000Z",
+      "latest_at": "2026-08-21T17:56:25.415000Z",
       "primary_item": {
-        "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-        "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-        "url": "https://claude.com/blog/claude-code-guide-for-startups",
-        "source": "Claude：Blog（网页）",
+        "id": "340f16af643dfae465b99366c133369fcb22c060",
+        "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+        "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_09184685b3f6",
-      "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-      "url": "https://www.aibase.com/news/30506",
-      "primary_url": "https://www.aibase.com/news/30506",
+      "story_id": "story_c235836e112c",
+      "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+      "url": "https://www.aibase.com/news/30536",
+      "primary_url": "https://www.aibase.com/news/30536",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "url": "https://www.aibase.com/news/30506",
+          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "url": "https://www.aibase.com/news/30536",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T17:00:05.573709Z"
+          "published_at": "2026-08-21T18:00:05.543403Z"
         }
       ],
       "source_count": 1,
@@ -860,13 +857,376 @@
       ],
       "items": [
         {
-          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "url": "https://www.aibase.com/news/30506",
+          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "url": "https://www.aibase.com/news/30536",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T17:00:05.573709Z"
+          "published_at": "2026-08-21T18:00:05.543403Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T18:00:05.543403Z",
+      "latest_at": "2026-08-21T18:00:05.543403Z",
+      "primary_item": {
+        "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+        "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "url": "https://www.aibase.com/news/30536",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-21",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "b41335a574750c69c7b3aeeff5061f02d13a9d50",
+          "title": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "627c9da08e2f17fc904804535021a46a70d348ac",
+          "title": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "b5bcc2f851554cb1e356a422475e9e8a11224d6d",
+          "title": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "a560e6630b5d43f0541aa4b06dcdf9c9e216766c",
+          "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "5c1d891e3d4748a3a319b78997f1bfd774e310b5",
+          "title": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "058daeb286ae7a3f38842e508f5cc22997643794",
+          "title": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "4ac060e6c41fe2d358d8d3923ccd8cf28e8e9f2b",
+          "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        },
+        {
+          "id": "eb26ab16b199eb9ca0166fb5267880d9338e0fa4",
+          "title": "MiniMax Design发布，是一款把多模态模型能力变成真实可用的生产力的Harness。H3负责提供视频理解、生成、编辑和参考控制能力，MiniMax Design则把这些能力组织成可执行的创作链路，尤其适合视频编辑、商业内容生产这类既要理解素材、又要精准修改和交付的场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        },
+        {
+          "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
+          "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        },
+        {
+          "id": "fc09ff3b7a8aa15a21bb5378394c739a730eede5",
+          "title": "这份《DeepSeek Harness的100 个问题》适合刚刷到Harness但看不懂的人，也适合已经在用Agent干活、想搞清楚“为什么别人用同一个模型更稳”的开发者。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        },
+        {
+          "id": "d822428923fe16f46e73674f1687a467d817306c",
+          "title": "这是完整的 12 步路线图，涵盖真正决定智能体能否工作的七大支柱：上下文、工具、记忆、循环、图、开发框架、评估——每一步都有验证其有效性的 Claude 工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        }
+      ],
+      "source_count": 11,
+      "source_names": [
+        "社区更新 · 2026-08-20",
+        "社区更新 · 2026-08-21"
+      ],
+      "items": [
+        {
+          "id": "b41335a574750c69c7b3aeeff5061f02d13a9d50",
+          "title": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "627c9da08e2f17fc904804535021a46a70d348ac",
+          "title": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "b5bcc2f851554cb1e356a422475e9e8a11224d6d",
+          "title": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "a560e6630b5d43f0541aa4b06dcdf9c9e216766c",
+          "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "5c1d891e3d4748a3a319b78997f1bfd774e310b5",
+          "title": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "058daeb286ae7a3f38842e508f5cc22997643794",
+          "title": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T00:00:05.543403Z"
+        },
+        {
+          "id": "4ac060e6c41fe2d358d8d3923ccd8cf28e8e9f2b",
+          "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        },
+        {
+          "id": "eb26ab16b199eb9ca0166fb5267880d9338e0fa4",
+          "title": "MiniMax Design发布，是一款把多模态模型能力变成真实可用的生产力的Harness。H3负责提供视频理解、生成、编辑和参考控制能力，MiniMax Design则把这些能力组织成可执行的创作链路，尤其适合视频编辑、商业内容生产这类既要理解素材、又要精准修改和交付的场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        },
+        {
+          "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
+          "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        },
+        {
+          "id": "fc09ff3b7a8aa15a21bb5378394c739a730eede5",
+          "title": "这份《DeepSeek Harness的100 个问题》适合刚刷到Harness但看不懂的人，也适合已经在用Agent干活、想搞清楚“为什么别人用同一个模型更稳”的开发者。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        },
+        {
+          "id": "d822428923fe16f46e73674f1687a467d817306c",
+          "title": "这是完整的 12 步路线图，涵盖真正决定智能体能否工作的七大支柱：上下文、工具、记忆、循环、图、开发框架、评估——每一步都有验证其有效性的 Claude 工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-21T00:00:05.573709Z"
+        }
+      ],
+      "item_count": 11,
+      "duplicate_count": 11,
+      "score": 0.6775,
+      "importance": 0.6775,
+      "importance_score": 0.6775,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.54,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T00:00:05.573709Z",
+      "latest_at": "2026-08-22T00:00:05.543403Z",
+      "primary_item": {
+        "id": "a560e6630b5d43f0541aa4b06dcdf9c9e216766c",
+        "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-21",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_40c683e158b6",
+      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+      "url": "https://www.aibase.com/news/30535",
+      "primary_url": "https://www.aibase.com/news/30535",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T18:00:05.543403Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T18:00:05.543403Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T18:00:05.543403Z",
+      "latest_at": "2026-08-21T18:00:05.543403Z",
+      "primary_item": {
+        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "url": "https://www.aibase.com/news/30535",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8b3f8b3d79fc",
+      "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+      "url": "https://www.aibase.com/news/30533",
+      "primary_url": "https://www.aibase.com/news/30533",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b4934413b6222572539508e765a783f252dafa6",
+          "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "url": "https://www.aibase.com/news/30533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T17:00:05.543403Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b4934413b6222572539508e765a783f252dafa6",
+          "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "url": "https://www.aibase.com/news/30533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T17:00:05.543403Z"
         }
       ],
       "item_count": 1,
@@ -887,255 +1247,110 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T17:00:05.573709Z",
-      "latest_at": "2026-08-20T17:00:05.573709Z",
+      "earliest_at": "2026-08-21T17:00:05.543403Z",
+      "latest_at": "2026-08-21T17:00:05.543403Z",
       "primary_item": {
-        "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-        "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-        "url": "https://www.aibase.com/news/30506",
+        "id": "8b4934413b6222572539508e765a783f252dafa6",
+        "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+        "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-20",
-      "source_name": "WaytoAGI",
+      "story_id": "story_016ca72fa4b5",
+      "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "4ac060e6c41fe2d358d8d3923ccd8cf28e8e9f2b",
-          "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
+          "id": "6756e72878779c3d928d041573e09c137779388d",
+          "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-21T21:25:50Z"
         },
         {
-          "id": "eb26ab16b199eb9ca0166fb5267880d9338e0fa4",
-          "title": "MiniMax Design发布，是一款把多模态模型能力变成真实可用的生产力的Harness。H3负责提供视频理解、生成、编辑和参考控制能力，MiniMax Design则把这些能力组织成可执行的创作链路，尤其适合视频编辑、商业内容生产这类既要理解素材、又要精准修改和交付的场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
-        },
-        {
-          "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
-          "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
-        },
-        {
-          "id": "fc09ff3b7a8aa15a21bb5378394c739a730eede5",
-          "title": "这份《DeepSeek Harness的100 个问题》适合刚刷到Harness但看不懂的人，也适合已经在用Agent干活、想搞清楚“为什么别人用同一个模型更稳”的开发者。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
-        },
-        {
-          "id": "d822428923fe16f46e73674f1687a467d817306c",
-          "title": "这是完整的 12 步路线图，涵盖真正决定智能体能否工作的七大支柱：上下文、工具、记忆、循环、图、开发框架、评估——每一步都有验证其有效性的 Claude 工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
-        },
-        {
-          "id": "902b3dc398ddfe2a760fbb6762851873204e2af0",
-          "title": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
-        },
-        {
-          "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
-          "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
-        },
-        {
-          "id": "36b287234b7e291a4fa62319c1cc6d53c499c8b6",
-          "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
-        },
-        {
-          "id": "aa01be9b895164288a8587a62390fbef8f97cefb",
-          "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
-        },
-        {
-          "id": "5d2f692275248217cc66742c81f38e6f87d1560a",
-          "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
+          "id": "cee8a8422106c89004bbabd1be9e97d8fd0902dd",
+          "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮 / Over one million people have clicked LinkedIn’s AI slop button",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T21:25:50Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 2,
       "source_names": [
-        "社区更新 · 2026-08-19",
-        "社区更新 · 2026-08-20"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "4ac060e6c41fe2d358d8d3923ccd8cf28e8e9f2b",
-          "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
+          "id": "6756e72878779c3d928d041573e09c137779388d",
+          "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-21T21:25:50Z"
         },
         {
-          "id": "eb26ab16b199eb9ca0166fb5267880d9338e0fa4",
-          "title": "MiniMax Design发布，是一款把多模态模型能力变成真实可用的生产力的Harness。H3负责提供视频理解、生成、编辑和参考控制能力，MiniMax Design则把这些能力组织成可执行的创作链路，尤其适合视频编辑、商业内容生产这类既要理解素材、又要精准修改和交付的场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
-        },
-        {
-          "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
-          "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
-        },
-        {
-          "id": "fc09ff3b7a8aa15a21bb5378394c739a730eede5",
-          "title": "这份《DeepSeek Harness的100 个问题》适合刚刷到Harness但看不懂的人，也适合已经在用Agent干活、想搞清楚“为什么别人用同一个模型更稳”的开发者。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
-        },
-        {
-          "id": "d822428923fe16f46e73674f1687a467d817306c",
-          "title": "这是完整的 12 步路线图，涵盖真正决定智能体能否工作的七大支柱：上下文、工具、记忆、循环、图、开发框架、评估——每一步都有验证其有效性的 Claude 工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T00:00:05.573709Z"
-        },
-        {
-          "id": "902b3dc398ddfe2a760fbb6762851873204e2af0",
-          "title": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
-        },
-        {
-          "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
-          "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
-        },
-        {
-          "id": "36b287234b7e291a4fa62319c1cc6d53c499c8b6",
-          "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
-        },
-        {
-          "id": "aa01be9b895164288a8587a62390fbef8f97cefb",
-          "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
-        },
-        {
-          "id": "5d2f692275248217cc66742c81f38e6f87d1560a",
-          "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T00:00:06.103207Z"
+          "id": "cee8a8422106c89004bbabd1be9e97d8fd0902dd",
+          "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮 / Over one million people have clicked LinkedIn’s AI slop button",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T21:25:50Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6089,
+      "importance": 0.6089,
+      "importance_score": 0.6089,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9636,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-20T00:00:06.103207Z",
-      "latest_at": "2026-08-21T00:00:05.573709Z",
+      "earliest_at": "2026-08-21T21:25:50Z",
+      "latest_at": "2026-08-21T21:25:50Z",
       "primary_item": {
-        "id": "4ac060e6c41fe2d358d8d3923ccd8cf28e8e9f2b",
-        "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-20",
-        "source_name": "WaytoAGI"
+        "id": "6756e72878779c3d928d041573e09c137779388d",
+        "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_ab4d6ad18fcb",
-      "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-      "url": "https://www.aibase.com/news/30503",
-      "primary_url": "https://www.aibase.com/news/30503",
+      "story_id": "story_3c2b88d25603",
+      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+      "url": "https://www.aibase.com/news/30531",
+      "primary_url": "https://www.aibase.com/news/30531",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "url": "https://www.aibase.com/news/30503",
+          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+          "url": "https://www.aibase.com/news/30531",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:00:05.573709Z"
+          "published_at": "2026-08-21T16:00:05.543403Z"
         }
       ],
       "source_count": 1,
@@ -1144,13 +1359,13 @@
       ],
       "items": [
         {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "url": "https://www.aibase.com/news/30503",
+          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+          "url": "https://www.aibase.com/news/30531",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:00:05.573709Z"
+          "published_at": "2026-08-21T16:00:05.543403Z"
         }
       ],
       "item_count": 1,
@@ -1170,32 +1385,32 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T16:00:05.573709Z",
-      "latest_at": "2026-08-20T16:00:05.573709Z",
+      "earliest_at": "2026-08-21T16:00:05.543403Z",
+      "latest_at": "2026-08-21T16:00:05.543403Z",
       "primary_item": {
-        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "url": "https://www.aibase.com/news/30503",
+        "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+        "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+        "url": "https://www.aibase.com/news/30531",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1b754895a033",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
-      "primary_url": "https://www.aibase.com/news/30504",
+      "story_id": "story_68ba77daf669",
+      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+      "url": "https://www.aibase.com/news/30530",
+      "primary_url": "https://www.aibase.com/news/30530",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "url": "https://www.aibase.com/news/30504",
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "url": "https://www.aibase.com/news/30530",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:00:05.573709Z"
+          "published_at": "2026-08-21T16:00:05.543403Z"
         }
       ],
       "source_count": 1,
@@ -1204,13 +1419,13 @@
       ],
       "items": [
         {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "url": "https://www.aibase.com/news/30504",
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "url": "https://www.aibase.com/news/30530",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:00:05.573709Z"
+          "published_at": "2026-08-21T16:00:05.543403Z"
         }
       ],
       "item_count": 1,
@@ -1230,230 +1445,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T16:00:05.573709Z",
-      "latest_at": "2026-08-20T16:00:05.573709Z",
+      "earliest_at": "2026-08-21T16:00:05.543403Z",
+      "latest_at": "2026-08-21T16:00:05.543403Z",
       "primary_item": {
-        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "url": "https://www.aibase.com/news/30504",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_999edccd4c84",
-      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-      "url": "https://www.aibase.com/news/30501",
-      "primary_url": "https://www.aibase.com/news/30501",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T15:00:05.573709Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T15:00:05.573709Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T15:00:05.573709Z",
-      "latest_at": "2026-08-20T15:00:05.573709Z",
-      "primary_item": {
-        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "url": "https://www.aibase.com/news/30501",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2fbfd12f8918",
-      "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://news.ycombinator.com/item?id=49378768",
-      "primary_url": "https://news.ycombinator.com/item?id=49378768",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "58d5030655071466d34f216ca4cccb4d742365de",
-          "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "url": "https://news.ycombinator.com/item?id=49378768",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T23:39:31.853000Z"
-        },
-        {
-          "id": "dd25289d8014c4af330a18ed9747e331e3d8c1bd",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "www.danielvaughn.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T21:26:19.463000Z"
-        },
-        {
-          "id": "9f1ffad612547008df860ff85013d3cee0247f2c",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T19:05:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.danielvaughn.dev"
-      ],
-      "items": [
-        {
-          "id": "58d5030655071466d34f216ca4cccb4d742365de",
-          "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "url": "https://news.ycombinator.com/item?id=49378768",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T23:39:31.853000Z"
-        },
-        {
-          "id": "dd25289d8014c4af330a18ed9747e331e3d8c1bd",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "www.danielvaughn.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T21:26:19.463000Z"
-        },
-        {
-          "id": "9f1ffad612547008df860ff85013d3cee0247f2c",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T19:05:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5699,
-      "importance": 0.5699,
-      "importance_score": 0.5699,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9951,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T19:05:36Z",
-      "latest_at": "2026-08-20T23:39:31.853000Z",
-      "primary_item": {
-        "id": "58d5030655071466d34f216ca4cccb4d742365de",
-        "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
-        "url": "https://news.ycombinator.com/item?id=49378768",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_4c03fa38a819",
-      "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-      "url": "https://www.aibase.com/news/30502",
-      "primary_url": "https://www.aibase.com/news/30502",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
-          "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-          "url": "https://www.aibase.com/news/30502",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T15:00:05.573709Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
-          "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-          "url": "https://www.aibase.com/news/30502",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T15:00:05.573709Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T15:00:05.573709Z",
-      "latest_at": "2026-08-20T15:00:05.573709Z",
-      "primary_item": {
-        "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
-        "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-        "url": "https://www.aibase.com/news/30502",
+        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "url": "https://www.aibase.com/news/30530",
         "source": "AIbase",
         "source_name": "AIbase"
       }
