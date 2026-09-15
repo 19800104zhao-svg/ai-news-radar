@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:00:01.316701Z",
+  "generated_at": "2026-09-15T01:43:06.646929Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8921,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9303,
+        "recency": 0.9075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,6 +124,68 @@
         "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
         "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_296d33defd03",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "primary_url": "https://openai.com/index/fyxer",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "167e0f28aaf9969b90a74569a182b62614d29230",
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "url": "https://openai.com/index/fyxer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "167e0f28aaf9969b90a74569a182b62614d29230",
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "url": "https://openai.com/index/fyxer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8203,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T12:00:00Z",
+      "latest_at": "2026-09-14T12:00:00Z",
+      "primary_item": {
+        "id": "167e0f28aaf9969b90a74569a182b62614d29230",
+        "title": "How Fyxer built an AI executive assistant people trust",
+        "url": "https://openai.com/index/fyxer",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -200,15 +262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8492,
+        "recency": 0.8284,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -225,68 +287,6 @@
         "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_296d33defd03",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "primary_url": "https://openai.com/index/fyxer",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "url": "https://openai.com/index/fyxer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "url": "https://openai.com/index/fyxer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8409,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T12:00:00Z",
-      "latest_at": "2026-09-14T12:00:00Z",
-      "primary_item": {
-        "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-        "title": "How Fyxer built an AI executive assistant people trust",
-        "url": "https://openai.com/index/fyxer",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -343,15 +343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9614,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -368,6 +368,87 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_046e273e892a",
+      "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
+      "url": "https://www.aibase.com/news/31040",
+      "primary_url": "https://www.aibase.com/news/31040",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
+          "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
+          "url": "https://www.aibase.com/news/31040",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T01:43:06.646929Z"
+        },
+        {
+          "id": "04c22e63953d657eb804c6da4f65fe485cca6b52",
+          "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部「核武级」模型 2 号浮出水面",
+          "url": "https://www.aibase.com/zh/news/31040",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
+          "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
+          "url": "https://www.aibase.com/news/31040",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T01:43:06.646929Z"
+        },
+        {
+          "id": "04c22e63953d657eb804c6da4f65fe485cca6b52",
+          "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部「核武级」模型 2 号浮出水面",
+          "url": "https://www.aibase.com/zh/news/31040",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T01:43:06.646929Z",
+      "latest_at": "2026-09-15T01:43:06.646929Z",
+      "primary_item": {
+        "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
+        "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
+        "url": "https://www.aibase.com/news/31040",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -405,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8909,
+        "recency": 0.8691,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,6 +511,106 @@
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_82404ffdc91b",
+      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "primary_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T19:56:20Z"
+        },
+        {
+          "id": "5e7580780e0e20639ef486615e5bba2b4c7fc928",
+          "title": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "entelligence.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T00:57:33.124000Z"
+        },
+        {
+          "id": "8e769b3e4892d5d1da0982c6dce4e0ab29170994",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T19:56:20Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "entelligence.ai"
+      ],
+      "items": [
+        {
+          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T19:56:20Z"
+        },
+        {
+          "id": "5e7580780e0e20639ef486615e5bba2b4c7fc928",
+          "title": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "entelligence.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T00:57:33.124000Z"
+        },
+        {
+          "id": "8e769b3e4892d5d1da0982c6dce4e0ab29170994",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T19:56:20Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9199,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T19:56:20Z",
+      "latest_at": "2026-09-15T00:57:33.124000Z",
+      "primary_item": {
+        "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+        "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -486,15 +667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8881,
+        "recency": 0.8663,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -514,68 +695,129 @@
       }
     },
     {
-      "story_id": "story_82404ffdc91b",
-      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "primary_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "source": "Hacker News：AI 热帖",
+      "story_id": "story_a4e7f95319e4",
+      "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+      "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+      "primary_url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+      "source": "Fireworks AI（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
-          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News：AI 热帖",
+          "id": "77dfca4bd63b8550aeaefa4f5609a1cf82b44415",
+          "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+          "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+          "source": "Fireworks AI（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T19:56:20Z"
+          "published_at": "2026-09-15T00:36:35.301000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Fireworks AI（网页）"
+      ],
+      "items": [
+        {
+          "id": "77dfca4bd63b8550aeaefa4f5609a1cf82b44415",
+          "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+          "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+          "source": "Fireworks AI（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T00:36:35.301000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9841,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T00:36:35.301000Z",
+      "latest_at": "2026-09-15T00:36:35.301000Z",
+      "primary_item": {
+        "id": "77dfca4bd63b8550aeaefa4f5609a1cf82b44415",
+        "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+        "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+        "source": "Fireworks AI（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e0a8082aeda9",
+      "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+      "url": "https://www.aibase.com/news/31045",
+      "primary_url": "https://www.aibase.com/news/31045",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
+          "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+          "url": "https://www.aibase.com/news/31045",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T01:43:06.646929Z"
         },
         {
-          "id": "8e769b3e4892d5d1da0982c6dce4e0ab29170994",
-          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T19:56:20Z"
+          "id": "03dc3b6c5cc809497baa76e65572137955b542e0",
+          "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+          "url": "https://www.aibase.com/zh/news/31045",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News：AI 热帖"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
-          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T19:56:20Z"
+          "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
+          "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+          "url": "https://www.aibase.com/news/31045",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T01:43:06.646929Z"
         },
         {
-          "id": "8e769b3e4892d5d1da0982c6dce4e0ab29170994",
-          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T19:56:20Z"
+          "id": "03dc3b6c5cc809497baa76e65572137955b542e0",
+          "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+          "url": "https://www.aibase.com/zh/news/31045",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -584,14 +826,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T19:56:20Z",
-      "latest_at": "2026-09-14T19:56:20Z",
+      "earliest_at": "2026-09-15T01:43:06.646929Z",
+      "latest_at": "2026-09-15T01:43:06.646929Z",
       "primary_item": {
-        "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
-        "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
+        "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
+        "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+        "url": "https://www.aibase.com/news/31045",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -629,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.906,
+        "recency": 0.8838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,62 +898,82 @@
       }
     },
     {
-      "story_id": "story_b70cb144f0a3",
-      "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
-      "url": "https://www.aibase.com/news/31035",
-      "primary_url": "https://www.aibase.com/news/31035",
+      "story_id": "story_29c930d206f1",
+      "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+      "url": "https://www.aibase.com/news/31041",
+      "primary_url": "https://www.aibase.com/news/31041",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "345c5cfafa8636c607e133d25ccbf5214eed7133",
-          "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
-          "url": "https://www.aibase.com/news/31035",
+          "id": "d0aefac09327a83446129adbf6d225170c1535fe",
+          "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+          "url": "https://www.aibase.com/news/31041",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T18:00:01.316701Z"
+          "published_at": "2026-09-15T01:43:06.646929Z"
+        },
+        {
+          "id": "9cfce13aa90c414d8e078d83508c9dc8745bbc4a",
+          "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+          "url": "https://www.aibase.com/zh/news/31041",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "345c5cfafa8636c607e133d25ccbf5214eed7133",
-          "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
-          "url": "https://www.aibase.com/news/31035",
+          "id": "d0aefac09327a83446129adbf6d225170c1535fe",
+          "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+          "url": "https://www.aibase.com/news/31041",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T18:00:01.316701Z"
+          "published_at": "2026-09-15T01:43:06.646929Z"
+        },
+        {
+          "id": "9cfce13aa90c414d8e078d83508c9dc8745bbc4a",
+          "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+          "url": "https://www.aibase.com/zh/news/31041",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T18:00:01.316701Z",
-      "latest_at": "2026-09-14T18:00:01.316701Z",
+      "earliest_at": "2026-09-15T01:43:06.646929Z",
+      "latest_at": "2026-09-15T01:43:06.646929Z",
       "primary_item": {
-        "id": "345c5cfafa8636c607e133d25ccbf5214eed7133",
-        "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
-        "url": "https://www.aibase.com/news/31035",
+        "id": "d0aefac09327a83446129adbf6d225170c1535fe",
+        "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+        "url": "https://www.aibase.com/news/31041",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -751,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -871,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9339,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -897,142 +1159,183 @@
       }
     },
     {
-      "story_id": "story_aa74071d48c4",
-      "title": "WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改",
-      "url": "https://www.aibase.com/news/31036",
-      "primary_url": "https://www.aibase.com/news/31036",
+      "story_id": "story_702b2a822a95",
+      "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
+      "url": "https://www.aibase.com/news/31044",
+      "primary_url": "https://www.aibase.com/news/31044",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4ec9865629999878aa081ea717c64b628ce9c445",
-          "title": "WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改",
-          "url": "https://www.aibase.com/news/31036",
+          "id": "088d502490cf846a963c298f3ed0d1071ed2df82",
+          "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
+          "url": "https://www.aibase.com/news/31044",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T18:00:01.316701Z"
+          "published_at": "2026-09-15T01:43:06.646929Z"
+        },
+        {
+          "id": "cf7752de5f6be160f576ad1a21bb84382dc7c2ce",
+          "title": "你的 ChatGPT 对话可能被真人看过：OpenAI 人工审核机制曝光",
+          "url": "https://www.aibase.com/zh/news/31044",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4ec9865629999878aa081ea717c64b628ce9c445",
-          "title": "WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改",
-          "url": "https://www.aibase.com/news/31036",
+          "id": "088d502490cf846a963c298f3ed0d1071ed2df82",
+          "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
+          "url": "https://www.aibase.com/news/31044",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T18:00:01.316701Z"
+          "published_at": "2026-09-15T01:43:06.646929Z"
+        },
+        {
+          "id": "cf7752de5f6be160f576ad1a21bb84382dc7c2ce",
+          "title": "你的 ChatGPT 对话可能被真人看过：OpenAI 人工审核机制曝光",
+          "url": "https://www.aibase.com/zh/news/31044",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T18:00:01.316701Z",
-      "latest_at": "2026-09-14T18:00:01.316701Z",
+      "earliest_at": "2026-09-15T01:43:06.646929Z",
+      "latest_at": "2026-09-15T01:43:06.646929Z",
       "primary_item": {
-        "id": "4ec9865629999878aa081ea717c64b628ce9c445",
-        "title": "WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改",
-        "url": "https://www.aibase.com/news/31036",
+        "id": "088d502490cf846a963c298f3ed0d1071ed2df82",
+        "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
+        "url": "https://www.aibase.com/news/31044",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "add1184de4e05e7931adf227851a985e2925cc49",
-          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T09:59:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "add1184de4e05e7931adf227851a985e2925cc49",
-          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T09:59:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7226,
-      "importance": 0.7226,
-      "importance_score": 0.7226,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8168,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T09:59:00Z",
-      "latest_at": "2026-09-14T09:59:00Z",
-      "primary_item": {
-        "id": "add1184de4e05e7931adf227851a985e2925cc49",
-        "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c777759ebcb8",
-      "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
-      "url": "https://www.aibase.com/news/31037",
-      "primary_url": "https://www.aibase.com/news/31037",
+      "story_id": "story_bac95660f5d2",
+      "title": "黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设",
+      "url": "https://www.aibase.com/news/31043",
+      "primary_url": "https://www.aibase.com/news/31043",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fd8aa902d1168231ed3252fcada6912a59d70915",
-          "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
-          "url": "https://www.aibase.com/news/31037",
+          "id": "07ccb6b6d006025aca56776995dc8af8070998aa",
+          "title": "黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设",
+          "url": "https://www.aibase.com/news/31043",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T18:00:01.316701Z"
+          "published_at": "2026-09-15T01:43:06.646929Z"
+        },
+        {
+          "id": "9301f7a76c303b89795bf16e77ba02f04ccc55f4",
+          "title": "黄仁勋：反对「放慢」AI 发展，美国将继续扩大 AI 基础设施建设",
+          "url": "https://www.aibase.com/zh/news/31043",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "07ccb6b6d006025aca56776995dc8af8070998aa",
+          "title": "黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设",
+          "url": "https://www.aibase.com/news/31043",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T01:43:06.646929Z"
+        },
+        {
+          "id": "9301f7a76c303b89795bf16e77ba02f04ccc55f4",
+          "title": "黄仁勋：反对「放慢」AI 发展，美国将继续扩大 AI 基础设施建设",
+          "url": "https://www.aibase.com/zh/news/31043",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T01:43:06.646929Z",
+      "latest_at": "2026-09-15T01:43:06.646929Z",
+      "primary_item": {
+        "id": "07ccb6b6d006025aca56776995dc8af8070998aa",
+        "title": "黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设",
+        "url": "https://www.aibase.com/news/31043",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ecd8cdabd81c",
+      "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+      "url": "https://www.aibase.com/news/31039",
+      "primary_url": "https://www.aibase.com/news/31039",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
+          "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+          "url": "https://www.aibase.com/news/31039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T01:43:06.646929Z"
         }
       ],
       "source_count": 1,
@@ -1041,26 +1344,26 @@
       ],
       "items": [
         {
-          "id": "fd8aa902d1168231ed3252fcada6912a59d70915",
-          "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
-          "url": "https://www.aibase.com/news/31037",
+          "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
+          "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+          "url": "https://www.aibase.com/news/31039",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T18:00:01.316701Z"
+          "published_at": "2026-09-15T01:43:06.646929Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,12 +1371,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T18:00:01.316701Z",
-      "latest_at": "2026-09-14T18:00:01.316701Z",
+      "earliest_at": "2026-09-15T01:43:06.646929Z",
+      "latest_at": "2026-09-15T01:43:06.646929Z",
       "primary_item": {
-        "id": "fd8aa902d1168231ed3252fcada6912a59d70915",
-        "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
-        "url": "https://www.aibase.com/news/31037",
+        "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
+        "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+        "url": "https://www.aibase.com/news/31039",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1112,47 +1415,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-15T00:00:01.316701Z"
-        },
-        {
-          "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
-          "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T00:00:03.643401Z"
-        },
-        {
-          "id": "8943d9f5e44d6200bcdc419eb1d4bd80b9971950",
-          "title": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T00:00:03.643401Z"
-        },
-        {
-          "id": "23ba9bd3190f85ba309165c467fa1f2712e90e01",
-          "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T00:00:03.643401Z"
-        },
-        {
-          "id": "9c8e0964bbe9e466b9d4db15bf57b23acad54874",
-          "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T00:00:03.643401Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 3,
       "source_names": [
-        "社区更新 · 2026-09-13",
         "社区更新 · 2026-09-14"
       ],
       "items": [
@@ -1182,62 +1448,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-15T00:00:01.316701Z"
-        },
-        {
-          "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
-          "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T00:00:03.643401Z"
-        },
-        {
-          "id": "8943d9f5e44d6200bcdc419eb1d4bd80b9971950",
-          "title": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T00:00:03.643401Z"
-        },
-        {
-          "id": "23ba9bd3190f85ba309165c467fa1f2712e90e01",
-          "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T00:00:03.643401Z"
-        },
-        {
-          "id": "9c8e0964bbe9e466b9d4db15bf57b23acad54874",
-          "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T00:00:03.643401Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6148,
+      "importance": 0.6148,
+      "importance_score": 0.6148,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.9755,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-14T00:00:03.643401Z",
+      "earliest_at": "2026-09-15T00:00:01.316701Z",
       "latest_at": "2026-09-15T00:00:01.316701Z",
       "primary_item": {
         "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
@@ -1245,189 +1475,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-14",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_97dc30920ae0",
-      "title": "蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售",
-      "url": "https://www.aibase.com/news/31038",
-      "primary_url": "https://www.aibase.com/news/31038",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2df63aaf65a7d3e448fe25dc9ed0abe5f070885c",
-          "title": "蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售",
-          "url": "https://www.aibase.com/news/31038",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T18:00:01.316701Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2df63aaf65a7d3e448fe25dc9ed0abe5f070885c",
-          "title": "蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售",
-          "url": "https://www.aibase.com/news/31038",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T18:00:01.316701Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T18:00:01.316701Z",
-      "latest_at": "2026-09-14T18:00:01.316701Z",
-      "primary_item": {
-        "id": "2df63aaf65a7d3e448fe25dc9ed0abe5f070885c",
-        "title": "蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售",
-        "url": "https://www.aibase.com/news/31038",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_41a3428d74f5",
-      "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-      "url": "https://www.aibase.com/news/31033",
-      "primary_url": "https://www.aibase.com/news/31033",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
-          "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-          "url": "https://www.aibase.com/news/31033",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:00:01.316701Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
-          "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-          "url": "https://www.aibase.com/news/31033",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:00:01.316701Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T17:00:01.316701Z",
-      "latest_at": "2026-09-14T17:00:01.316701Z",
-      "primary_item": {
-        "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
-        "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-        "url": "https://www.aibase.com/news/31033",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_29cc0eae04c6",
-      "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
-      "url": "https://www.aibase.com/news/31032",
-      "primary_url": "https://www.aibase.com/news/31032",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
-          "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
-          "url": "https://www.aibase.com/news/31032",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:00:01.316701Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
-          "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
-          "url": "https://www.aibase.com/news/31032",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:00:01.316701Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T17:00:01.316701Z",
-      "latest_at": "2026-09-14T17:00:01.316701Z",
-      "primary_item": {
-        "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
-        "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
-        "url": "https://www.aibase.com/news/31032",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
