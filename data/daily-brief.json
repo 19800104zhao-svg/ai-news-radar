@@ -1,52 +1,271 @@
 {
-  "generated_at": "2026-09-20T00:00:06.860454Z",
+  "generated_at": "2026-09-21T00:00:06.639679Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_c834c1232b76",
-      "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-      "url": "https://x.com/haider1/status/2101187073990611232",
-      "primary_url": "https://x.com/haider1/status/2101187073990611232",
-      "source": "X：Haider (@haider1)",
+      "story_id": "story_c14c68917721",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b7be25af0c2acab7857d209435467e836f1230c1",
-          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-          "url": "https://x.com/haider1/status/2101187073990611232",
-          "source": "X：Haider (@haider1)",
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-19T05:50:11Z"
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T17:43:10Z"
+        },
+        {
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://news.ycombinator.com/item?id=49776729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "hackernews",
+        "www.buchodi.com"
+      ],
+      "items": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T17:43:10Z"
+        },
+        {
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://news.ycombinator.com/item?id=49776729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9182,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T15:18:44Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "primary_item": {
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fc9a8f12e485",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
+          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T14:40:14.401000Z"
+        },
+        {
+          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
+          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T14:40:14.401000Z"
+        },
+        {
+          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8409,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T12:00:00Z",
+      "latest_at": "2026-09-20T14:40:14.401000Z",
+      "primary_item": {
+        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fcca394b788e",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Haider (@haider1)"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "b7be25af0c2acab7857d209435467e836f1230c1",
-          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-          "url": "https://x.com/haider1/status/2101187073990611232",
-          "source": "X：Haider (@haider1)",
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-19T05:50:11Z"
+          "published_at": "2026-09-20T20:20:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7693,
+        "recency": 0.9486,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -54,136 +273,304 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-19T05:50:11Z",
-      "latest_at": "2026-09-19T05:50:11Z",
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
       "primary_item": {
-        "id": "b7be25af0c2acab7857d209435467e836f1230c1",
-        "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-        "url": "https://x.com/haider1/status/2101187073990611232",
-        "source": "X：Haider (@haider1)",
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ed57b78fcd4e",
-      "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
-      "url": "https://www.ithome.com/1/004/369.htm",
-      "primary_url": "https://www.ithome.com/1/004/369.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_049bec628a51",
+      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+      "url": "https://www.aibase.com/news/31205",
+      "primary_url": "https://www.aibase.com/news/31205",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "52a42f995a90248191b388db964423147f788c8d",
-          "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
-          "url": "https://www.ithome.com/1/004/369.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-19T00:07:04Z"
+          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "url": "https://www.aibase.com/news/31205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T18:00:06.639679Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "52a42f995a90248191b388db964423147f788c8d",
-          "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
-          "url": "https://www.ithome.com/1/004/369.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-19T00:07:04Z"
+          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "url": "https://www.aibase.com/news/31205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T18:00:06.639679Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T18:00:06.639679Z",
+      "latest_at": "2026-09-20T18:00:06.639679Z",
+      "primary_item": {
+        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "url": "https://www.aibase.com/news/31205",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7652446ef5af",
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-19T00:07:04Z",
-      "latest_at": "2026-09-19T00:07:04Z",
+      "earliest_at": "2026-09-20T13:52:24Z",
+      "latest_at": "2026-09-20T13:52:24Z",
       "primary_item": {
-        "id": "52a42f995a90248191b388db964423147f788c8d",
-        "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
-        "url": "https://www.ithome.com/1/004/369.htm",
-        "source": "IT之家（RSS）",
+        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-19",
-      "source_name": "WaytoAGI",
+      "story_id": "story_a7041e9bc97d",
+      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+      "url": "https://www.aibase.com/news/31204",
+      "primary_url": "https://www.aibase.com/news/31204",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "3a285cdf868234059297077601a1dcca69f67838",
-          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
-          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
-          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
-          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
+          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "url": "https://www.aibase.com/news/31204",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T18:00:06.639679Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-09-19"
+        "AIbase"
       ],
       "items": [
         {
+          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "url": "https://www.aibase.com/news/31204",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T18:00:06.639679Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T18:00:06.639679Z",
+      "latest_at": "2026-09-20T18:00:06.639679Z",
+      "primary_item": {
+        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+        "url": "https://www.aibase.com/news/31204",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9358b1862fb5",
+      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+      "url": "https://www.aibase.com/news/31206",
+      "primary_url": "https://www.aibase.com/news/31206",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "url": "https://www.aibase.com/news/31206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T18:00:06.639679Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "url": "https://www.aibase.com/news/31206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T18:00:06.639679Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T18:00:06.639679Z",
+      "latest_at": "2026-09-20T18:00:06.639679Z",
+      "primary_item": {
+        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "url": "https://www.aibase.com/news/31206",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-20",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
+          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T00:00:06.639679Z"
+        },
+        {
+          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
+          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T00:00:06.639679Z"
+        },
+        {
+          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
+          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T00:00:06.639679Z"
+        },
+        {
+          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
+          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T00:00:06.639679Z"
+        },
+        {
           "id": "3a285cdf868234059297077601a1dcca69f67838",
           "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -229,16 +616,104 @@
           "published_at": "2026-09-20T00:00:06.860454Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6858,
-      "importance": 0.6858,
-      "importance_score": 0.6858,
+      "source_count": 9,
+      "source_names": [
+        "社区更新 · 2026-09-19",
+        "社区更新 · 2026-09-20"
+      ],
+      "items": [
+        {
+          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
+          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T00:00:06.639679Z"
+        },
+        {
+          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
+          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T00:00:06.639679Z"
+        },
+        {
+          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
+          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T00:00:06.639679Z"
+        },
+        {
+          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
+          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T00:00:06.639679Z"
+        },
+        {
+          "id": "3a285cdf868234059297077601a1dcca69f67838",
+          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T00:00:06.860454Z"
+        },
+        {
+          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
+          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T00:00:06.860454Z"
+        },
+        {
+          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
+          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T00:00:06.860454Z"
+        },
+        {
+          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
+          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T00:00:06.860454Z"
+        },
+        {
+          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
+          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T00:00:06.860454Z"
+        }
+      ],
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4968,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.69,
+        "ai_relevance": 0.65,
         "recency": 1.0,
         "story_heat": 1.0
       },
@@ -247,333 +722,538 @@
         "multi_source"
       ],
       "earliest_at": "2026-09-20T00:00:06.860454Z",
-      "latest_at": "2026-09-20T00:00:06.860454Z",
+      "latest_at": "2026-09-21T00:00:06.639679Z",
       "primary_item": {
-        "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-        "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
+        "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
+        "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-19",
+        "source": "社区更新 · 2026-09-20",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_6cd029fa2ffe",
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "primary_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "source": "TechCrunch AI",
+      "story_id": "story_7ffe17087c40",
+      "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+      "url": "https://www.aibase.com/news/31200",
+      "primary_url": "https://www.aibase.com/news/31200",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "url": "https://www.aibase.com/news/31200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T17:00:06.639679Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "url": "https://www.aibase.com/news/31200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T17:00:06.639679Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T17:00:06.639679Z",
+      "latest_at": "2026-09-20T17:00:06.639679Z",
+      "primary_item": {
+        "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+        "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+        "url": "https://www.aibase.com/news/31200",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ef0a886eb4a4",
+      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+      "url": "https://www.aibase.com/news/31201",
+      "primary_url": "https://www.aibase.com/news/31201",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "url": "https://www.aibase.com/news/31201",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T17:00:06.639679Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "url": "https://www.aibase.com/news/31201",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T17:00:06.639679Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T17:00:06.639679Z",
+      "latest_at": "2026-09-20T17:00:06.639679Z",
+      "primary_item": {
+        "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+        "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+        "url": "https://www.aibase.com/news/31201",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cb03d7f13be9",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         },
         {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         },
         {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6386,
-      "importance": 0.6386,
-      "importance_score": 0.6386,
+      "score": 0.6025,
+      "importance": 0.6025,
+      "importance_score": 0.6025,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.4896,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9433,
+        "ai_relevance": 0.68,
+        "recency": 0.9281,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T19:57:47Z",
-      "latest_at": "2026-09-19T19:57:47Z",
+      "earliest_at": "2026-09-20T18:50:18Z",
+      "latest_at": "2026-09-20T18:50:18Z",
       "primary_item": {
-        "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-        "source": "TechCrunch AI",
+        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "source": "The Verge",
         "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_e396d52dd138",
-      "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "primary_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "source": "www.prinzai.com",
-      "source_name": "Buzzing",
+      "story_id": "story_25287a6b56d6",
+      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+      "url": "https://www.aibase.com/news/31203",
+      "primary_url": "https://www.aibase.com/news/31203",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
-          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "www.prinzai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T09:35:29.529000Z"
-        },
-        {
-          "id": "8f2fc72a05349797767433d6f72282035e29c1ba",
-          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "www.prinzai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T08:48:31.301000Z"
-        },
-        {
-          "id": "5554cc43df3aa86a2db48a542e7c070b41cee04d",
-          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T08:44:38Z"
-        },
-        {
-          "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
-          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-          "url": "https://news.ycombinator.com/item?id=49763987",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T06:41:44Z"
+          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "url": "https://www.aibase.com/news/31203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T17:00:06.639679Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Lobsters (技术社区)",
-        "hackernews",
-        "www.prinzai.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
-          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "www.prinzai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T09:35:29.529000Z"
-        },
-        {
-          "id": "8f2fc72a05349797767433d6f72282035e29c1ba",
-          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "www.prinzai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T08:48:31.301000Z"
-        },
-        {
-          "id": "5554cc43df3aa86a2db48a542e7c070b41cee04d",
-          "title": "GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
-          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T08:44:38Z"
-        },
-        {
-          "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
-          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-          "url": "https://news.ycombinator.com/item?id=49763987",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T06:41:44Z"
+          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "url": "https://www.aibase.com/news/31203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T17:00:06.639679Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.562,
-      "importance": 0.562,
-      "importance_score": 0.562,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8121,
-        "story_heat": 0.75
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-19T06:41:44Z",
-      "latest_at": "2026-09-19T09:35:29.529000Z",
+      "earliest_at": "2026-09-20T17:00:06.639679Z",
+      "latest_at": "2026-09-20T17:00:06.639679Z",
       "primary_item": {
-        "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
-        "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
-        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "source": "www.prinzai.com",
-        "source_name": "Buzzing"
+        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "url": "https://www.aibase.com/news/31203",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_35721eb82dbc",
-      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "source": "erichgrunewald.substack.com",
+      "story_id": "story_11175d628d3c",
+      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+      "url": "https://www.aibase.com/news/31199",
+      "primary_url": "https://www.aibase.com/news/31199",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "url": "https://www.aibase.com/news/31199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T16:00:06.639679Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "url": "https://www.aibase.com/news/31199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T16:00:06.639679Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-20T16:00:06.639679Z",
+      "latest_at": "2026-09-20T16:00:06.639679Z",
+      "primary_item": {
+        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "url": "https://www.aibase.com/news/31199",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8bfe2a2350a2",
+      "title": "“海盗脸”拯救了大语言模型免遭删除",
+      "url": "https://pirateface.co",
+      "primary_url": "https://pirateface.co",
+      "source": "pirateface.co",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "erichgrunewald.substack.com",
+          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+          "title": "“海盗脸”拯救了大语言模型免遭删除",
+          "url": "https://pirateface.co",
+          "source": "pirateface.co",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T20:03:34.007000Z"
+          "published_at": "2026-09-20T17:03:10.347000Z"
         },
         {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "83b84e1c6c188985bb4faaf82b087dc51c256d9a",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://pirateface.co",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-19T16:35:24Z"
+          "published_at": "2026-09-20T15:16:07Z"
+        },
+        {
+          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
+          "title": "Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://news.ycombinator.com/item?id=49776699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:16:07Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
         "Hacker News (黑客新闻)",
-        "erichgrunewald.substack.com"
+        "hackernews",
+        "pirateface.co"
       ],
       "items": [
         {
-          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "erichgrunewald.substack.com",
+          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+          "title": "“海盗脸”拯救了大语言模型免遭删除",
+          "url": "https://pirateface.co",
+          "source": "pirateface.co",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T20:03:34.007000Z"
+          "published_at": "2026-09-20T17:03:10.347000Z"
         },
         {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "83b84e1c6c188985bb4faaf82b087dc51c256d9a",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://pirateface.co",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-19T16:35:24Z"
+          "published_at": "2026-09-20T15:16:07Z"
+        },
+        {
+          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
+          "title": "Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://news.ycombinator.com/item?id=49776699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:16:07Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9447,
+        "recency": 0.9045,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T16:35:24Z",
-      "latest_at": "2026-09-19T20:03:34.007000Z",
+      "earliest_at": "2026-09-20T15:16:07Z",
+      "latest_at": "2026-09-20T17:03:10.347000Z",
       "primary_item": {
-        "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-        "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "source": "erichgrunewald.substack.com",
+        "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+        "title": "“海盗脸”拯救了大语言模型免遭删除",
+        "url": "https://pirateface.co",
+        "source": "pirateface.co",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_c9712c9fea8e",
-      "title": "higgsfield-ai /      higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "primary_url": "https://github.com/higgsfield-ai/higgsfield",
-      "source": "github",
-      "source_name": "NewsNow",
+      "story_id": "story_af1376b878c4",
+      "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
+      "url": "https://www.ithome.com/1/005/026.htm",
+      "primary_url": "https://www.ithome.com/1/005/026.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "39b22d35ffc3a2f3361ed68428053efcfcb556f8",
-          "title": "higgsfield-ai /      higgsfield",
-          "url": "https://github.com/higgsfield-ai/higgsfield",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T00:02:03.492000Z"
+          "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
+          "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
+          "url": "https://www.ithome.com/1/005/026.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "556d8b142fc69cee031f2ccfd54858238fe3e1f3",
-          "title": "higgsfield-ai / higgsfield",
-          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "id": "64d73c6407bbde68dadc6fe9d868bc37153d8e00",
+          "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
+          "url": "https://www.ithome.com/1/005/026.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T23:45:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
+          "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
+          "url": "https://www.ithome.com/1/005/026.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "64d73c6407bbde68dadc6fe9d868bc37153d8e00",
+          "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
+          "url": "https://www.ithome.com/1/005/026.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T23:45:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T23:45:34Z",
+      "latest_at": "2026-09-21T00:00:06.639679Z",
+      "primary_item": {
+        "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
+        "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
+        "url": "https://www.ithome.com/1/005/026.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6e9a00bdff8c",
+      "title": "人类学/金融服务 / anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "primary_url": "https://github.com/anthropics/financial-services",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
+          "title": "人类学/金融服务 / anthropics / financial-services",
+          "url": "https://github.com/anthropics/financial-services",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
+          "title": "人类学/金融服务 / anthropics /      financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T23:32:23.187000Z"
         }
       ],
       "source_count": 2,
@@ -583,22 +1263,22 @@
       ],
       "items": [
         {
-          "id": "39b22d35ffc3a2f3361ed68428053efcfcb556f8",
-          "title": "higgsfield-ai /      higgsfield",
-          "url": "https://github.com/higgsfield-ai/higgsfield",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T00:02:03.492000Z"
-        },
-        {
-          "id": "556d8b142fc69cee031f2ccfd54858238fe3e1f3",
-          "title": "higgsfield-ai / higgsfield",
-          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
+          "title": "人类学/金融服务 / anthropics / financial-services",
+          "url": "https://github.com/anthropics/financial-services",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
+          "title": "人类学/金融服务 / anthropics /      financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T23:32:23.187000Z"
         }
       ],
       "item_count": 2,
@@ -618,316 +1298,180 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T00:00:06.860454Z",
-      "latest_at": "2026-09-20T00:02:03.492000Z",
+      "earliest_at": "2026-09-20T23:32:23.187000Z",
+      "latest_at": "2026-09-21T00:00:06.639679Z",
       "primary_item": {
-        "id": "39b22d35ffc3a2f3361ed68428053efcfcb556f8",
-        "title": "higgsfield-ai /      higgsfield",
-        "url": "https://github.com/higgsfield-ai/higgsfield",
-        "source": "github",
-        "source_name": "NewsNow"
+        "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
+        "title": "人类学/金融服务 / anthropics / financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_371dbe4be68c",
-      "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统 / Google's Gemini AI hacked three companies in security test",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_5639c87861f6",
+      "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+      "url": "https://www.aibase.com/news/31198",
+      "primary_url": "https://www.aibase.com/news/31198",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "134d5c06a3bcd0b74086f08cbe9d552ece6ee07d",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T13:39:32Z"
-        },
-        {
-          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
-          "title": "Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T06:09:23Z"
-        },
-        {
-          "id": "04365d101e4dedcb90aa24e8be378ba01f1113fd",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T04:35:37.974000Z"
+          "id": "e66d3223fe840139ba719b619af347339d276b71",
+          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+          "url": "https://www.aibase.com/news/31198",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T16:00:06.639679Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "BBC News (世界新闻)",
-        "Hacker News · 24h最热",
-        "www.bbc.co.uk"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "134d5c06a3bcd0b74086f08cbe9d552ece6ee07d",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统 / Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T13:39:32Z"
-        },
-        {
-          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
-          "title": "Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T06:09:23Z"
-        },
-        {
-          "id": "04365d101e4dedcb90aa24e8be378ba01f1113fd",
-          "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T04:35:37.974000Z"
+          "id": "e66d3223fe840139ba719b619af347339d276b71",
+          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+          "url": "https://www.aibase.com/news/31198",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T16:00:06.639679Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8613,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-19T04:35:37.974000Z",
-      "latest_at": "2026-09-19T13:39:32Z",
+      "earliest_at": "2026-09-20T16:00:06.639679Z",
+      "latest_at": "2026-09-20T16:00:06.639679Z",
       "primary_item": {
-        "id": "134d5c06a3bcd0b74086f08cbe9d552ece6ee07d",
-        "title": "谷歌的Gemini AI在安全测试中攻破了三家公司的系统 / Google's Gemini AI hacked three companies in security test",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
+        "id": "e66d3223fe840139ba719b619af347339d276b71",
+        "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+        "url": "https://www.aibase.com/news/31198",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ef8f2d6389be",
-      "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
+      "story_id": "story_df407510d6b3",
+      "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+      "url": "https://github.com/marciob/openmsg",
+      "primary_url": "https://github.com/marciob/openmsg",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
+          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T23:11:32.379000Z"
+          "published_at": "2026-09-20T20:25:27.018000Z"
         },
         {
-          "id": "c9d54d07408385f94c522f9f57541bdf9a55c39b",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人 / Not all AI workers think the tech could kill everyone",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:01:57Z"
+          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-20T20:10:39Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
+        "HN Algolia · AI 24h",
+        "github.com"
       ],
       "items": [
         {
-          "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
+          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T23:11:32.379000Z"
+          "published_at": "2026-09-20T20:25:27.018000Z"
         },
         {
-          "id": "c9d54d07408385f94c522f9f57541bdf9a55c39b",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人 / Not all AI workers think the tech could kill everyone",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:01:57Z"
+          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-20T20:10:39Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9884,
+        "recency": 0.9496,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T23:01:57Z",
-      "latest_at": "2026-09-19T23:11:32.379000Z",
+      "earliest_at": "2026-09-20T20:10:39Z",
+      "latest_at": "2026-09-20T20:25:27.018000Z",
       "primary_item": {
-        "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-        "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
+        "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+        "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+        "url": "https://github.com/marciob/openmsg",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_643a84217e15",
-      "title": "AI生成的海报未必就难看",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "primary_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "source": "john.hartnup.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
-          "title": "AI生成的海报未必就难看",
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "john.hartnup.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T10:53:16.305000Z"
-        },
-        {
-          "id": "3003344eadbbe36deaeef27bd96c32b0c033ec3e",
-          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T09:20:58Z"
-        },
-        {
-          "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
-          "title": "AI-generated posters don’t have to be horrible",
-          "url": "https://news.ycombinator.com/item?id=49764791",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T09:20:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "john.hartnup.uk"
-      ],
-      "items": [
-        {
-          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
-          "title": "AI生成的海报未必就难看",
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "john.hartnup.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T10:53:16.305000Z"
-        },
-        {
-          "id": "3003344eadbbe36deaeef27bd96c32b0c033ec3e",
-          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T09:20:58Z"
-        },
-        {
-          "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
-          "title": "AI-generated posters don’t have to be horrible",
-          "url": "https://news.ycombinator.com/item?id=49764791",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T09:20:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8275,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T09:20:58Z",
-      "latest_at": "2026-09-19T10:53:16.305000Z",
-      "primary_item": {
-        "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
-        "title": "AI生成的海报未必就难看",
-        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "source": "john.hartnup.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_463a0b9aa5fb",
-      "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
-      "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-      "primary_url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+      "story_id": "story_bb4fbf2e9746",
+      "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "53306148fad96c787350bde3be395b68157eb325",
-          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
-          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T19:17:30.608000Z"
+          "published_at": "2026-09-20T19:38:16.749000Z"
         },
         {
-          "id": "98e83d041767650dfe10435cae0895570c83fa9e",
-          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能 / Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
-          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T18:52:13Z"
+          "published_at": "2026-09-20T19:17:13Z"
         }
       ],
       "source_count": 2,
@@ -937,443 +1481,127 @@
       ],
       "items": [
         {
-          "id": "53306148fad96c787350bde3be395b68157eb325",
-          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
-          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T19:17:30.608000Z"
+          "published_at": "2026-09-20T19:38:16.749000Z"
         },
         {
-          "id": "98e83d041767650dfe10435cae0895570c83fa9e",
-          "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能 / Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
-          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T18:52:13Z"
+          "published_at": "2026-09-20T19:17:13Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9342,
+        "recency": 0.9389,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T18:52:13Z",
-      "latest_at": "2026-09-19T19:17:30.608000Z",
+      "earliest_at": "2026-09-20T19:17:13Z",
+      "latest_at": "2026-09-20T19:38:16.749000Z",
       "primary_item": {
-        "id": "53306148fad96c787350bde3be395b68157eb325",
-        "title": "特朗普宣布成立新的“人工智能部队”，但表示不会“扼杀”人工智能",
-        "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+        "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+        "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+        "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_dc8b1f74b838",
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
-          "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T18:21:30Z"
-        },
-        {
-          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
-          "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "url": "https://news.ycombinator.com/item?id=49768921",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T18:21:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
-          "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T18:21:30Z"
-        },
-        {
-          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
-          "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "url": "https://news.ycombinator.com/item?id=49768921",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T18:21:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9217,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T18:21:30Z",
-      "latest_at": "2026-09-19T18:21:30Z",
-      "primary_item": {
-        "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
-        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_ff70dfe1c386",
-      "title": "人工智能是一场精英犯罪浪潮",
-      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-      "primary_url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-      "source": "www.thebignewsletter.com",
+      "story_id": "story_60f379c3b3ff",
+      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+      "url": "https://softwarecrisis.dev/letters/llmentalist",
+      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
+      "source": "softwarecrisis.dev",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2f287611e1178ca3ddc645e7da82eac119e5fa5a",
-          "title": "人工智能是一场精英犯罪浪潮",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "www.thebignewsletter.com",
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T15:52:36.202000Z"
+          "published_at": "2026-09-20T15:28:23.669000Z"
         },
         {
-          "id": "af9f6001be9762b3b9f8b973740682dfeeb50aa3",
-          "title": "人工智能是一场精英犯罪浪潮 / AI Is an Elite Crime Spree",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T15:44:52Z"
+          "id": "e833e45361cefdae5e3786311631db75df845e8d",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:20:13Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.thebignewsletter.com"
+        "Hacker News · 24h最热",
+        "softwarecrisis.dev"
       ],
       "items": [
         {
-          "id": "2f287611e1178ca3ddc645e7da82eac119e5fa5a",
-          "title": "人工智能是一场精英犯罪浪潮",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "www.thebignewsletter.com",
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T15:52:36.202000Z"
+          "published_at": "2026-09-20T15:28:23.669000Z"
         },
         {
-          "id": "af9f6001be9762b3b9f8b973740682dfeeb50aa3",
-          "title": "人工智能是一场精英犯罪浪潮 / AI Is an Elite Crime Spree",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T15:44:52Z"
+          "id": "e833e45361cefdae5e3786311631db75df845e8d",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:20:13Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8893,
+        "recency": 0.8841,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T15:44:52Z",
-      "latest_at": "2026-09-19T15:52:36.202000Z",
+      "earliest_at": "2026-09-20T12:20:13Z",
+      "latest_at": "2026-09-20T15:28:23.669000Z",
       "primary_item": {
-        "id": "2f287611e1178ca3ddc645e7da82eac119e5fa5a",
-        "title": "人工智能是一场精英犯罪浪潮",
-        "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-        "source": "www.thebignewsletter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a2175cfdcf4c",
-      "title": "Anthropic、OpenAI、SpaceXAI和谷歌因呼吁“放缓”人工智能发展而遭到起诉 / Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
-      "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-      "primary_url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "1a34d8d0c24e0006a2e5c357099b7ffe46efd7a2",
-          "title": "Anthropic、OpenAI、SpaceXAI和谷歌因呼吁“放缓”人工智能发展而遭到起诉 / Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
-          "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-19T14:09:55Z"
-        },
-        {
-          "id": "87e21209a0deb475cac732901955f28416c036d3",
-          "title": "Anthropic、OpenAI、SpaceXAI和谷歌因呼吁“放缓”人工智能发展而遭到起诉",
-          "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T01:09:39.071000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "www.politico.com"
-      ],
-      "items": [
-        {
-          "id": "1a34d8d0c24e0006a2e5c357099b7ffe46efd7a2",
-          "title": "Anthropic、OpenAI、SpaceXAI和谷歌因呼吁“放缓”人工智能发展而遭到起诉 / Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
-          "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-19T14:09:55Z"
-        },
-        {
-          "id": "87e21209a0deb475cac732901955f28416c036d3",
-          "title": "Anthropic、OpenAI、SpaceXAI和谷歌因呼吁“放缓”人工智能发展而遭到起诉",
-          "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T01:09:39.071000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8676,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T01:09:39.071000Z",
-      "latest_at": "2026-09-19T14:09:55Z",
-      "primary_item": {
-        "id": "1a34d8d0c24e0006a2e5c357099b7ffe46efd7a2",
-        "title": "Anthropic、OpenAI、SpaceXAI和谷歌因呼吁“放缓”人工智能发展而遭到起诉 / Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
-        "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      }
-    },
-    {
-      "story_id": "story_688095cc71b0",
-      "title": "yynxxxxx /      Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "primary_url": "https://github.com/yynxxxxx/Codex-X",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "93ef558d0222ef4bc787d656db823d16b6583d28",
-          "title": "yynxxxxx /      Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T00:02:03.492000Z"
-        },
-        {
-          "id": "d9da796f1c62b6b34933b021370fb8b6d4ab33b2",
-          "title": "yynxxxxx / Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "93ef558d0222ef4bc787d656db823d16b6583d28",
-          "title": "yynxxxxx /      Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T00:02:03.492000Z"
-        },
-        {
-          "id": "d9da796f1c62b6b34933b021370fb8b6d4ab33b2",
-          "title": "yynxxxxx / Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T00:00:06.860454Z",
-      "latest_at": "2026-09-20T00:02:03.492000Z",
-      "primary_item": {
-        "id": "93ef558d0222ef4bc787d656db823d16b6583d28",
-        "title": "yynxxxxx /      Codex-X",
-        "url": "https://github.com/yynxxxxx/Codex-X",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_95d2a0c94c5e",
-      "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
-          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
-          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T21:53:28.879000Z"
-        },
-        {
-          "id": "266d9bcc6a57dc33f7d720a5a09293e3005b6364",
-          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇 / Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T21:01:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
-          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
-          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T21:53:28.879000Z"
-        },
-        {
-          "id": "266d9bcc6a57dc33f7d720a5a09293e3005b6364",
-          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇 / Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T21:01:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.97,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T21:01:56Z",
-      "latest_at": "2026-09-19T21:53:28.879000Z",
-      "primary_item": {
-        "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
-        "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
+        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+        "url": "https://softwarecrisis.dev/letters/llmentalist",
+        "source": "softwarecrisis.dev",
         "source_name": "Buzzing"
       }
     }
