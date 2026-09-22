@@ -1,209 +1,296 @@
 {
-  "generated_at": "2026-09-21T00:00:06.639679Z",
+  "generated_at": "2026-09-22T00:00:06.517743Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c14c68917721",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_c701b57089c5",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:10Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T13:44:34Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "www.buchodi.com"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:10Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T13:44:34Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9182,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.8623,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T13:44:34Z",
+      "latest_at": "2026-09-21T13:44:34Z",
+      "primary_item": {
+        "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+        "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_530db518a73a",
+      "title": "OpenAI Academy 扩展新学习路径 / Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "primary_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+          "title": "OpenAI Academy 扩展新学习路径 / Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T07:00:00Z"
+        },
+        {
+          "id": "1e74c248518d7e5a2aa5dbf3787cfd22bf4ef83c",
+          "title": "OpenAI Academy 扩展新学习路径",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+          "title": "OpenAI Academy 扩展新学习路径 / Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T07:00:00Z"
+        },
+        {
+          "id": "1e74c248518d7e5a2aa5dbf3787cfd22bf4ef83c",
+          "title": "OpenAI Academy 扩展新学习路径",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7823,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "earliest_at": "2026-09-21T07:00:00Z",
+      "latest_at": "2026-09-22T00:00:06.517743Z",
       "primary_item": {
-        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+        "title": "OpenAI Academy 扩展新学习路径 / Expanding OpenAI Academy with new learning paths",
+        "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_fc9a8f12e485",
-      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "source": "Qwen：Blog Retrieval（API）",
+      "story_id": "story_bdad4d18a972",
+      "title": "GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9606,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T21:13:18Z",
+      "latest_at": "2026-09-21T21:13:18Z",
+      "primary_item": {
+        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+        "title": "GitHub Enterprise adds credential inventory exports",
+        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+      "source": "公众号：小米 MiMo",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Qwen：Blog Retrieval（API）",
+          "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
+          "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+          "source": "公众号：小米 MiMo",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
+          "published_at": "2026-09-21T20:18:52Z"
         },
         {
-          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
-          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T14:40:14.401000Z"
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
         },
         {
-          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T13:09:25Z"
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Qwen：Blog Retrieval（API）",
-        "qwen.ai"
+        "公众号：小米 MiMo",
+        "公众号：数字生命卡兹克",
+        "公众号：月之暗面（Kimi）"
       ],
       "items": [
         {
-          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Qwen：Blog Retrieval（API）",
+          "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
+          "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+          "source": "公众号：小米 MiMo",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
+          "published_at": "2026-09-21T20:18:52Z"
         },
         {
-          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
-          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T14:40:14.401000Z"
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
         },
         {
-          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T13:09:25Z"
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.9481,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -212,60 +299,184 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T12:00:00Z",
-      "latest_at": "2026-09-20T14:40:14.401000Z",
+      "earliest_at": "2026-09-21T01:52:57Z",
+      "latest_at": "2026-09-21T20:18:52Z",
       "primary_item": {
-        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "source": "Qwen：Blog Retrieval（API）",
+        "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
+        "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+        "source": "公众号：小米 MiMo",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_fcca394b788e",
-      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d37f5b2c5927",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "primary_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
+          "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
+          "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8409,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T12:00:00Z",
+      "latest_at": "2026-09-21T12:00:00Z",
+      "primary_item": {
+        "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2761dd45b97c",
+      "title": "Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8769,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T14:54:12Z",
+      "latest_at": "2026-09-21T14:54:12Z",
+      "primary_item": {
+        "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+        "title": "Grok 4.7 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9525c17a5986",
+      "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+      "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+          "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+          "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:11:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+          "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+          "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:11:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9486,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -273,32 +484,316 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T20:20:56Z",
-      "latest_at": "2026-09-20T20:20:56Z",
+      "earliest_at": "2026-09-21T20:11:34Z",
+      "latest_at": "2026-09-21T20:11:34Z",
       "primary_item": {
-        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-        "source": "MarkTechPost（RSS）",
+        "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+        "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+        "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_049bec628a51",
-      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-      "url": "https://www.aibase.com/news/31205",
-      "primary_url": "https://www.aibase.com/news/31205",
+      "story_id": "story_a7ca59844a94",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "primary_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8409,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T12:00:00Z",
+      "latest_at": "2026-09-21T12:00:00Z",
+      "primary_item": {
+        "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6f580068fdf8",
+      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+      "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+      "primary_url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+      "source": "X：小米 MiMo (@XiaomiMiMo)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5215af3fdf7511ea7b27eb01110ac6fb05e095cd",
+          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+          "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+          "source": "X：小米 MiMo (@XiaomiMiMo)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:51:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小米 MiMo (@XiaomiMiMo)"
+      ],
+      "items": [
+        {
+          "id": "5215af3fdf7511ea7b27eb01110ac6fb05e095cd",
+          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+          "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+          "source": "X：小米 MiMo (@XiaomiMiMo)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:51:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9555,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T20:51:03Z",
+      "latest_at": "2026-09-21T20:51:03Z",
+      "primary_item": {
+        "id": "5215af3fdf7511ea7b27eb01110ac6fb05e095cd",
+        "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+        "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+        "source": "X：小米 MiMo (@XiaomiMiMo)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_015dbc4f8268",
+      "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "primary_url": "https://linear.app/now/ci-bottleneck-reworked",
+      "source": "Linear：Now（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Linear：Now（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T12:26:00Z"
+        },
+        {
+          "id": "b737c91e151179b85439ae6bf6a8062816b8e303",
+          "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T23:17:19.633000Z"
+        },
+        {
+          "id": "b246d1ce428cc62d7fc56ab560435ab5917626ef",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T19:23:33Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Linear：Now（RSS）",
+        "linear.app"
+      ],
+      "items": [
+        {
+          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Linear：Now（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T12:26:00Z"
+        },
+        {
+          "id": "b737c91e151179b85439ae6bf6a8062816b8e303",
+          "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T23:17:19.633000Z"
+        },
+        {
+          "id": "b246d1ce428cc62d7fc56ab560435ab5917626ef",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T19:23:33Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8462,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T12:26:00Z",
+      "latest_at": "2026-09-21T23:17:19.633000Z",
+      "primary_item": {
+        "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+        "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "source": "Linear：Now（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c8db3b672c97",
+      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+      "url": "https://www.ithome.com/1/005/418.htm",
+      "primary_url": "https://www.ithome.com/1/005/418.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "url": "https://www.ithome.com/1/005/418.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "url": "https://www.ithome.com/1/005/418.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8394,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T11:52:52Z",
+      "latest_at": "2026-09-21T11:52:52Z",
+      "primary_item": {
+        "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+        "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "url": "https://www.ithome.com/1/005/418.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8fca2699b05a",
+      "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+      "url": "https://www.aibase.com/news/31241",
+      "primary_url": "https://www.aibase.com/news/31241",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "url": "https://www.aibase.com/news/31205",
+          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "url": "https://www.aibase.com/news/31241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T18:00:06.639679Z"
+          "published_at": "2026-09-21T18:00:06.517743Z"
         }
       ],
       "source_count": 1,
@@ -307,13 +802,13 @@
       ],
       "items": [
         {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "url": "https://www.aibase.com/news/31205",
+          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "url": "https://www.aibase.com/news/31241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T18:00:06.639679Z"
+          "published_at": "2026-09-21T18:00:06.517743Z"
         }
       ],
       "item_count": 1,
@@ -334,92 +829,395 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T18:00:06.639679Z",
-      "latest_at": "2026-09-20T18:00:06.639679Z",
+      "earliest_at": "2026-09-21T18:00:06.517743Z",
+      "latest_at": "2026-09-21T18:00:06.517743Z",
       "primary_item": {
-        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "url": "https://www.aibase.com/news/31205",
+        "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+        "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+        "url": "https://www.aibase.com/news/31241",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7652446ef5af",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_e7429cde0800",
+      "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+      "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+      "primary_url": "https://x.com/ClementDelangue/status/2102141768674222323",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "bcc1d035655d6ba3d004efb14cbaeba67953c497",
+          "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+          "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
+          "published_at": "2026-09-21T21:03:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
       ],
       "items": [
         {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "bcc1d035655d6ba3d004efb14cbaeba67953c497",
+          "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+          "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
+          "published_at": "2026-09-21T21:03:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T13:52:24Z",
-      "latest_at": "2026-09-20T13:52:24Z",
+      "earliest_at": "2026-09-21T21:03:48Z",
+      "latest_at": "2026-09-21T21:03:48Z",
       "primary_item": {
-        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "id": "bcc1d035655d6ba3d004efb14cbaeba67953c497",
+        "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+        "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a7041e9bc97d",
-      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-      "url": "https://www.aibase.com/news/31204",
-      "primary_url": "https://www.aibase.com/news/31204",
+      "story_id": "story_58f67d30ae06",
+      "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+      "url": "https://x.com/arena/status/2102142912943489220",
+      "primary_url": "https://x.com/arena/status/2102142912943489220",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
+          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+          "url": "https://x.com/arena/status/2102142912943489220",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T21:08:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
+          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+          "url": "https://x.com/arena/status/2102142912943489220",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T21:08:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9595,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T21:08:21Z",
+      "latest_at": "2026-09-21T21:08:21Z",
+      "primary_item": {
+        "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
+        "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+        "url": "https://x.com/arena/status/2102142912943489220",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3ed9fa9162b7",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Artificial Analysis 完整文章（网页）"
+      ],
+      "items": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9396,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T19:41:25.079000Z",
+      "latest_at": "2026-09-21T19:41:25.079000Z",
+      "primary_item": {
+        "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+        "source": "Artificial Analysis 完整文章（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9df088af4d49",
+      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+      "url": "https://x.com/elonmusk/status/2102082011233931762",
+      "primary_url": "https://x.com/elonmusk/status/2102082011233931762",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
+          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+          "url": "https://x.com/elonmusk/status/2102082011233931762",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T17:06:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
+          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+          "url": "https://x.com/elonmusk/status/2102082011233931762",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T17:06:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9052,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T17:06:20Z",
+      "latest_at": "2026-09-21T17:06:20Z",
+      "primary_item": {
+        "id": "6795ace021f7be53c5997a411c80eadae2e86061",
+        "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+        "url": "https://x.com/elonmusk/status/2102082011233931762",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9a319be2f748",
+      "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "primary_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
+          "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
+          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:56:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nathan Lambert：Interconnects（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
+          "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
+          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:56:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8403,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T11:56:56Z",
+      "latest_at": "2026-09-21T11:56:56Z",
+      "primary_item": {
+        "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
+        "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
+        "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2c9792fbb14a",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "primary_url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8169,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T10:00:00Z",
+      "latest_at": "2026-09-21T10:00:00Z",
+      "primary_item": {
+        "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+        "title": "Building standards for the next phase of AI",
+        "url": "https://openai.com/index/building-standards-next-phase-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9d9bdcd8c26f",
+      "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+      "url": "https://www.aibase.com/news/31240",
+      "primary_url": "https://www.aibase.com/news/31240",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "url": "https://www.aibase.com/news/31204",
+          "id": "749e770d05615b34278e234511bee1d1d638c41f",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "url": "https://www.aibase.com/news/31240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T18:00:06.639679Z"
+          "published_at": "2026-09-21T18:00:06.517743Z"
         }
       ],
       "source_count": 1,
@@ -428,13 +1226,13 @@
       ],
       "items": [
         {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "url": "https://www.aibase.com/news/31204",
+          "id": "749e770d05615b34278e234511bee1d1d638c41f",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "url": "https://www.aibase.com/news/31240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T18:00:06.639679Z"
+          "published_at": "2026-09-21T18:00:06.517743Z"
         }
       ],
       "item_count": 1,
@@ -455,32 +1253,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T18:00:06.639679Z",
-      "latest_at": "2026-09-20T18:00:06.639679Z",
+      "earliest_at": "2026-09-21T18:00:06.517743Z",
+      "latest_at": "2026-09-21T18:00:06.517743Z",
       "primary_item": {
-        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "url": "https://www.aibase.com/news/31204",
+        "id": "749e770d05615b34278e234511bee1d1d638c41f",
+        "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+        "url": "https://www.aibase.com/news/31240",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9358b1862fb5",
-      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-      "url": "https://www.aibase.com/news/31206",
-      "primary_url": "https://www.aibase.com/news/31206",
+      "story_id": "story_1c1253212e36",
+      "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+      "url": "https://www.aibase.com/news/31239",
+      "primary_url": "https://www.aibase.com/news/31239",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "url": "https://www.aibase.com/news/31206",
+          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "url": "https://www.aibase.com/news/31239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T18:00:06.639679Z"
+          "published_at": "2026-09-21T18:00:06.517743Z"
         }
       ],
       "source_count": 1,
@@ -489,13 +1287,13 @@
       ],
       "items": [
         {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "url": "https://www.aibase.com/news/31206",
+          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "url": "https://www.aibase.com/news/31239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T18:00:06.639679Z"
+          "published_at": "2026-09-21T18:00:06.517743Z"
         }
       ],
       "item_count": 1,
@@ -516,1093 +1314,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T18:00:06.639679Z",
-      "latest_at": "2026-09-20T18:00:06.639679Z",
+      "earliest_at": "2026-09-21T18:00:06.517743Z",
+      "latest_at": "2026-09-21T18:00:06.517743Z",
       "primary_item": {
-        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "url": "https://www.aibase.com/news/31206",
+        "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+        "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+        "url": "https://www.aibase.com/news/31239",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-20",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T00:00:06.639679Z"
-        },
-        {
-          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
-          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T00:00:06.639679Z"
-        },
-        {
-          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
-          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T00:00:06.639679Z"
-        },
-        {
-          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
-          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T00:00:06.639679Z"
-        },
-        {
-          "id": "3a285cdf868234059297077601a1dcca69f67838",
-          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
-          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
-          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
-          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        }
-      ],
-      "source_count": 9,
-      "source_names": [
-        "社区更新 · 2026-09-19",
-        "社区更新 · 2026-09-20"
-      ],
-      "items": [
-        {
-          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T00:00:06.639679Z"
-        },
-        {
-          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
-          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T00:00:06.639679Z"
-        },
-        {
-          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
-          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T00:00:06.639679Z"
-        },
-        {
-          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
-          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-21T00:00:06.639679Z"
-        },
-        {
-          "id": "3a285cdf868234059297077601a1dcca69f67838",
-          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
-          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
-          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        },
-        {
-          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
-          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T00:00:06.860454Z"
-        }
-      ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T00:00:06.860454Z",
-      "latest_at": "2026-09-21T00:00:06.639679Z",
-      "primary_item": {
-        "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
-        "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-20",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_7ffe17087c40",
-      "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-      "url": "https://www.aibase.com/news/31200",
-      "primary_url": "https://www.aibase.com/news/31200",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "url": "https://www.aibase.com/news/31200",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T17:00:06.639679Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "url": "https://www.aibase.com/news/31200",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T17:00:06.639679Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T17:00:06.639679Z",
-      "latest_at": "2026-09-20T17:00:06.639679Z",
-      "primary_item": {
-        "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-        "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-        "url": "https://www.aibase.com/news/31200",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ef0a886eb4a4",
-      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-      "url": "https://www.aibase.com/news/31201",
-      "primary_url": "https://www.aibase.com/news/31201",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "url": "https://www.aibase.com/news/31201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T17:00:06.639679Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "url": "https://www.aibase.com/news/31201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T17:00:06.639679Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T17:00:06.639679Z",
-      "latest_at": "2026-09-20T17:00:06.639679Z",
-      "primary_item": {
-        "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-        "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-        "url": "https://www.aibase.com/news/31201",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cb03d7f13be9",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
-        },
-        {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
-        },
-        {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6025,
-      "importance": 0.6025,
-      "importance_score": 0.6025,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.9281,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T18:50:18Z",
-      "latest_at": "2026-09-20T18:50:18Z",
-      "primary_item": {
-        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_25287a6b56d6",
-      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-      "url": "https://www.aibase.com/news/31203",
-      "primary_url": "https://www.aibase.com/news/31203",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "url": "https://www.aibase.com/news/31203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T17:00:06.639679Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "url": "https://www.aibase.com/news/31203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T17:00:06.639679Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T17:00:06.639679Z",
-      "latest_at": "2026-09-20T17:00:06.639679Z",
-      "primary_item": {
-        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "url": "https://www.aibase.com/news/31203",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_11175d628d3c",
-      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-      "url": "https://www.aibase.com/news/31199",
-      "primary_url": "https://www.aibase.com/news/31199",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "url": "https://www.aibase.com/news/31199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T16:00:06.639679Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "url": "https://www.aibase.com/news/31199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T16:00:06.639679Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T16:00:06.639679Z",
-      "latest_at": "2026-09-20T16:00:06.639679Z",
-      "primary_item": {
-        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "url": "https://www.aibase.com/news/31199",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8bfe2a2350a2",
-      "title": "“海盗脸”拯救了大语言模型免遭删除",
-      "url": "https://pirateface.co",
-      "primary_url": "https://pirateface.co",
-      "source": "pirateface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
-        },
-        {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "pirateface.co"
-      ],
-      "items": [
-        {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
-        },
-        {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5536,
-      "importance": 0.5536,
-      "importance_score": 0.5536,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9045,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:16:07Z",
-      "latest_at": "2026-09-20T17:03:10.347000Z",
-      "primary_item": {
-        "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-        "title": "“海盗脸”拯救了大语言模型免遭删除",
-        "url": "https://pirateface.co",
-        "source": "pirateface.co",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_af1376b878c4",
-      "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
-      "url": "https://www.ithome.com/1/005/026.htm",
-      "primary_url": "https://www.ithome.com/1/005/026.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
-          "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
-          "url": "https://www.ithome.com/1/005/026.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "64d73c6407bbde68dadc6fe9d868bc37153d8e00",
-          "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
-          "url": "https://www.ithome.com/1/005/026.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T23:45:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
-          "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
-          "url": "https://www.ithome.com/1/005/026.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "64d73c6407bbde68dadc6fe9d868bc37153d8e00",
-          "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
-          "url": "https://www.ithome.com/1/005/026.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T23:45:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T23:45:34Z",
-      "latest_at": "2026-09-21T00:00:06.639679Z",
-      "primary_item": {
-        "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
-        "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
-        "url": "https://www.ithome.com/1/005/026.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6e9a00bdff8c",
-      "title": "人类学/金融服务 / anthropics / financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "primary_url": "https://github.com/anthropics/financial-services",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-          "title": "人类学/金融服务 / anthropics / financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
-          "title": "人类学/金融服务 / anthropics /      financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T23:32:23.187000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-          "title": "人类学/金融服务 / anthropics / financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
-          "title": "人类学/金融服务 / anthropics /      financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T23:32:23.187000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T23:32:23.187000Z",
-      "latest_at": "2026-09-21T00:00:06.639679Z",
-      "primary_item": {
-        "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-        "title": "人类学/金融服务 / anthropics / financial-services",
-        "url": "https://github.com/anthropics/financial-services",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5639c87861f6",
-      "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-      "url": "https://www.aibase.com/news/31198",
-      "primary_url": "https://www.aibase.com/news/31198",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e66d3223fe840139ba719b619af347339d276b71",
-          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "url": "https://www.aibase.com/news/31198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T16:00:06.639679Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e66d3223fe840139ba719b619af347339d276b71",
-          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "url": "https://www.aibase.com/news/31198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T16:00:06.639679Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T16:00:06.639679Z",
-      "latest_at": "2026-09-20T16:00:06.639679Z",
-      "primary_item": {
-        "id": "e66d3223fe840139ba719b619af347339d276b71",
-        "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-        "url": "https://www.aibase.com/news/31198",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_df407510d6b3",
-      "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-      "url": "https://github.com/marciob/openmsg",
-      "primary_url": "https://github.com/marciob/openmsg",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "url": "https://github.com/marciob/openmsg",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T20:25:27.018000Z"
-        },
-        {
-          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "url": "https://github.com/marciob/openmsg",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T20:10:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "url": "https://github.com/marciob/openmsg",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T20:25:27.018000Z"
-        },
-        {
-          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "url": "https://github.com/marciob/openmsg",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T20:10:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9496,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T20:10:39Z",
-      "latest_at": "2026-09-20T20:25:27.018000Z",
-      "primary_item": {
-        "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-        "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-        "url": "https://github.com/marciob/openmsg",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bb4fbf2e9746",
-      "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
-      "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
-          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T19:38:16.749000Z"
-        },
-        {
-          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
-          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:17:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
-          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T19:38:16.749000Z"
-        },
-        {
-          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
-          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:17:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9389,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T19:17:13Z",
-      "latest_at": "2026-09-20T19:38:16.749000Z",
-      "primary_item": {
-        "id": "ca6e4df44e87e07f1311885613987efb2205a158",
-        "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
-        "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_60f379c3b3ff",
-      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-      "url": "https://softwarecrisis.dev/letters/llmentalist",
-      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
-      "source": "softwarecrisis.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        },
-        {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "softwarecrisis.dev"
-      ],
-      "items": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        },
-        {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8841,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T12:20:13Z",
-      "latest_at": "2026-09-20T15:28:23.669000Z",
-      "primary_item": {
-        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-        "url": "https://softwarecrisis.dev/letters/llmentalist",
-        "source": "softwarecrisis.dev",
-        "source_name": "Buzzing"
       }
     }
   ]
