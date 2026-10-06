@@ -1,800 +1,892 @@
 {
-  "generated_at": "2026-10-05T00:00:06.216729Z",
+  "generated_at": "2026-10-06T00:00:04.864635Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
-      "story_id": "story_a754eea0186f",
-      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "primary_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
+      "story_id": "story_78ad53815846",
+      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "primary_url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7654202328494479b00a63601dedf32af4a164cb",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "7654202328494479b00a63601dedf32af4a164cb",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7071,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-04T00:00:06.561757Z",
-      "latest_at": "2026-10-04T00:00:06.561757Z",
-      "primary_item": {
-        "id": "7654202328494479b00a63601dedf32af4a164cb",
-        "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-        "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d009543e2257",
-      "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI",
-      "url": "https://www.reddit.com/r/technology/comments/1wxr6az/sam_altman_to_decoded_the_world_should_accept",
-      "primary_url": "https://www.reddit.com/r/technology/comments/1wxr6az/sam_altman_to_decoded_the_world_should_accept",
-      "source": "Reddit (热门)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e776b655b6a6eb06c2fc6db1228da5d76a5641ee",
-          "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI",
-          "url": "https://www.reddit.com/r/technology/comments/1wxr6az/sam_altman_to_decoded_the_world_should_accept",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T21:30:38Z"
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
         },
         {
-          "id": "d614fa85713d25d33c1a9320035eeed90cf51241",
-          "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生”",
-          "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:17:56.527000Z"
+          "id": "f107b84aabce7f79a4412855ed190f587ade8f25",
+          "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T15:00:00Z"
         },
         {
-          "id": "3f7cc9813ec8b0f5589eb6ca51e6ead0fbe249d8",
-          "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生” / Sam Altman said 'the world should accept some bad things happening' for the benefits of AI",
-          "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T21:01:01Z"
+          "id": "481f7872df54cf106c4cdf04ce110faeae35075a",
+          "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Business Insider",
-        "Reddit (热门)",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "e776b655b6a6eb06c2fc6db1228da5d76a5641ee",
-          "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI",
-          "url": "https://www.reddit.com/r/technology/comments/1wxr6az/sam_altman_to_decoded_the_world_should_accept",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T21:30:38Z"
-        },
-        {
-          "id": "d614fa85713d25d33c1a9320035eeed90cf51241",
-          "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生”",
-          "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:17:56.527000Z"
-        },
-        {
-          "id": "3f7cc9813ec8b0f5589eb6ca51e6ead0fbe249d8",
-          "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生” / Sam Altman said 'the world should accept some bad things happening' for the benefits of AI",
-          "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T21:01:01Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9647,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T21:01:01Z",
-      "latest_at": "2026-10-04T21:30:38Z",
-      "primary_item": {
-        "id": "e776b655b6a6eb06c2fc6db1228da5d76a5641ee",
-        "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI",
-        "url": "https://www.reddit.com/r/technology/comments/1wxr6az/sam_altman_to_decoded_the_world_should_accept",
-        "source": "Reddit (热门)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "primary_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T19:42:25Z"
-        },
-        {
-          "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
-          "title": "How to scale intent, quality, and artistry with AI [video]",
-          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:41:58Z"
-        },
-        {
-          "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
-          "title": "How to scale intent, quality, and artistry with AI [video]",
-          "url": "https://news.ycombinator.com/item?id=49951891",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T08:41:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T19:42:25Z"
-        },
-        {
-          "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
-          "title": "How to scale intent, quality, and artistry with AI [video]",
-          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:41:58Z"
-        },
-        {
-          "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
-          "title": "How to scale intent, quality, and artistry with AI [video]",
-          "url": "https://news.ycombinator.com/item?id=49951891",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T08:41:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.56,
-      "importance": 0.56,
-      "importance_score": 0.56,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9399,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T08:41:58Z",
-      "latest_at": "2026-10-04T19:42:25Z",
-      "primary_item": {
-        "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
-        "title": "Homa: The end of TCP for AI clusters [video]",
-        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_45fceba848ec",
-      "title": "AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
-      "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-      "primary_url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
-          "title": "AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
-          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e5e04c3ce70912147666339342f07dcd66078fe",
-          "title": "Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
-          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T18:05:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
-          "title": "AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
-          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e5e04c3ce70912147666339342f07dcd66078fe",
-          "title": "Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
-          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T18:05:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T18:05:00Z",
-      "latest_at": "2026-10-05T00:00:06.216729Z",
-      "primary_item": {
-        "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
-        "title": "AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
-        "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_aa7a9e0b8182",
-      "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
-      "url": "https://www.36kr.com/p/4011070893871238",
-      "primary_url": "https://www.36kr.com/p/4011070893871238",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fe99b1216bff11c0d287efcbf41f6ab6fb0f71fe",
-          "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
-          "url": "https://www.36kr.com/p/4011070893871238",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9ea00dcda71846e38debf603943c55f7e2a00c7c",
-          "title": "Claude 满分、GPT 99 分，何恺明团队把 AGI 考试打穿了",
-          "url": "https://www.36kr.com/p/4011070893871238",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "fe99b1216bff11c0d287efcbf41f6ab6fb0f71fe",
-          "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
-          "url": "https://www.36kr.com/p/4011070893871238",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
         },
         {
-          "id": "9ea00dcda71846e38debf603943c55f7e2a00c7c",
-          "title": "Claude 满分、GPT 99 分，何恺明团队把 AGI 考试打穿了",
-          "url": "https://www.36kr.com/p/4011070893871238",
+          "id": "f107b84aabce7f79a4412855ed190f587ade8f25",
+          "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T15:00:00Z"
+        },
+        {
+          "id": "481f7872df54cf106c4cdf04ce110faeae35075a",
+          "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法",
+          "url": "https://openai.com/index/eu-text-provenance",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         }
       ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8801,
+      "importance": 0.8801,
+      "importance_score": 0.8801,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8781,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:00:00Z",
+      "latest_at": "2026-10-06T00:00:04.864635Z",
+      "primary_item": {
+        "id": "41383479c4a10511f043979bc4fd02e409189d41",
+        "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+        "url": "https://openai.com/index/eu-text-provenance",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_33658ec816ee",
+      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9814,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3cbec84de8bf",
+      "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "primary_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
+          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T10:00:00Z"
+        },
+        {
+          "id": "482a94c9a2f5ac0861875dee9f7762bffeb78af5",
+          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T10:00:00Z"
+        },
+        {
+          "id": "d151d9421c1a5d0ee339a004743b10c8eb02dcc3",
+          "title": "OpenAI 在 ChatGPT 中推出全新视觉广告形式",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
+          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T10:00:00Z"
+        },
+        {
+          "id": "482a94c9a2f5ac0861875dee9f7762bffeb78af5",
+          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T10:00:00Z"
+        },
+        {
+          "id": "d151d9421c1a5d0ee339a004743b10c8eb02dcc3",
+          "title": "OpenAI 在 ChatGPT 中推出全新视觉广告形式",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.869,
+      "importance": 0.869,
+      "importance_score": 0.869,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8169,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T10:00:00Z",
+      "latest_at": "2026-10-06T00:00:04.864635Z",
+      "primary_item": {
+        "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
+        "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e4f96ea3e7c3",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.8908,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:59:40Z",
+      "latest_at": "2026-10-05T15:59:40Z",
+      "primary_item": {
+        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+        "title": "ReviewBench: An open benchmark for AI code review",
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_deeb3d35a36b",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "98b5a992aaf298b696b83b906b1799dd53890571",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖",
+        "diff.wikimedia.org"
+      ],
+      "items": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "98b5a992aaf298b696b83b906b1799dd53890571",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9156,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T17:53:35Z",
+      "latest_at": "2026-10-05T19:20:27.931000Z",
+      "primary_item": {
+        "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ebdbe868a594",
+      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "primary_url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "source": "SemiAnalysis 长文 RSS（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "SemiAnalysis 长文 RSS（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9441,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T20:01:09Z",
+      "latest_at": "2026-10-05T20:01:09Z",
+      "primary_item": {
+        "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "source": "SemiAnalysis 长文 RSS（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb1f3dca95af",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+          "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T23:09:55Z"
+        },
+        {
+          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
+          "title": "Gemini Call for Me might tell your mom you’re running late",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T23:09:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+          "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T23:09:55Z"
+        },
+        {
+          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
+          "title": "Gemini Call for Me might tell your mom you’re running late",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T23:09:55Z"
+        }
+      ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.6258,
+      "importance": 0.6258,
+      "importance_score": 0.6258,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.988,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T14:11:16.499261Z",
-      "latest_at": "2026-10-05T00:00:06.216729Z",
+      "earliest_at": "2026-10-05T23:09:55Z",
+      "latest_at": "2026-10-05T23:09:55Z",
       "primary_item": {
-        "id": "fe99b1216bff11c0d287efcbf41f6ab6fb0f71fe",
-        "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
-        "url": "https://www.36kr.com/p/4011070893871238",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
+        "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_c83b565fc251",
-      "title": "宗教学者与Anthropic公司进行了会面",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "www.nytimes.com",
+      "story_id": "story_ec9915c4fbdd",
+      "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "www.vals.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-          "title": "宗教学者与Anthropic公司进行了会面",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "www.nytimes.com",
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T12:57:08.561000Z"
+          "published_at": "2026-10-05T22:12:05.081000Z"
         },
         {
-          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-05T21:00:21Z"
         },
         {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "Religious scholars met with Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49950052",
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://news.ycombinator.com/item?id=49970667",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-05T21:00:21Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "www.nytimes.com"
+        "www.vals.ai"
       ],
       "items": [
         {
-          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-          "title": "宗教学者与Anthropic公司进行了会面",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "www.nytimes.com",
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T12:57:08.561000Z"
+          "published_at": "2026-10-05T22:12:05.081000Z"
         },
         {
-          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-05T21:00:21Z"
         },
         {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "Religious scholars met with Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49950052",
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://news.ycombinator.com/item?id=49970667",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-05T21:00:21Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5662,
+      "importance": 0.5662,
+      "importance_score": 0.5662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8525,
+        "recency": 0.9743,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T02:34:22Z",
-      "latest_at": "2026-10-04T12:57:08.561000Z",
+      "earliest_at": "2026-10-05T21:00:21Z",
+      "latest_at": "2026-10-05T22:12:05.081000Z",
       "primary_item": {
-        "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-        "title": "宗教学者与Anthropic公司进行了会面",
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "source": "www.nytimes.com",
+        "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+        "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "source": "www.vals.ai",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_f54841473b3f",
-      "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
+      "story_id": "story_489333482e18",
+      "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "www.techspot.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T22:35:54.184000Z"
+          "published_at": "2026-10-05T17:00:08.955000Z"
         },
         {
-          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:01:58.777000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.politico.com"
-      ],
-      "items": [
-        {
-          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T22:35:54.184000Z"
-        },
-        {
-          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:01:58.777000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9799,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T21:01:58.777000Z",
-      "latest_at": "2026-10-04T22:35:54.184000Z",
-      "primary_item": {
-        "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
-        "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_567a67be4150",
-      "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-      "url": "https://github.com/allenv0/SCM",
-      "primary_url": "https://github.com/allenv0/SCM",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
-          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-          "url": "https://github.com/allenv0/SCM",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:09.708000Z"
-        },
-        {
-          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
-          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
-          "url": "https://github.com/allenv0/SCM",
+          "id": "42b25c0002600975f8a54903bf15763a1050b43f",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T09:24:52Z"
+          "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
-          "title": "Show HN: AI search for every photo and every frame of video on macOS",
-          "url": "https://news.ycombinator.com/item?id=49952111",
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://news.ycombinator.com/item?id=49961057",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T09:24:52Z"
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
+        "hackernews",
+        "www.techspot.com"
       ],
       "items": [
         {
-          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
-          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-          "url": "https://github.com/allenv0/SCM",
-          "source": "github.com",
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:09.708000Z"
+          "published_at": "2026-10-05T17:00:08.955000Z"
         },
         {
-          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
-          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
-          "url": "https://github.com/allenv0/SCM",
+          "id": "42b25c0002600975f8a54903bf15763a1050b43f",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T09:24:52Z"
+          "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
-          "title": "Show HN: AI search for every photo and every frame of video on macOS",
-          "url": "https://news.ycombinator.com/item?id=49952111",
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://news.ycombinator.com/item?id=49961057",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T09:24:52Z"
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5535,
+      "importance": 0.5535,
+      "importance_score": 0.5535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8142,
+        "recency": 0.9039,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T09:24:52Z",
-      "latest_at": "2026-10-04T09:46:09.708000Z",
+      "earliest_at": "2026-10-05T05:37:40Z",
+      "latest_at": "2026-10-05T17:00:08.955000Z",
       "primary_item": {
-        "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
-        "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-        "url": "https://github.com/allenv0/SCM",
-        "source": "github.com",
+        "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+        "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "source": "www.techspot.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_52aeab6b172e",
-      "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
-      "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-      "primary_url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-      "source": "www.businessinsider.com",
+      "story_id": "story_964c991e5a59",
+      "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
-          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
-          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "c8208047e8bc88404f3572c3c14217c3daff65b6",
+          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:50.780000Z"
+          "published_at": "2026-10-05T16:28:00.581000Z"
         },
         {
-          "id": "25e8e4347727b0f601d64d52276dfe6515963279",
-          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎 / Meet David Robinson, the OpenAI safety leader who quit and warned that the company isn’t careful enough",
-          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-          "source": "Business Insider",
+          "id": "b34d07a64d5b4918b1823d255ffb424bb54171de",
+          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具 / Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T16:13:21Z"
+        },
+        {
+          "id": "c4305713a3635c5bc2347c28d4cfe1c45ae752d1",
+          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具 / Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-04T19:36:56Z"
+          "published_at": "2026-10-05T16:13:21Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
-          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
-          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "c8208047e8bc88404f3572c3c14217c3daff65b6",
+          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:50.780000Z"
+          "published_at": "2026-10-05T16:28:00.581000Z"
         },
         {
-          "id": "25e8e4347727b0f601d64d52276dfe6515963279",
-          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎 / Meet David Robinson, the OpenAI safety leader who quit and warned that the company isn’t careful enough",
-          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-          "source": "Business Insider",
+          "id": "b34d07a64d5b4918b1823d255ffb424bb54171de",
+          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具 / Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T16:13:21Z"
+        },
+        {
+          "id": "c4305713a3635c5bc2347c28d4cfe1c45ae752d1",
+          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具 / Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-04T19:36:56Z"
+          "published_at": "2026-10-05T16:13:21Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9436,
-        "story_heat": 0.25
+        "recency": 0.8969,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T19:36:56Z",
-      "latest_at": "2026-10-04T19:58:50.780000Z",
+      "earliest_at": "2026-10-05T16:13:21Z",
+      "latest_at": "2026-10-05T16:28:00.581000Z",
       "primary_item": {
-        "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
-        "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
-        "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-        "source": "www.businessinsider.com",
+        "id": "c8208047e8bc88404f3572c3c14217c3daff65b6",
+        "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_6f71ae399df5",
-      "title": "Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型",
-      "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
-      "primary_url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
+      "story_id": "story_4e3bce9f79bc",
+      "title": "Dell, Apollo and Jera launch $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+      "url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
+      "primary_url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "6aa6e4fe0045bc20c89e42483fa674a38d22f47f",
-          "title": "Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型",
-          "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
+          "id": "765a43cf0dfce7d52177972ff6731d5ea2864022",
+          "title": "Dell, Apollo and Jera launch $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+          "url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c20e48648ffcc602c3df3e889738a8744806c08c",
-          "title": "Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型 / 'The agent itself has become its own entity to secure': Bitdefender's new free Mac tool goes after flaws that let attackers fool AI models",
-          "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
+          "id": "2becd4ebefddd92496d0975a075806cdba2cb8fd",
+          "title": "‘The keyword is speed to power’: Dell, Apollo, and Jera launch a $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+          "url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
           "source": "TechRadar",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-04T15:05:00Z"
+          "published_at": "2026-10-05T22:05:00Z"
         }
       ],
       "source_count": 2,
@@ -804,22 +896,22 @@
       ],
       "items": [
         {
-          "id": "6aa6e4fe0045bc20c89e42483fa674a38d22f47f",
-          "title": "Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型",
-          "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
+          "id": "765a43cf0dfce7d52177972ff6731d5ea2864022",
+          "title": "Dell, Apollo and Jera launch $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+          "url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c20e48648ffcc602c3df3e889738a8744806c08c",
-          "title": "Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型 / 'The agent itself has become its own entity to secure': Bitdefender's new free Mac tool goes after flaws that let attackers fool AI models",
-          "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
+          "id": "2becd4ebefddd92496d0975a075806cdba2cb8fd",
+          "title": "‘The keyword is speed to power’: Dell, Apollo, and Jera launch a $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+          "url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
           "source": "TechRadar",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-04T15:05:00Z"
+          "published_at": "2026-10-05T22:05:00Z"
         }
       ],
       "item_count": 2,
@@ -839,119 +931,436 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T15:05:00Z",
-      "latest_at": "2026-10-05T00:00:06.216729Z",
+      "earliest_at": "2026-10-05T22:05:00Z",
+      "latest_at": "2026-10-06T00:00:04.864635Z",
       "primary_item": {
-        "id": "6aa6e4fe0045bc20c89e42483fa674a38d22f47f",
-        "title": "Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型",
-        "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
+        "id": "765a43cf0dfce7d52177972ff6731d5ea2864022",
+        "title": "Dell, Apollo and Jera launch $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+        "url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_1eb686e134b7",
-      "title": "[奇思妙想] 我觉得的 AI 未来的应用",
-      "url": "https://www.v2ex.com/t/1246400",
-      "primary_url": "https://www.v2ex.com/t/1246400",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
+      "story_id": "story_bc25a570a711",
+      "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+      "primary_url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
-          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
-          "url": "https://www.v2ex.com/t/1246400",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T10:30:30Z"
+          "id": "af96ec8c68b3432e6e2d1190ef84809e0f077d8d",
+          "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T23:00:27.618000Z"
         },
         {
-          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
-          "title": "[随想] 我觉得的 AI 未来的应用",
-          "url": "https://www.v2ex.com/t/1246400",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T10:30:30Z"
+          "id": "40859bf1aacaa2b4000de6c609d0368b8930c0bd",
+          "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议 / MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T22:26:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "V2EX (创意工作者社区)"
+        "Ars Technica",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
-          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
-          "url": "https://www.v2ex.com/t/1246400",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T10:30:30Z"
+          "id": "af96ec8c68b3432e6e2d1190ef84809e0f077d8d",
+          "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T23:00:27.618000Z"
         },
         {
-          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
-          "title": "[随想] 我觉得的 AI 未来的应用",
-          "url": "https://www.v2ex.com/t/1246400",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T10:30:30Z"
+          "id": "40859bf1aacaa2b4000de6c609d0368b8930c0bd",
+          "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议 / MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T22:26:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.823,
+        "recency": 0.9858,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T10:30:30Z",
-      "latest_at": "2026-10-04T10:30:30Z",
+      "earliest_at": "2026-10-05T22:26:35Z",
+      "latest_at": "2026-10-05T23:00:27.618000Z",
       "primary_item": {
-        "id": "67fef08c870edee48ff06480676ae1c8d029d612",
-        "title": "[奇思妙想] 我觉得的 AI 未来的应用",
-        "url": "https://www.v2ex.com/t/1246400",
-        "source": "V2EX (创意工作者社区)",
+        "id": "af96ec8c68b3432e6e2d1190ef84809e0f077d8d",
+        "title": "用于节点间通信的MCP协议，可能是你从未听说过的风险最高的协议",
+        "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cf509067bcf9",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+      "primary_url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T22:46:45Z"
+        },
+        {
+          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://news.ycombinator.com/item?id=49971846",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T22:46:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T22:46:45Z"
+        },
+        {
+          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://news.ycombinator.com/item?id=49971846",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T22:46:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9825,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T22:46:45Z",
+      "latest_at": "2026-10-05T22:46:45Z",
+      "primary_item": {
+        "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+        "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_66ec11703fff",
-      "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
-      "url": "https://news.ycombinator.com/item?id=49951356",
-      "primary_url": "https://news.ycombinator.com/item?id=49951356",
+      "story_id": "story_7ded5c03aba5",
+      "title": "Beam：Reflection 501B 无重量限制款",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "primary_url": "https://reflection.ai/blog/introducing-beam",
+      "source": "reflection.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T20:22:29.758000Z"
+        },
+        {
+          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T19:16:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "reflection.ai"
+      ],
+      "items": [
+        {
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T20:22:29.758000Z"
+        },
+        {
+          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T19:16:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.949,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T19:16:35Z",
+      "latest_at": "2026-10-05T20:22:29.758000Z",
+      "primary_item": {
+        "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+        "title": "Beam：Reflection 501B 无重量限制款",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "reflection.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d4a655292722",
+      "title": "亚马逊聘请了微软前Copilot首席技术官",
+      "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+      "primary_url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
+          "title": "亚马逊聘请了微软前Copilot首席技术官",
+          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T18:03:29.958000Z"
+        },
+        {
+          "id": "9fd9fffac6b0fff00e7ef9c446e55768f06c360c",
+          "title": "亚马逊聘请了微软前Copilot首席技术官 / Amazon hires Microsoft's former Copilot CTO",
+          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T17:45:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
+          "title": "亚马逊聘请了微软前Copilot首席技术官",
+          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T18:03:29.958000Z"
+        },
+        {
+          "id": "9fd9fffac6b0fff00e7ef9c446e55768f06c360c",
+          "title": "亚马逊聘请了微软前Copilot首席技术官 / Amazon hires Microsoft's former Copilot CTO",
+          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T17:45:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9178,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T17:45:01Z",
+      "latest_at": "2026-10-05T18:03:29.958000Z",
+      "primary_item": {
+        "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
+        "title": "亚马逊聘请了微软前Copilot首席技术官",
+        "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f54841473b3f",
+      "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+      "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+      "primary_url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+          "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T16:00:00Z"
+        },
+        {
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:03:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Slashdot"
+      ],
+      "items": [
+        {
+          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+          "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T16:00:00Z"
+        },
+        {
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:03:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8909,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T15:03:32Z",
+      "latest_at": "2026-10-05T16:00:00Z",
+      "primary_item": {
+        "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+        "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+        "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_4b6e249ae051",
+      "title": "Tell HN: Claude Code 拒绝登录任何未在 localhost 上运行的网站",
+      "url": "https://news.ycombinator.com/item?id=49964064",
+      "primary_url": "https://news.ycombinator.com/item?id=49964064",
       "source": "news.ycombinator.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
-          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
-          "url": "https://news.ycombinator.com/item?id=49951356",
+          "id": "146b07cb08c83f454e32dbbc317f8c5146c9a340",
+          "title": "Tell HN: Claude Code 拒绝登录任何未在 localhost 上运行的网站",
+          "url": "https://news.ycombinator.com/item?id=49964064",
           "source": "news.ycombinator.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.387000Z"
+          "published_at": "2026-10-05T13:01:08.862000Z"
         },
         {
-          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
-          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
-          "url": "https://news.ycombinator.com/item?id=49951356",
+          "id": "79f619e6aa3f2e1baae5678258cb994bdc621e76",
+          "title": "Tell HN: Claude Code 拒绝登录任何未在 localhost 上运行的网站 / Tell HN: Claude Code refuses to login to any website not running on localhost",
+          "url": "https://news.ycombinator.com/item?id=49964064",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-10-04T06:56:40Z"
+          "published_at": "2026-10-05T12:38:01Z"
         }
       ],
       "source_count": 2,
@@ -961,680 +1370,207 @@
       ],
       "items": [
         {
-          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
-          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
-          "url": "https://news.ycombinator.com/item?id=49951356",
+          "id": "146b07cb08c83f454e32dbbc317f8c5146c9a340",
+          "title": "Tell HN: Claude Code 拒绝登录任何未在 localhost 上运行的网站",
+          "url": "https://news.ycombinator.com/item?id=49964064",
           "source": "news.ycombinator.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.387000Z"
+          "published_at": "2026-10-05T13:01:08.862000Z"
         },
         {
-          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
-          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
-          "url": "https://news.ycombinator.com/item?id=49951356",
+          "id": "79f619e6aa3f2e1baae5678258cb994bdc621e76",
+          "title": "Tell HN: Claude Code 拒绝登录任何未在 localhost 上运行的网站 / Tell HN: Claude Code refuses to login to any website not running on localhost",
+          "url": "https://news.ycombinator.com/item?id=49964064",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-10-04T06:56:40Z"
+          "published_at": "2026-10-05T12:38:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8142,
+        "recency": 0.8533,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T06:56:40Z",
-      "latest_at": "2026-10-04T09:46:05.387000Z",
+      "earliest_at": "2026-10-05T12:38:01Z",
+      "latest_at": "2026-10-05T13:01:08.862000Z",
       "primary_item": {
-        "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
-        "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
-        "url": "https://news.ycombinator.com/item?id=49951356",
+        "id": "146b07cb08c83f454e32dbbc317f8c5146c9a340",
+        "title": "Tell HN: Claude Code 拒绝登录任何未在 localhost 上运行的网站",
+        "url": "https://news.ycombinator.com/item?id=49964064",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_eed7ab4cd749",
-      "title": "'This can't go on': thousands protest against housing crisis in Spain",
-      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-      "primary_url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_2ac688ca159f",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "primary_url": "https://qlabs.sh/research/dust",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-          "title": "'This can't go on': thousands protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://qlabs.sh/research/dust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:15:07Z"
         },
         {
-          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
-          "title": "Protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://news.ycombinator.com/item?id=49970871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:15:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-          "title": "'This can't go on': thousands protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://qlabs.sh/research/dust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:15:07Z"
         },
         {
-          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
-          "title": "Protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://news.ycombinator.com/item?id=49970871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:15:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8045,
+        "recency": 0.9611,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T08:56:08Z",
-      "latest_at": "2026-10-04T08:56:08Z",
+      "earliest_at": "2026-10-05T21:15:07Z",
+      "latest_at": "2026-10-05T21:15:07Z",
       "primary_item": {
-        "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-        "title": "'This can't go on': thousands protest against housing crisis in Spain",
-        "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+        "title": "Dust: Pretraining Transformers Without Backpropagation",
+        "url": "https://qlabs.sh/research/dust",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_9e41744d0e37",
-      "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
-      "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-      "primary_url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-      "source": "www.businessinsider.com",
+      "story_id": "story_252dbc47848d",
+      "title": "AI眼镜面临首次重大政府整顿",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+      "primary_url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+      "source": "arstechnica.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "da6f1529917d43e3fe8371c082528a865ee39522",
-          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
-          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "2e3edba54f6b622e43aa4d49499a131a54e37016",
+          "title": "AI眼镜面临首次重大政府整顿",
+          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T18:24:00.451000Z"
+          "published_at": "2026-10-05T15:56:14.551000Z"
         },
         {
-          "id": "2d35945f6b3b2d3bf8e7321c21c04d518885a96a",
-          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路 / Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
-          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-          "source": "Business Insider",
+          "id": "335c4e8c2ec27ce7f77c1a8fb0969cc65e573c12",
+          "title": "AI眼镜面临首次重大政府整顿 / AI glasses face their first major government crackdown",
+          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+          "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-04T18:03:27Z"
+          "published_at": "2026-10-05T13:39:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Ars Technica",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "da6f1529917d43e3fe8371c082528a865ee39522",
-          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
-          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "2e3edba54f6b622e43aa4d49499a131a54e37016",
+          "title": "AI眼镜面临首次重大政府整顿",
+          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T18:24:00.451000Z"
+          "published_at": "2026-10-05T15:56:14.551000Z"
         },
         {
-          "id": "2d35945f6b3b2d3bf8e7321c21c04d518885a96a",
-          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路 / Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
-          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-          "source": "Business Insider",
+          "id": "335c4e8c2ec27ce7f77c1a8fb0969cc65e573c12",
+          "title": "AI眼镜面临首次重大政府整顿 / AI glasses face their first major government crackdown",
+          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+          "source": "Ars Technica",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-04T18:03:27Z"
+          "published_at": "2026-10-05T13:39:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9223,
+        "recency": 0.8901,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T18:03:27Z",
-      "latest_at": "2026-10-04T18:24:00.451000Z",
+      "earliest_at": "2026-10-05T13:39:30Z",
+      "latest_at": "2026-10-05T15:56:14.551000Z",
       "primary_item": {
-        "id": "da6f1529917d43e3fe8371c082528a865ee39522",
-        "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
-        "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-        "source": "www.businessinsider.com",
+        "id": "2e3edba54f6b622e43aa4d49499a131a54e37016",
+        "title": "AI眼镜面临首次重大政府整顿",
+        "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+        "source": "arstechnica.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_864d878d48f9",
-      "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
-      "url": "https://www.huxiu.com/article/4895378.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4895378.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
-          "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
-          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "932cf70c4e5fbfb8f9c5cef6f0d8b92a690be1c1",
-          "title": "AI军事化的两条路线：美国在拆刹车，中国在踩刹车",
-          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T13:41:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
-          "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
-          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "932cf70c4e5fbfb8f9c5cef6f0d8b92a690be1c1",
-          "title": "AI军事化的两条路线：美国在拆刹车，中国在踩刹车",
-          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T13:41:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8679,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T13:41:04Z",
-      "latest_at": "2026-10-04T14:11:16.499261Z",
-      "primary_item": {
-        "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
-        "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
-        "url": "https://www.huxiu.com/article/4895378.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c14a8b1c7607",
-      "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
-      "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
-      "primary_url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
-          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
-          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:59:50.417000Z"
-        },
-        {
-          "id": "91be81f74eea4ee700a49d665f33660303ad1f8d",
-          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。 / I used AI to track my job rejections. It changed my search, and I got hired.",
-          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T09:49:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
-          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
-          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:59:50.417000Z"
-        },
-        {
-          "id": "91be81f74eea4ee700a49d665f33660303ad1f8d",
-          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。 / I used AI to track my job rejections. It changed my search, and I got hired.",
-          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T09:49:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8169,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T09:49:01Z",
-      "latest_at": "2026-10-04T09:59:50.417000Z",
-      "primary_item": {
-        "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
-        "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
-        "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d21f7ff36018",
-      "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
-      "url": "https://www.ithome.com/1/009/701.htm",
-      "primary_url": "https://www.ithome.com/1/009/701.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
-          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
-          "url": "https://www.ithome.com/1/009/701.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
-          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-          "url": "https://www.ithome.com/1/009/701.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T12:27:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
-          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
-          "url": "https://www.ithome.com/1/009/701.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
-          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-          "url": "https://www.ithome.com/1/009/701.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T12:27:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8679,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T12:27:24Z",
-      "latest_at": "2026-10-04T14:11:16.499261Z",
-      "primary_item": {
-        "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
-        "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
-        "url": "https://www.ithome.com/1/009/701.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_bc13922e0b6b",
-      "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
-      "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
-      "primary_url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
-          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
-          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:19.059000Z"
-        },
-        {
-          "id": "e52d258d0df5bfc89d0747baab179f169272d3d8",
-          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。 / AI was supposed to kill tech jobs. The data on job openings says otherwise.",
-          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T09:15:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
-          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
-          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:19.059000Z"
-        },
-        {
-          "id": "e52d258d0df5bfc89d0747baab179f169272d3d8",
-          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。 / AI was supposed to kill tech jobs. The data on job openings says otherwise.",
-          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T09:15:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8143,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T09:15:01Z",
-      "latest_at": "2026-10-04T09:46:19.059000Z",
-      "primary_item": {
-        "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
-        "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
-        "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_998f37525252",
-      "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-      "url": "https://www.ithome.com/1/009/669.htm",
-      "primary_url": "https://www.ithome.com/1/009/669.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "40f2b37088e0965325e758b79019e74d3413eee5",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交利用 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:35:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "40f2b37088e0965325e758b79019e74d3413eee5",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交利用 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:35:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8679,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T08:35:59Z",
-      "latest_at": "2026-10-04T14:11:16.499261Z",
-      "primary_item": {
-        "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-        "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-        "url": "https://www.ithome.com/1/009/669.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_97e1126c1447",
-      "title": "乐山大佛景区回应网传「掏耳朵」养护作业视频：系 AI 合成，佛耳内并无所谓「杂物」",
-      "url": "https://www.ithome.com/1/009/728.htm",
-      "primary_url": "https://www.ithome.com/1/009/728.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ca1a6107f2170a85729ca0e1ce17d3ee258039ab",
-          "title": "乐山大佛景区回应网传「掏耳朵」养护作业视频：系 AI 合成，佛耳内并无所谓「杂物」",
-          "url": "https://www.ithome.com/1/009/728.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0cdb48a355e070d3b637b4e70a0c0ebf1cdc900",
-          "title": "乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”",
-          "url": "https://www.ithome.com/1/009/728.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T13:20:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ca1a6107f2170a85729ca0e1ce17d3ee258039ab",
-          "title": "乐山大佛景区回应网传「掏耳朵」养护作业视频：系 AI 合成，佛耳内并无所谓「杂物」",
-          "url": "https://www.ithome.com/1/009/728.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0cdb48a355e070d3b637b4e70a0c0ebf1cdc900",
-          "title": "乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”",
-          "url": "https://www.ithome.com/1/009/728.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T13:20:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8679,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T13:20:18Z",
-      "latest_at": "2026-10-04T14:11:16.499261Z",
-      "primary_item": {
-        "id": "ca1a6107f2170a85729ca0e1ce17d3ee258039ab",
-        "title": "乐山大佛景区回应网传「掏耳朵」养护作业视频：系 AI 合成，佛耳内并无所谓「杂物」",
-        "url": "https://www.ithome.com/1/009/728.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
