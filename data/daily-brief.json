@@ -1,86 +1,24 @@
 {
-  "generated_at": "2026-10-09T00:00:05.623132Z",
+  "generated_at": "2026-10-10T00:00:04.113366Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_112b5f00879d",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "primary_url": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T16:00:00Z",
-      "latest_at": "2026-10-08T16:00:00Z",
-      "primary_item": {
-        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "url": "https://openai.com/index/oracle",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d821a136c16a",
-      "title": "Triage role users or higher can now archive pull requests",
-      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+      "story_id": "story_8e5ec2908b04",
+      "title": "GitHub Copilot weekly releases — October 5",
+      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "primary_url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
-          "title": "Triage role users or higher can now archive pull requests",
-          "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+          "id": "5bf966d84786caa61f847582525b4316675e87ca",
+          "title": "GitHub Copilot weekly releases — October 5",
+          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T19:01:42Z"
+          "published_at": "2026-10-09T22:58:23Z"
         }
       ],
       "source_count": 1,
@@ -89,535 +27,26 @@
       ],
       "items": [
         {
-          "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
-          "title": "Triage role users or higher can now archive pull requests",
-          "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+          "id": "5bf966d84786caa61f847582525b4316675e87ca",
+          "title": "GitHub Copilot weekly releases — October 5",
+          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T19:01:42Z"
+          "published_at": "2026-10-09T22:58:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9307,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T19:01:42Z",
-      "latest_at": "2026-10-08T19:01:42Z",
-      "primary_item": {
-        "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
-        "title": "Triage role users or higher can now archive pull requests",
-        "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_13d9d250f0af",
-      "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-      "url": "https://www.ithome.com/1/010/751.htm",
-      "primary_url": "https://www.ithome.com/1/010/751.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-          "url": "https://www.ithome.com/1/010/751.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T23:02:44.683000Z"
-        },
-        {
-          "id": "9f41a01749cc780e218cb982d5fc0428cdcc09d4",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
-          "url": "https://www.ithome.com/1/010/751.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-08T23:02:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-          "url": "https://www.ithome.com/1/010/751.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T23:02:44.683000Z"
-        },
-        {
-          "id": "9f41a01749cc780e218cb982d5fc0428cdcc09d4",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
-          "url": "https://www.ithome.com/1/010/751.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-08T23:02:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9863,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T23:02:44Z",
-      "latest_at": "2026-10-08T23:02:44.683000Z",
-      "primary_item": {
-        "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-        "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-        "url": "https://www.ithome.com/1/010/751.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9a3494f049dc",
-      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
-      "primary_url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
-          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-          "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T18:17:07Z"
-        },
-        {
-          "id": "18c902f1e2f087c788ae4a208f64e2cfc0723391",
-          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-          "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-08T18:17:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
-          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-          "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T18:17:07Z"
-        },
-        {
-          "id": "18c902f1e2f087c788ae4a208f64e2cfc0723391",
-          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-          "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-08T18:17:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9208,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T18:17:07Z",
-      "latest_at": "2026-10-08T18:17:07Z",
-      "primary_item": {
-        "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
-        "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_44905e5e9aed",
-      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-      "url": "https://aihot.news/agent?tab=api",
-      "primary_url": "https://aihot.news/agent?tab=api",
-      "source": "AIHOT",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-          "url": "https://aihot.news/agent?tab=api",
-          "source": "AIHOT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIHOT"
-      ],
-      "items": [
-        {
-          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-          "url": "https://aihot.news/agent?tab=api",
-          "source": "AIHOT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 1.0,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7278,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T02:00:00Z",
-      "latest_at": "2026-10-08T02:00:00Z",
-      "primary_item": {
-        "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-        "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-        "url": "https://aihot.news/agent?tab=api",
-        "source": "AIHOT",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f6d3626eb7c8",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8409,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
-      "primary_item": {
-        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-        "title": "LegalOn halves Codex costs while maintaining development speed",
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_71ebc92c009c",
-      "title": "Screen readers can navigate timelines as lists",
-      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "primary_url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-          "title": "Screen readers can navigate timelines as lists",
-          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-          "title": "Screen readers can navigate timelines as lists",
-          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8911,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T16:00:56Z",
-      "latest_at": "2026-10-08T16:00:56Z",
-      "primary_item": {
-        "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-        "title": "Screen readers can navigate timelines as lists",
-        "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1b35443cec6d",
-      "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "primary_url": "https://github.com/pingdotgg/ts-rust",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
-          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
-          "url": "https://github.com/pingdotgg/ts-rust",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T00:46:00Z"
-        },
-        {
-          "id": "92e39962b69fce526a3efa8aef5691293351510e",
-          "title": "LLM 实现的 TypeScript 编译器、检查器和 lsp 的 Rust 移植版",
-          "url": "https://github.com/pingdotgg/ts-rust",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-08T17:20:58.677000Z"
-        },
-        {
-          "id": "cc2ebd302e7fe6233249b86359837aaa740038ad",
-          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-          "url": "https://github.com/pingdotgg/ts-rust",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-08T00:46:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
-          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
-          "url": "https://github.com/pingdotgg/ts-rust",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T00:46:00Z"
-        },
-        {
-          "id": "92e39962b69fce526a3efa8aef5691293351510e",
-          "title": "LLM 实现的 TypeScript 编译器、检查器和 lsp 的 Rust 移植版",
-          "url": "https://github.com/pingdotgg/ts-rust",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-08T17:20:58.677000Z"
-        },
-        {
-          "id": "cc2ebd302e7fe6233249b86359837aaa740038ad",
-          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-          "url": "https://github.com/pingdotgg/ts-rust",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-08T00:46:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.715,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T00:46:00Z",
-      "latest_at": "2026-10-08T17:20:58.677000Z",
-      "primary_item": {
-        "id": "ee9f97b75a4c7f8f29d61a2e00f792dd566eba39",
-        "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
-        "url": "https://github.com/pingdotgg/ts-rust",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ca1ec6c6a1a1",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "primary_url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8409,
+        "recency": 0.9853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -626,47 +55,109 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
+      "earliest_at": "2026-10-09T22:58:23Z",
+      "latest_at": "2026-10-09T22:58:23Z",
       "primary_item": {
-        "id": "e441138912907d022d550626c930aa4e578bbe9e",
-        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "url": "https://openai.com/index/pollo-ai",
-        "source": "OpenAI News",
+        "id": "5bf966d84786caa61f847582525b4316675e87ca",
+        "title": "GitHub Copilot weekly releases — October 5",
+        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_351ffe6737f3",
-      "title": "Draft pull requests count toward pull request limits",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "source": "GitHub Changelog",
+      "story_id": "story_43ef54e74d27",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "primary_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "Draft pull requests count toward pull request limits",
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-          "source": "GitHub Changelog",
+          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
+          "published_at": "2026-10-09T15:20:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "Draft pull requests count toward pull request limits",
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-          "source": "GitHub Changelog",
+          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
+          "published_at": "2026-10-09T15:20:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8825,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T15:20:29Z",
+      "latest_at": "2026-10-09T15:20:29Z",
+      "primary_item": {
+        "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+        "title": "Impactful scheduling for GPU clusters",
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_90995f7dbc9c",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "primary_url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "url": "https://openai.com/index/asana-browser-agent",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "url": "https://openai.com/index/asana-browser-agent",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
         }
       ],
       "item_count": 1,
@@ -678,8 +169,8 @@
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8709,
+        "ai_relevance": 0.95,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "official",
@@ -688,41 +179,103 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T14:25:53Z",
-      "latest_at": "2026-10-08T14:25:53Z",
+      "earliest_at": "2026-10-09T07:00:00Z",
+      "latest_at": "2026-10-09T07:00:00Z",
       "primary_item": {
-        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-        "title": "Draft pull requests count toward pull request limits",
-        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+        "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4ee9692cf026",
+      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "primary_url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+          "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T21:32:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+          "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T21:32:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9652,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T21:32:54Z",
+      "latest_at": "2026-10-09T21:32:54Z",
+      "primary_item": {
+        "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+        "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_50a66e8e1b35",
-      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "story_id": "story_78897a6b0a8c",
+      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+      "primary_url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T13:01:01Z"
+          "published_at": "2026-10-09T17:20:34Z"
         },
         {
-          "id": "6b25054c9d4aec6ddef45d7c6f81e4d7902c67d4",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "id": "38114305a7f00064a822d4e212938c07a9531189",
+          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-08T13:01:01Z"
+          "published_at": "2026-10-09T17:20:34Z"
         }
       ],
       "source_count": 2,
@@ -732,35 +285,35 @@
       ],
       "items": [
         {
-          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T13:01:01Z"
+          "published_at": "2026-10-09T17:20:34Z"
         },
         {
-          "id": "6b25054c9d4aec6ddef45d7c6f81e4d7902c67d4",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "id": "38114305a7f00064a822d4e212938c07a9531189",
+          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-08T13:01:01Z"
+          "published_at": "2026-10-09T17:20:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.9083,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -769,60 +322,203 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T13:01:01Z",
-      "latest_at": "2026-10-08T13:01:01Z",
+      "earliest_at": "2026-10-09T17:20:34Z",
+      "latest_at": "2026-10-09T17:20:34Z",
       "primary_item": {
-        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+        "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+        "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_924cb8a4a645",
-      "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-      "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
+      "story_id": "story_edd58468d564",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "primary_url": "https://openai.com/index/sophos",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1f9823f40d994730810318520de0f53b02b350ca",
-          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T16:42:42Z"
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "1f9823f40d994730810318520de0f53b02b350ca",
-          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-          "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T16:42:42Z"
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T07:00:00Z",
+      "latest_at": "2026-10-09T07:00:00Z",
+      "primary_item": {
+        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bebb9adce373",
+      "title": "音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格",
+      "url": "https://www.aibase.com/news/31510",
+      "primary_url": "https://www.aibase.com/news/31510",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0d7244f1ea28daae69a8acc58dcf1c162afb7f3f",
+          "title": "音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格",
+          "url": "https://www.aibase.com/news/31510",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T19:00:04.113366Z"
+        },
+        {
+          "id": "b0f0b01896344685ee556bdf49615e0170a5bd5e",
+          "title": "音频大模型记不住谁在说话？墨大新基准 VoxMem 揭穿：32K 上下文下全员不及格",
+          "url": "https://www.aibase.com/zh/news/31510",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0d7244f1ea28daae69a8acc58dcf1c162afb7f3f",
+          "title": "音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格",
+          "url": "https://www.aibase.com/news/31510",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T19:00:04.113366Z"
+        },
+        {
+          "id": "b0f0b01896344685ee556bdf49615e0170a5bd5e",
+          "title": "音频大模型记不住谁在说话？墨大新基准 VoxMem 揭穿：32K 上下文下全员不及格",
+          "url": "https://www.aibase.com/zh/news/31510",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9001,
+        "recency": 0.9303,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T19:00:04.113366Z",
+      "latest_at": "2026-10-10T00:00:04.113366Z",
+      "primary_item": {
+        "id": "0d7244f1ea28daae69a8acc58dcf1c162afb7f3f",
+        "title": "音频大模型记不住谁在说话？墨大新基准VoxMem揭穿：32K上下文下全员不及格",
+        "url": "https://www.aibase.com/news/31510",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_702ec1f96a32",
+      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:11:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:11:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -830,32 +526,333 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T16:42:42Z",
-      "latest_at": "2026-10-08T16:42:42Z",
+      "earliest_at": "2026-10-09T22:11:18Z",
+      "latest_at": "2026-10-09T22:11:18Z",
       "primary_item": {
-        "id": "1f9823f40d994730810318520de0f53b02b350ca",
-        "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
-        "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_bf9a6e3edb2d",
-      "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
-      "url": "https://www.aibase.com/news/31479",
-      "primary_url": "https://www.aibase.com/news/31479",
+      "story_id": "story_e436320cbb36",
+      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+      "url": "https://x.com/arcprize/status/2108578092558250148",
+      "primary_url": "https://x.com/arcprize/status/2108578092558250148",
+      "source": "X：ARC Prize (@arcprize)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
+          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+          "url": "https://x.com/arcprize/status/2108578092558250148",
+          "source": "X：ARC Prize (@arcprize)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T15:19:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：ARC Prize (@arcprize)"
+      ],
+      "items": [
+        {
+          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
+          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+          "url": "https://x.com/arcprize/status/2108578092558250148",
+          "source": "X：ARC Prize (@arcprize)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T15:19:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8822,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T15:19:27Z",
+      "latest_at": "2026-10-09T15:19:27Z",
+      "primary_item": {
+        "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
+        "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+        "url": "https://x.com/arcprize/status/2108578092558250148",
+        "source": "X：ARC Prize (@arcprize)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d8e692c54664",
+      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+      "url": "https://sierra.ai/blog/poppy",
+      "primary_url": "https://sierra.ai/blog/poppy",
+      "source": "Sierra：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+          "url": "https://sierra.ai/blog/poppy",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T19:56:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Sierra：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+          "url": "https://sierra.ai/blog/poppy",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T19:56:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.943,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T19:56:06Z",
+      "latest_at": "2026-10-09T19:56:06Z",
+      "primary_item": {
+        "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+        "url": "https://sierra.ai/blog/poppy",
+        "source": "Sierra：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_98153a63a36e",
+      "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+      "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+      "primary_url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+      "source": "Redwood Research：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
+          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+          "source": "Redwood Research：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:06:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Redwood Research：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
+          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+          "source": "Redwood Research：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:06:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9731,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T22:06:51Z",
+      "latest_at": "2026-10-09T22:06:51Z",
+      "primary_item": {
+        "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
+        "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+        "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+        "source": "Redwood Research：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_27e99f3d8f98",
+      "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
+      "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+      "primary_url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+      "source": "Epoch AI：Gradient Updates（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5cbb0d656643d05afd840ba27d4abe7983e3e59a",
+          "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
+          "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+          "source": "Epoch AI：Gradient Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T18:41:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Epoch AI：Gradient Updates（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5cbb0d656643d05afd840ba27d4abe7983e3e59a",
+          "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
+          "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+          "source": "Epoch AI：Gradient Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T18:41:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9261,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T18:41:00Z",
+      "latest_at": "2026-10-09T18:41:00Z",
+      "primary_item": {
+        "id": "5cbb0d656643d05afd840ba27d4abe7983e3e59a",
+        "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
+        "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+        "source": "Epoch AI：Gradient Updates（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7bff145dd415",
+      "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+      "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "primary_url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+          "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T06:17:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Newsroom (@OpenAINewsroom)"
+      ],
+      "items": [
+        {
+          "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+          "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+          "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T06:17:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T06:17:00Z",
+      "latest_at": "2026-10-09T06:17:00Z",
+      "primary_item": {
+        "id": "c9a79fec44485cd24f540e96e9add155d83d27c6",
+        "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+        "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_58302715fcbf",
+      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+      "url": "https://www.aibase.com/news/31509",
+      "primary_url": "https://www.aibase.com/news/31509",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "de9f6ed81b804e78b6972547007343537c80d63a",
-          "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
-          "url": "https://www.aibase.com/news/31479",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "url": "https://www.aibase.com/news/31509",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T19:00:05.623132Z"
+          "published_at": "2026-10-09T17:00:04.113366Z"
         }
       ],
       "source_count": 1,
@@ -864,26 +861,26 @@
       ],
       "items": [
         {
-          "id": "de9f6ed81b804e78b6972547007343537c80d63a",
-          "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
-          "url": "https://www.aibase.com/news/31479",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "url": "https://www.aibase.com/news/31509",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T19:00:05.623132Z"
+          "published_at": "2026-10-09T17:00:04.113366Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -891,60 +888,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T19:00:05.623132Z",
-      "latest_at": "2026-10-08T19:00:05.623132Z",
+      "earliest_at": "2026-10-09T17:00:04.113366Z",
+      "latest_at": "2026-10-09T17:00:04.113366Z",
       "primary_item": {
-        "id": "de9f6ed81b804e78b6972547007343537c80d63a",
-        "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
-        "url": "https://www.aibase.com/news/31479",
+        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "url": "https://www.aibase.com/news/31509",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_170716cf4b08",
-      "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
-      "url": "https://x.com/arena/status/2108286973119230096",
-      "primary_url": "https://x.com/arena/status/2108286973119230096",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_5036975c4c72",
+      "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+      "url": "https://www.aibase.com/news/31507",
+      "primary_url": "https://www.aibase.com/news/31507",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "cb70444289d225259185e111775704de9937833a",
-          "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
-          "url": "https://x.com/arena/status/2108286973119230096",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T20:02:39Z"
+          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "url": "https://www.aibase.com/news/31507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T17:00:04.113366Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "cb70444289d225259185e111775704de9937833a",
-          "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
-          "url": "https://x.com/arena/status/2108286973119230096",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T20:02:39Z"
+          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "url": "https://www.aibase.com/news/31507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T17:00:04.113366Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,395 +949,533 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T20:02:39Z",
-      "latest_at": "2026-10-08T20:02:39Z",
+      "earliest_at": "2026-10-09T17:00:04.113366Z",
+      "latest_at": "2026-10-09T17:00:04.113366Z",
       "primary_item": {
-        "id": "cb70444289d225259185e111775704de9937833a",
-        "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
-        "url": "https://x.com/arena/status/2108286973119230096",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
+        "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+        "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+        "url": "https://www.aibase.com/news/31507",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
+      "story_id": "story_2a1c784f84b9",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "primary_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "257c700d696e222d38e413db4d2335e6964a70dd",
-          "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T00:36:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "257c700d696e222d38e413db4d2335e6964a70dd",
-          "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T00:36:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7132,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T00:36:00Z",
-      "latest_at": "2026-10-08T00:36:00Z",
-      "primary_item": {
-        "id": "257c700d696e222d38e413db4d2335e6964a70dd",
-        "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5ae593074929",
-      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-      "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "primary_url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "source": "Comfy Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-          "source": "Comfy Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T19:01:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Comfy Blog"
-      ],
-      "items": [
-        {
-          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-          "source": "Comfy Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T19:01:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9306,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T19:01:22Z",
-      "latest_at": "2026-10-08T19:01:22Z",
-      "primary_item": {
-        "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-        "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-        "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-        "source": "Comfy Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a49cf4f91473",
-      "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
-      "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
-      "primary_url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
-      "source": "Claude：YouTube（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1a3a4140130097b5826407cc03271420f5e3c849",
-          "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
-          "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T15:53:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：YouTube（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1a3a4140130097b5826407cc03271420f5e3c849",
-          "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
-          "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T15:53:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8894,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T15:53:13Z",
-      "latest_at": "2026-10-08T15:53:13Z",
-      "primary_item": {
-        "id": "1a3a4140130097b5826407cc03271420f5e3c849",
-        "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
-        "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
-        "source": "Claude：YouTube（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85789f272dcb",
-      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-      "primary_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
-        },
-        {
-          "id": "b9e82e0abfdf43274940059ab353896d88b6a526",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-          "source": "The Decoder AI News",
+          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-08T09:24:17Z"
+          "published_at": "2026-10-09T19:36:56Z"
+        },
+        {
+          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
+          "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T20:00:30Z"
+        },
+        {
+          "id": "25d10010a131526956cfc84c46ea6177e4f4ea70",
+          "title": "An Anthropic AI model sent a false homicide tip to the police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-09T19:44:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Engadget",
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:36:56Z"
+        },
+        {
+          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
+          "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T20:00:30Z"
+        },
+        {
+          "id": "25d10010a131526956cfc84c46ea6177e4f4ea70",
+          "title": "An Anthropic AI model sent a false homicide tip to the police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-09T19:44:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6752,
+      "importance": 0.6752,
+      "importance_score": 0.6752,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9386,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T19:36:56Z",
+      "latest_at": "2026-10-09T20:00:30Z",
+      "primary_item": {
+        "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-09",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
+          "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T00:00:04.113366Z"
+        },
+        {
+          "id": "789a8c4aa8a56782c6f7aa4b8536f9178a647f62",
+          "title": "想读懂Opus 5.5掀起的行业变革？词元之外的第五期播客深度拆解了AI对游戏、软件、硬件领域的冲击。借助模型强大的代码能力，快速开发游戏Demo、复刻游戏、仿制软件、编写硬件固件都不再困难，传统技术壁垒正在被快速瓦解，法律也难以跟上技术发展；IP共识、硬件入口与开放生态，或将成为未来突围的核心抓手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T00:00:04.113366Z"
+        },
+        {
+          "id": "9b3dc06d2297bc47d785c8f421176e626bc4e6c9",
+          "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T00:00:04.113366Z"
+        },
+        {
+          "id": "5d9b00eb1ca1bcca5bfe387a7dbcadf37d11e110",
+          "title": "现在人们谈论智能体时，会用到五个词：上下文工程、循环工程、Jev 工程、harness工程、评估工程。这篇文章带你详细拆解下它们到底是什么关系。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T00:00:04.113366Z"
+        },
+        {
+          "id": "5913a67111ba5e0145d594d4c09012c1f8a7e91d",
+          "title": "OpenAI带来Intelligent UI交互能力，彻底跳出纯文本回复模式。对话内可直接生成可操作组件：滑块、动态图表、清单计算器，甚至简易小游戏。不管是规划聚餐采购、定制旅行穿搭，还是理解三门问题、中心极限定理这类抽象知识，都能通过交互直观上手。还能按需快速搭建分账工具、储蓄计算器等轻应用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "90910426d379e0420cb56bdff0aa33a38a4670e5",
+          "title": "REA 是面向AI智能体的本地逆向工程工具，最近爆火，已经突破2万star。借助它，无需源码，你就能对原生二进制、Electron、.NET程序与网站做分析。还可对接Hopper/Ghidra，搭配Cursor、Claude Code等主流编程智能体，通过一句话指令，完成反编译、调用图追踪，解析目标功能逻辑，再生成适配你项目的实现代码。整套分析在本机运行，不上传二进制，支持CLI与MCP双入口，给开发者提供了从功能调研到代码复刻的完整本地逆向工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "6cfa2d0f8fc9faf6fec04ae39f0bb74176a2e8ab",
+          "title": "想拥有持续后台执行任务的 AI 个人助手？老金这篇实测带你吃透 OpenAI Dot。手机下发指令就能持续推进项目，无需全程值守。文中附带代码开发、课程校对、视频制作、作业审阅等真实落地案例，帮你快速上手搭建属于自己的AI助手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "78ea3aa99da0b1ac790a3740c34577919c821c86",
+          "title": "藏师傅整合里三套开源Skill，自动抓取X收藏、资讯站点等多源信息，严格校验数据真实性，输出文字简报与90秒横屏讲解视频。文末附带可直接复制的提示词，Muse、Dots等带云电脑的Agent都能复用，帮你搭建属于自己的每日资讯自动产出系统。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "547d4b2f5e733d1731a744785aac04a0dca64044",
+          "title": "还在纠结LLM多GPU分布式推理怎么选型？这份指南拆解了各类并行方案的通信开销与取舍逻辑，覆盖流水线、上下文、专家、数据并行主流策略。你可以结合硬件拓扑、模型类型与业务负载，判断该用哪种并行组合，合理分摊权重与KV缓存，规避跨设备通信拖慢推理速度的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "7e02d26b799b08ad5831a66b1ed2f25ff1506c6c",
+          "title": "这份AI创意摄影手册，教你把普通旅行照片转化成充满故事感的艺术作品。文中有8大创意玩法与43条可直接复制的提示词，涵盖旅行海报、微缩食物幻想、时空合影、情绪叙事线等创意方向。来随手上传你的旅行照片，试试效果！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        }
+      ],
+      "source_count": 10,
+      "source_names": [
+        "社区更新 · 2026-10-08",
+        "社区更新 · 2026-10-09"
+      ],
+      "items": [
+        {
+          "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
+          "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T00:00:04.113366Z"
+        },
+        {
+          "id": "789a8c4aa8a56782c6f7aa4b8536f9178a647f62",
+          "title": "想读懂Opus 5.5掀起的行业变革？词元之外的第五期播客深度拆解了AI对游戏、软件、硬件领域的冲击。借助模型强大的代码能力，快速开发游戏Demo、复刻游戏、仿制软件、编写硬件固件都不再困难，传统技术壁垒正在被快速瓦解，法律也难以跟上技术发展；IP共识、硬件入口与开放生态，或将成为未来突围的核心抓手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T00:00:04.113366Z"
+        },
+        {
+          "id": "9b3dc06d2297bc47d785c8f421176e626bc4e6c9",
+          "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T00:00:04.113366Z"
+        },
+        {
+          "id": "5d9b00eb1ca1bcca5bfe387a7dbcadf37d11e110",
+          "title": "现在人们谈论智能体时，会用到五个词：上下文工程、循环工程、Jev 工程、harness工程、评估工程。这篇文章带你详细拆解下它们到底是什么关系。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T00:00:04.113366Z"
+        },
+        {
+          "id": "5913a67111ba5e0145d594d4c09012c1f8a7e91d",
+          "title": "OpenAI带来Intelligent UI交互能力，彻底跳出纯文本回复模式。对话内可直接生成可操作组件：滑块、动态图表、清单计算器，甚至简易小游戏。不管是规划聚餐采购、定制旅行穿搭，还是理解三门问题、中心极限定理这类抽象知识，都能通过交互直观上手。还能按需快速搭建分账工具、储蓄计算器等轻应用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "90910426d379e0420cb56bdff0aa33a38a4670e5",
+          "title": "REA 是面向AI智能体的本地逆向工程工具，最近爆火，已经突破2万star。借助它，无需源码，你就能对原生二进制、Electron、.NET程序与网站做分析。还可对接Hopper/Ghidra，搭配Cursor、Claude Code等主流编程智能体，通过一句话指令，完成反编译、调用图追踪，解析目标功能逻辑，再生成适配你项目的实现代码。整套分析在本机运行，不上传二进制，支持CLI与MCP双入口，给开发者提供了从功能调研到代码复刻的完整本地逆向工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "6cfa2d0f8fc9faf6fec04ae39f0bb74176a2e8ab",
+          "title": "想拥有持续后台执行任务的 AI 个人助手？老金这篇实测带你吃透 OpenAI Dot。手机下发指令就能持续推进项目，无需全程值守。文中附带代码开发、课程校对、视频制作、作业审阅等真实落地案例，帮你快速上手搭建属于自己的AI助手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "78ea3aa99da0b1ac790a3740c34577919c821c86",
+          "title": "藏师傅整合里三套开源Skill，自动抓取X收藏、资讯站点等多源信息，严格校验数据真实性，输出文字简报与90秒横屏讲解视频。文末附带可直接复制的提示词，Muse、Dots等带云电脑的Agent都能复用，帮你搭建属于自己的每日资讯自动产出系统。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "547d4b2f5e733d1731a744785aac04a0dca64044",
+          "title": "还在纠结LLM多GPU分布式推理怎么选型？这份指南拆解了各类并行方案的通信开销与取舍逻辑，覆盖流水线、上下文、专家、数据并行主流策略。你可以结合硬件拓扑、模型类型与业务负载，判断该用哪种并行组合，合理分摊权重与KV缓存，规避跨设备通信拖慢推理速度的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        },
+        {
+          "id": "7e02d26b799b08ad5831a66b1ed2f25ff1506c6c",
+          "title": "这份AI创意摄影手册，教你把普通旅行照片转化成充满故事感的艺术作品。文中有8大创意玩法与43条可直接复制的提示词，涵盖旅行海报、微缩食物幻想、时空合影、情绪叙事线等创意方向。来随手上传你的旅行照片，试试效果！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-09T00:00:05.623132Z"
+        }
+      ],
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T00:00:05.623132Z",
+      "latest_at": "2026-10-10T00:00:04.113366Z",
+      "primary_item": {
+        "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
+        "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-09",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_750e71b5f86c",
+      "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+      "url": "https://www.aibase.com/news/31506",
+      "primary_url": "https://www.aibase.com/news/31506",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "url": "https://www.aibase.com/news/31506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T16:00:04.113366Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "url": "https://www.aibase.com/news/31506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T16:00:04.113366Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T16:00:04.113366Z",
+      "latest_at": "2026-10-09T16:00:04.113366Z",
+      "primary_item": {
+        "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+        "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+        "url": "https://www.aibase.com/news/31506",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b809afdd62b7",
+      "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+      "url": "https://www.aibase.com/news/31505",
+      "primary_url": "https://www.aibase.com/news/31505",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "url": "https://www.aibase.com/news/31505",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T16:00:04.113366Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "url": "https://www.aibase.com/news/31505",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T16:00:04.113366Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T16:00:04.113366Z",
+      "latest_at": "2026-10-09T16:00:04.113366Z",
+      "primary_item": {
+        "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+        "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+        "url": "https://www.aibase.com/news/31505",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d07dddd55da2",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:09:44Z"
+        },
+        {
+          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
+          "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T19:09:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
-        },
-        {
-          "id": "b9e82e0abfdf43274940059ab353896d88b6a526",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-          "source": "The Decoder AI News",
+          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-08T09:24:17Z"
+          "published_at": "2026-10-09T19:09:44Z"
+        },
+        {
+          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
+          "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T19:09:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
-      "importance_label": "行业动态",
+      "score": 0.6158,
+      "importance": 0.6158,
+      "importance_score": 0.6158,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9325,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-08T09:24:17Z",
-      "latest_at": "2026-10-08T09:24:17Z",
+      "earliest_at": "2026-10-09T19:09:44Z",
+      "latest_at": "2026-10-09T19:09:44Z",
       "primary_item": {
-        "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-        "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-        "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2059346474e3",
-      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-      "url": "https://x.com/thsottiaux/status/2108040921044639779",
-      "primary_url": "https://x.com/thsottiaux/status/2108040921044639779",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-          "url": "https://x.com/thsottiaux/status/2108040921044639779",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T03:44:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-          "url": "https://x.com/thsottiaux/status/2108040921044639779",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T03:44:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7464,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T03:44:55Z",
-      "latest_at": "2026-10-08T03:44:55Z",
-      "primary_item": {
-        "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-        "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-        "url": "https://x.com/thsottiaux/status/2108040921044639779",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_50827233e7bf",
-      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-      "url": "https://claude.dev/blog/building-effective-agent-automations",
-      "primary_url": "https://claude.dev/blog/building-effective-agent-automations",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-          "url": "https://claude.dev/blog/building-effective-agent-automations",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Claude.dev 开发者博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-          "url": "https://claude.dev/blog/building-effective-agent-automations",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
-      "primary_item": {
-        "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-        "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-        "url": "https://claude.dev/blog/building-effective-agent-automations",
-        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-        "source_name": "AI HOT"
+        "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+        "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     }
   ]
